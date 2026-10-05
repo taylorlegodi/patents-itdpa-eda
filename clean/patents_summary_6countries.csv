@@ -1,0 +1,199 @@
+country,field,num_patent_applications,num_patent_granted,group
+China,Spatial_and_Physical_Reasoning,421790,181065,Developing
+China,Banking_and_Finance,23532,6653,Developing
+China,Speech_Processing,29293,13053,Developing
+China,Bio_Inspired_Computing,52417,22091,Developing
+China,Markov_and_Bayesian_Models,55165,25523,Developing
+China,Business,117446,41221,Developing
+China,Control,36230,17868,Developing
+China,Transportation,76921,40809,Developing
+China,Planning_and_Scheduling,96943,34500,Developing
+China,Ontology_Engineering,66411,29119,Developing
+China,Telecommunications,82437,38290,Developing
+China,Robotics,25487,12212,Developing
+China,Security__eg_cybersecurity,44456,17648,Developing
+China,Computer_Vision,289111,137264,Developing
+China,Fuzzy_Logic,15899,6666,Developing
+China,Personal_Devices_and_Computing,469805,210659,Developing
+China,Education,9402,3779,Developing
+China,Knowledge_Representation,29798,10516,Developing
+China,Agricultural,14906,6286,Developing
+China,Measuring_and_Testing,78758,35486,Developing
+China,Computing_in_Government,15697,5958,Developing
+China,Other_and_Unspecified,200746,91731,Developing
+China,All,866702,377826,Developing
+China,Language_Processing,66237,27833,Developing
+China,Industrial_and_Manufacturing,63007,31170,Developing
+China,Distributed_AI,7977,3234,Developing
+China,Logic_Based_Knowledge_Systems,61215,21793,Developing
+China,Physical_Sciences_and_Engineering,866674,377810,Developing
+China,Search_Methods,19098,6641,Developing
+China,Analytics_and_Algorithms,74068,33730,Developing
+China,Energy_Management,76814,29463,Developing
+China,Life_Sciences,67897,26938,Developing
+China,Neural_Networks,600444,265893,Developing
+Germany,Telecommunications,1260,708,Developed
+Germany,Robotics,533,349,Developed
+Germany,Distributed_AI,100,47,Developed
+Germany,Agricultural,105,51,Developed
+Germany,Personal_Devices_and_Computing,3319,1672,Developed
+Germany,Analytics_and_Algorithms,1175,446,Developed
+Germany,Markov_and_Bayesian_Models,584,307,Developed
+Germany,Ontology_Engineering,123,61,Developed
+Germany,Logic_Based_Knowledge_Systems,510,294,Developed
+Germany,Measuring_and_Testing,2076,1016,Developed
+Germany,Bio_Inspired_Computing,378,194,Developed
+Germany,All,8873,3971,Developed
+Germany,Life_Sciences,871,505,Developed
+Germany,Speech_Processing,311,171,Developed
+Germany,Other_and_Unspecified,2856,1304,Developed
+Germany,Transportation,2493,1243,Developed
+Germany,Security__eg_cybersecurity,416,232,Developed
+Germany,Planning_and_Scheduling,450,232,Developed
+Germany,Industrial_and_Manufacturing,988,548,Developed
+Germany,Knowledge_Representation,213,118,Developed
+Germany,Search_Methods,258,117,Developed
+Germany,Control,2669,1391,Developed
+Germany,Spatial_and_Physical_Reasoning,3513,1731,Developed
+Germany,Physical_Sciences_and_Engineering,8873,3971,Developed
+Germany,Education,63,42,Developed
+Germany,Neural_Networks,5706,2489,Developed
+Germany,Fuzzy_Logic,57,30,Developed
+Germany,Banking_and_Finance,478,257,Developed
+Germany,Energy_Management,751,250,Developed
+Germany,Computer_Vision,3033,1433,Developed
+Germany,Language_Processing,224,101,Developed
+Germany,Business,507,265,Developed
+India,Planning_and_Scheduling,129,77,Developing
+India,Physical_Sciences_and_Engineering,714,524,Developing
+India,Ontology_Engineering,49,39,Developing
+India,All,742,524,Developing
+India,Markov_and_Bayesian_Models,118,90,Developing
+India,Computer_Vision,210,177,Developing
+India,Control,82,72,Developing
+India,Spatial_and_Physical_Reasoning,193,164,Developing
+India,Knowledge_Representation,119,82,Developing
+India,Bio_Inspired_Computing,51,33,Developing
+India,Industrial_and_Manufacturing,33,26,Developing
+India,Neural_Networks,299,235,Developing
+India,Security__eg_cybersecurity,50,37,Developing
+India,Speech_Processing,31,22,Developing
+India,Other_and_Unspecified,244,156,Developing
+India,Logic_Based_Knowledge_Systems,225,159,Developing
+India,Education,22,9,Developing
+India,Personal_Devices_and_Computing,485,383,Developing
+India,Robotics,38,29,Developing
+India,Analytics_and_Algorithms,62,51,Developing
+India,Telecommunications,141,106,Developing
+India,Life_Sciences,95,68,Developing
+India,Transportation,44,32,Developing
+India,Measuring_and_Testing,48,41,Developing
+India,Business,165,100,Developing
+India,Search_Methods,53,42,Developing
+India,Language_Processing,103,87,Developing
+India,Banking_and_Finance,32,19,Developing
+South Africa,Physical_Sciences_and_Engineering,19,9,Developing
+South Africa,Other_and_Unspecified,251,245,Developing
+South Africa,All,477,467,Developing
+South Africa,Neural_Networks,211,207,Developing
+Sweden,Neural_Networks,118,83,Developed
+Sweden,All,228,147,Developed
+Sweden,Personal_Devices_and_Computing,81,49,Developed
+Sweden,Physical_Sciences_and_Engineering,228,147,Developed
+Sweden,Robotics,35,26,Developed
+Sweden,Transportation,55,36,Developed
+Sweden,Life_Sciences,30,22,Developed
+Sweden,Other_and_Unspecified,94,57,Developed
+Sweden,Markov_and_Bayesian_Models,25,17,Developed
+Sweden,Computer_Vision,65,45,Developed
+Sweden,Measuring_and_Testing,60,49,Developed
+Sweden,Telecommunications,54,40,Developed
+Sweden,Agricultural,26,22,Developed
+Sweden,Industrial_and_Manufacturing,40,30,Developed
+Sweden,Spatial_and_Physical_Reasoning,104,74,Developed
+Sweden,Control,76,54,Developed
+United States,Agricultural,1203,848,Developed
+United States,All,107187,83698,Developed
+United States,Computer_Vision,31986,25984,Developed
+United States,Search_Methods,6728,5487,Developed
+United States,Personal_Devices_and_Computing,61833,51000,Developed
+United States,Fuzzy_Logic,953,771,Developed
+United States,Logic_Based_Knowledge_Systems,17409,14015,Developed
+United States,Telecommunications,27587,22333,Developed
+United States,Ontology_Engineering,3398,2754,Developed
+United States,Measuring_and_Testing,12318,9479,Developed
+United States,Knowledge_Representation,8186,6456,Developed
+United States,Neural_Networks,58550,45833,Developed
+United States,Other_and_Unspecified,35273,26894,Developed
+United States,Business,15019,11094,Developed
+United States,Speech_Processing,8128,6844,Developed
+United States,Robotics,4419,3419,Developed
+United States,Life_Sciences,14411,9503,Developed
+United States,Education,1393,981,Developed
+United States,Computing_in_Government,554,417,Developed
+United States,Markov_and_Bayesian_Models,11817,9666,Developed
+United States,Distributed_AI,2108,1546,Developed
+United States,Banking_and_Finance,5492,4253,Developed
+United States,Language_Processing,11292,9095,Developed
+United States,Planning_and_Scheduling,10190,7410,Developed
+United States,Bio_Inspired_Computing,5601,4322,Developed
+United States,Control,13903,11328,Developed
+United States,Physical_Sciences_and_Engineering,107181,83693,Developed
+United States,Security__eg_cybersecurity,10172,8586,Developed
+United States,Energy_Management,2489,1869,Developed
+United States,Analytics_and_Algorithms,10929,7860,Developed
+United States,Transportation,10635,8812,Developed
+United States,Spatial_and_Physical_Reasoning,34345,28360,Developed
+United States,Industrial_and_Manufacturing,4487,3483,Developed
+South Africa,Knowledge_Representation,0,0,Developing
+South Africa,Education,0,0,Developing
+South Africa,Control,0,0,Developing
+South Africa,Transportation,0,0,Developing
+Sweden,Computing_in_Government,0,0,Developed
+South Africa,Industrial_and_Manufacturing,1,0,Developing
+South Africa,Speech_Processing,1,0,Developing
+South Africa,Measuring_and_Testing,1,1,Developing
+South Africa,Analytics_and_Algorithms,1,1,Developing
+South Africa,Life_Sciences,1,1,Developing
+South Africa,Computing_in_Government,1,1,Developing
+South Africa,Distributed_AI,1,0,Developing
+South Africa,Agricultural,1,1,Developing
+Sweden,Ontology_Engineering,1,1,Developed
+Sweden,Fuzzy_Logic,1,0,Developed
+South Africa,Energy_Management,2,1,Developing
+South Africa,Search_Methods,2,1,Developing
+South Africa,Logic_Based_Knowledge_Systems,2,1,Developing
+South Africa,Security__eg_cybersecurity,2,1,Developing
+Sweden,Knowledge_Representation,2,2,Developed
+South Africa,Banking_and_Finance,3,2,Developing
+South Africa,Telecommunications,3,0,Developing
+South Africa,Computer_Vision,3,3,Developing
+India,Computing_in_Government,4,1,Developing
+Sweden,Education,4,0,Developed
+India,Agricultural,5,4,Developing
+South Africa,Fuzzy_Logic,5,5,Developing
+South Africa,Language_Processing,5,1,Developing
+Sweden,Speech_Processing,5,4,Developed
+Sweden,Distributed_AI,5,3,Developed
+South Africa,Spatial_and_Physical_Reasoning,6,3,Developing
+South Africa,Ontology_Engineering,7,7,Developing
+Sweden,Search_Methods,7,6,Developed
+Sweden,Bio_Inspired_Computing,7,4,Developed
+South Africa,Business,8,5,Developing
+South Africa,Planning_and_Scheduling,8,5,Developing
+South Africa,Bio_Inspired_Computing,10,9,Developing
+India,Energy_Management,11,6,Developing
+South Africa,Markov_and_Bayesian_Models,11,8,Developing
+Sweden,Language_Processing,12,7,Developed
+Sweden,Logic_Based_Knowledge_Systems,12,8,Developed
+India,Fuzzy_Logic,13,8,Developing
+South Africa,Robotics,14,14,Developing
+South Africa,Personal_Devices_and_Computing,15,6,Developing
+India,Distributed_AI,16,14,Developing
+Sweden,Banking_and_Finance,16,14,Developed
+Sweden,Planning_and_Scheduling,18,12,Developed
+Sweden,Security__eg_cybersecurity,18,13,Developed
+Sweden,Business,20,13,Developed
+Germany,Computing_in_Government,21,13,Developed
+Sweden,Energy_Management,21,11,Developed
+Sweden,Analytics_and_Algorithms,29,22,Developed

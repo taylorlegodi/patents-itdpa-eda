@@ -1,0 +1,1981 @@
+country,field,year,num_patent_applications,complete,group
+China,All,2022,107425,False,Developing
+United States,All,2025,242,False,Developed
+India,All,2020,12,True,Developing
+India,All,2021,6,True,Developing
+United States,Analytics and Algorithms,2020,1808,True,Developed
+Germany,Analytics and Algorithms,2021,158,True,Developed
+China,Analytics and Algorithms,2023,12502,False,Developing
+Germany,Banking and Finance,2020,58,True,Developed
+Sweden,Bio-Inspired Computing,2016,0,True,Developed
+Germany,Business,2016,28,True,Developed
+India,Computer Vision,2020,4,True,Developing
+South Africa,Computer Vision,2025,0,False,Developing
+India,Computing in Government,2022,0,False,Developing
+South Africa,Computing in Government,2021,0,True,Developing
+United States,Control Methods,2023,726,False,Developed
+Sweden,Control Methods,2020,12,True,Developed
+Germany,Distributed AI,2021,7,True,Developed
+United States,Distributed AI,2021,309,True,Developed
+Sweden,Education,2022,1,False,Developed
+China,Education,2019,751,True,Developing
+South Africa,Fuzzy Logic,2017,1,True,Developing
+India,Fuzzy Logic,2022,0,False,Developing
+China,Industry and Manufacturing,2024,13409,False,Developing
+South Africa,Industry and Manufacturing,2018,0,True,Developing
+United States,Industry and Manufacturing,2019,775,True,Developed
+South Africa,Knowledge Representation,2025,0,False,Developing
+South Africa,Natural Language Processing,2024,2,False,Developing
+Germany,Natural Language Processing,2016,9,True,Developed
+Sweden,Life Sciences,2025,0,False,Developed
+Sweden,Markov and Bayesian Models,2017,1,True,Developed
+Germany,Markov and Bayesian Models,2016,20,True,Developed
+India,Markov and Bayesian Models,2017,49,True,Developing
+Sweden,Measuring and Testing,2025,1,False,Developed
+Germany,Measuring and Testing,2017,133,True,Developed
+China,Neural Networks,2016,4207,True,Developing
+China,Neural Networks,2025,129486,False,Developing
+Germany,Neural Networks,2020,812,True,Developed
+United States,Ontology Engineering,2019,511,True,Developed
+Sweden,Other and Unspecified,2020,15,True,Developed
+United States,Other and Unspecified,2023,3096,False,Developed
+India,Personal Devices and Computing,2024,0,False,Developing
+United States,Physical Sciences and Engineering,2023,8056,False,Developed
+India,Physical Sciences and Engineering,2024,0,False,Developing
+Germany,Physical Sciences and Engineering,2021,1174,True,Developed
+China,Planning and Scheduling,2019,4610,True,Developing
+China,Planning and Scheduling,2024,21279,False,Developing
+China,Planning and Scheduling,2025,23239,False,Developing
+Sweden,Robotics,2016,0,True,Developed
+Sweden,Search Methods,2022,0,False,Developed
+India,Security,2017,14,True,Developing
+South Africa,Security,2023,0,False,Developing
+Germany,Security,2018,42,True,Developed
+Germany,Security,2023,69,False,Developed
+Germany,Spatial and Physical Reasoning,2020,456,True,Developed
+South Africa,Telecommunications,2021,0,True,Developing
+South Africa,Transportation,2017,0,True,Developing
+Germany,Transportation,2017,207,True,Developed
+Sweden,Transportation,2017,6,True,Developed
+Sweden,Agriculture,2024,2,False,Developed
+South Africa,Agriculture,2021,0,True,Developing
+South Africa,Agriculture,2023,0,False,Developing
+United States,Business,2017,1984,True,Developed
+South Africa,Business,2021,0,True,Developing
+Germany,Computer Vision,2021,444,True,Developed
+Germany,Computing in Government,2019,2,True,Developed
+United States,Control Methods,2021,1580,True,Developed
+United States,Distributed AI,2016,76,True,Developed
+South Africa,Distributed AI,2020,0,True,Developing
+United States,Education,2018,223,True,Developed
+India,Energy Management,2022,1,False,Developing
+China,Energy Management,2023,13329,False,Developing
+Sweden,Knowledge Representation,2019,0,True,Developed
+China,Knowledge Representation,2022,1762,False,Developing
+Sweden,Natural Language Processing,2018,0,True,Developed
+United States,Life Sciences,2018,2009,True,Developed
+South Africa,Life Sciences,2024,0,False,Developing
+South Africa,Logic-Based Knowledge Systems,2025,1,False,Developing
+United States,Logic-Based Knowledge Systems,2025,14,False,Developed
+United States,Markov and Bayesian Models,2020,1820,True,Developed
+United States,Markov and Bayesian Models,2025,21,False,Developed
+China,Markov and Bayesian Models,2019,2958,True,Developing
+Sweden,Measuring and Testing,2019,5,True,Developed
+Germany,Measuring and Testing,2023,321,False,Developed
+China,Neural Networks,2021,62718,True,Developing
+South Africa,Ontology Engineering,2020,0,True,Developing
+Sweden,Other and Unspecified,2018,18,True,Developed
+Germany,Personal Devices and Computing,2025,67,False,Developed
+South Africa,Personal Devices and Computing,2023,0,False,Developing
+United States,Physical Sciences and Engineering,2020,16913,True,Developed
+Sweden,Physical Sciences and Engineering,2017,13,True,Developed
+India,Physical Sciences and Engineering,2017,266,True,Developing
+China,Physical Sciences and Engineering,2024,176802,False,Developing
+Germany,Physical Sciences and Engineering,2017,489,True,Developed
+Sweden,Planning and Scheduling,2017,0,True,Developed
+Sweden,Planning and Scheduling,2021,2,True,Developed
+Germany,Robotics,2023,58,False,Developed
+South Africa,Search Methods,2020,0,True,Developing
+India,Security,2022,0,False,Developing
+South Africa,Security,2018,0,True,Developing
+Germany,Telecommunications,2019,150,True,Developed
+India,Telecommunications,2023,0,False,Developing
+South Africa,Transportation,2016,0,True,Developing
+China,Agriculture,2018,337,True,Developing
+South Africa,All,2024,134,False,Developing
+India,All,2023,11,False,Developing
+United States,Analytics and Algorithms,2019,1624,True,Developed
+Sweden,Analytics and Algorithms,2017,3,True,Developed
+India,Analytics and Algorithms,2018,13,True,Developing
+United States,Bio-Inspired Computing,2018,1064,True,Developed
+United States,Bio-Inspired Computing,2025,12,False,Developed
+Sweden,Business,2019,0,True,Developed
+Sweden,Computer Vision,2023,12,False,Developed
+South Africa,Control Methods,2017,0,True,Developing
+Sweden,Education,2024,0,False,Developed
+China,Education,2016,138,True,Developing
+China,Energy Management,2019,2769,True,Developing
+South Africa,Fuzzy Logic,2021,0,True,Developing
+Sweden,Knowledge Representation,2024,0,False,Developed
+China,Knowledge Representation,2019,365,True,Developing
+South Africa,Natural Language Processing,2021,0,True,Developing
+South Africa,Natural Language Processing,2022,0,False,Developing
+Sweden,Life Sciences,2017,0,True,Developed
+India,Markov and Bayesian Models,2021,0,True,Developing
+China,Measuring and Testing,2020,5711,True,Developing
+China,Measuring and Testing,2021,6183,True,Developing
+India,Measuring and Testing,2018,18,True,Developing
+United States,Neural Networks,2023,4632,False,Developed
+Sweden,Personal Devices and Computing,2022,8,False,Developed
+Sweden,Physical Sciences and Engineering,2019,20,True,Developed
+Germany,Security,2017,27,True,Developed
+South Africa,Spatial and Physical Reasoning,2024,0,False,Developing
+South Africa,Speech Processing,2019,0,True,Developing
+South Africa,Speech Processing,2024,0,False,Developing
+Sweden,Telecommunications,2025,0,False,Developed
+Germany,Agriculture,2019,17,True,Developed
+Sweden,Agriculture,2022,3,False,Developed
+South Africa,All,2022,71,False,Developing
+Germany,All,2019,987,True,Developed
+Germany,Analytics and Algorithms,2022,217,False,Developed
+United States,Banking and Finance,2021,706,True,Developed
+Germany,Banking and Finance,2021,78,True,Developed
+United States,Bio-Inspired Computing,2017,818,True,Developed
+China,Business,2020,9363,True,Developing
+South Africa,Computer Vision,2021,0,True,Developing
+India,Control Methods,2016,16,True,Developing
+Germany,Control Methods,2022,370,False,Developed
+Germany,Energy Management,2018,36,True,Developed
+South Africa,Energy Management,2024,0,False,Developing
+United States,Fuzzy Logic,2017,139,True,Developed
+Sweden,Industry and Manufacturing,2020,6,True,Developed
+South Africa,Industry and Manufacturing,2020,0,True,Developing
+United States,Industry and Manufacturing,2021,625,True,Developed
+Germany,Knowledge Representation,2016,15,True,Developed
+Germany,Knowledge Representation,2022,20,False,Developed
+China,Natural Language Processing,2017,1003,True,Developing
+China,Natural Language Processing,2023,10263,False,Developing
+South Africa,Life Sciences,2018,0,True,Developing
+India,Life Sciences,2016,25,True,Developing
+Germany,Measuring and Testing,2025,11,False,Developed
+South Africa,Ontology Engineering,2023,2,False,Developing
+South Africa,Other and Unspecified,2017,2,True,Developing
+United States,Personal Devices and Computing,2019,10541,True,Developed
+India,Personal Devices and Computing,2022,0,False,Developing
+Sweden,Physical Sciences and Engineering,2025,3,False,Developed
+Germany,Physical Sciences and Engineering,2022,1379,False,Developed
+India,Planning and Scheduling,2024,0,False,Developing
+United States,Robotics,2018,681,True,Developed
+Sweden,Search Methods,2019,0,True,Developed
+Sweden,Security,2019,0,True,Developed
+India,Security,2023,0,False,Developing
+Sweden,Spatial and Physical Reasoning,2022,18,False,Developed
+India,Transportation,2017,17,True,Developing
+China,Transportation,2022,9960,False,Developing
+China,Transportation,2023,16450,False,Developing
+Sweden,Transportation,2025,3,False,Developed
+Germany,Agriculture,2017,6,True,Developed
+Sweden,Agriculture,2017,2,True,Developed
+India,Agriculture,2021,0,True,Developing
+India,Agriculture,2024,0,False,Developing
+United States,Analytics and Algorithms,2025,31,False,Developed
+United States,Banking and Finance,2017,624,True,Developed
+India,Banking and Finance,2023,0,False,Developing
+Germany,Bio-Inspired Computing,2023,58,False,Developed
+United States,Bio-Inspired Computing,2023,269,False,Developed
+China,Bio-Inspired Computing,2017,1321,True,Developing
+India,Bio-Inspired Computing,2016,13,True,Developing
+United States,Computing in Government,2024,22,False,Developed
+South Africa,Computing in Government,2018,0,True,Developing
+China,Control Methods,2016,885,True,Developing
+China,Control Methods,2018,1840,True,Developing
+United States,Control Methods,2024,432,False,Developed
+India,Control Methods,2019,0,True,Developing
+Germany,Distributed AI,2022,18,False,Developed
+India,Education,2019,1,True,Developing
+South Africa,Fuzzy Logic,2020,0,True,Developing
+United States,Knowledge Representation,2021,886,True,Developed
+South Africa,Knowledge Representation,2024,0,False,Developing
+United States,Natural Language Processing,2021,1574,True,Developed
+United States,Life Sciences,2019,2240,True,Developed
+United States,Logic-Based Knowledge Systems,2018,3054,True,Developed
+United States,Measuring and Testing,2023,814,False,Developed
+South Africa,Neural Networks,2020,4,True,Developing
+Sweden,Ontology Engineering,2019,0,True,Developed
+China,Other and Unspecified,2017,5891,True,Developing
+Germany,Physical Sciences and Engineering,2023,1503,False,Developed
+South Africa,Search Methods,2018,2,True,Developing
+United States,Search Methods,2024,168,False,Developed
+Sweden,Search Methods,2016,1,True,Developed
+South Africa,Security,2019,0,True,Developing
+Sweden,Speech Processing,2019,0,True,Developed
+Germany,Telecommunications,2022,180,False,Developed
+China,Agriculture,2021,1135,True,Developing
+United States,Agriculture,2020,219,True,Developed
+China,All,2026,1881,False,Developing
+Germany,Banking and Finance,2025,18,False,Developed
+Sweden,Computer Vision,2021,11,True,Developed
+Germany,Computer Vision,2018,256,True,Developed
+United States,Computer Vision,2020,5225,True,Developed
+Sweden,Distributed AI,2018,1,True,Developed
+Sweden,Distributed AI,2022,1,False,Developed
+China,Distributed AI,2019,112,True,Developing
+India,Fuzzy Logic,2018,4,True,Developing
+India,Fuzzy Logic,2024,0,False,Developing
+Sweden,Industry and Manufacturing,2016,1,True,Developed
+China,Industry and Manufacturing,2021,5467,True,Developing
+Germany,Industry and Manufacturing,2025,6,False,Developed
+Sweden,Knowledge Representation,2017,0,True,Developed
+Germany,Knowledge Representation,2024,19,False,Developed
+India,Knowledge Representation,2016,28,True,Developing
+India,Knowledge Representation,2020,0,True,Developing
+China,Life Sciences,2024,14739,False,Developing
+Germany,Markov and Bayesian Models,2017,31,True,Developed
+United States,Markov and Bayesian Models,2018,2185,True,Developed
+United States,Markov and Bayesian Models,2019,2123,True,Developed
+China,Measuring and Testing,2016,873,True,Developing
+China,Neural Networks,2019,31746,True,Developing
+India,Neural Networks,2019,8,True,Developing
+Germany,Ontology Engineering,2018,17,True,Developed
+Sweden,Other and Unspecified,2021,10,True,Developed
+Germany,Other and Unspecified,2019,265,True,Developed
+China,Other and Unspecified,2020,20792,True,Developing
+Sweden,Planning and Scheduling,2020,3,True,Developed
+Germany,Security,2024,35,False,Developed
+China,Spatial and Physical Reasoning,2016,2491,True,Developing
+Sweden,Spatial and Physical Reasoning,2016,4,True,Developed
+Sweden,Speech Processing,2021,1,True,Developed
+China,Telecommunications,2024,15120,False,Developing
+Sweden,Telecommunications,2019,3,True,Developed
+India,Telecommunications,2021,0,True,Developing
+Germany,Transportation,2016,123,True,Developed
+India,Agriculture,2017,0,True,Developing
+India,Agriculture,2018,2,True,Developing
+Sweden,All,2017,13,True,Developed
+India,All,2019,12,True,Developing
+United States,Analytics and Algorithms,2018,1206,True,Developed
+India,Analytics and Algorithms,2017,31,True,Developing
+Sweden,Computer Vision,2018,8,True,Developed
+China,Computer Vision,2016,2086,True,Developing
+China,Control Methods,2017,1411,True,Developing
+Sweden,Distributed AI,2025,0,False,Developed
+Sweden,Education,2018,0,True,Developed
+China,Education,2021,1079,True,Developing
+Sweden,Energy Management,2022,4,False,Developed
+Germany,Fuzzy Logic,2022,5,False,Developed
+India,Natural Language Processing,2019,2,True,Developing
+Germany,Natural Language Processing,2022,32,False,Developed
+Sweden,Life Sciences,2021,3,True,Developed
+Germany,Neural Networks,2023,990,False,Developed
+Sweden,Ontology Engineering,2016,0,True,Developed
+China,Ontology Engineering,2020,4325,True,Developing
+United States,Other and Unspecified,2025,100,False,Developed
+India,Other and Unspecified,2024,2,False,Developing
+India,Personal Devices and Computing,2021,1,True,Developing
+Germany,Personal Devices and Computing,2019,455,True,Developed
+United States,Planning and Scheduling,2025,7,False,Developed
+Sweden,Robotics,2018,4,True,Developed
+Sweden,Robotics,2024,3,False,Developed
+United States,Robotics,2016,297,True,Developed
+United States,Robotics,2020,668,True,Developed
+South Africa,Search Methods,2016,0,True,Developing
+Germany,Security,2019,47,True,Developed
+India,Speech Processing,2021,0,True,Developing
+Germany,Telecommunications,2016,37,True,Developed
+India,Transportation,2023,0,False,Developing
+United States,Transportation,2017,1422,True,Developed
+Germany,Agriculture,2024,7,False,Developed
+China,All,2017,16473,True,Developing
+South Africa,Bio-Inspired Computing,2021,1,True,Developing
+India,Business,2021,0,True,Developing
+Germany,Business,2025,44,False,Developed
+United States,Computer Vision,2021,4989,True,Developed
+United States,Computing in Government,2025,1,False,Developed
+South Africa,Control Methods,2016,0,True,Developing
+India,Control Methods,2020,0,True,Developing
+Sweden,Distributed AI,2023,0,False,Developed
+Germany,Energy Management,2016,33,True,Developed
+Germany,Energy Management,2017,34,True,Developed
+Sweden,Fuzzy Logic,2021,0,True,Developed
+Sweden,Fuzzy Logic,2025,0,False,Developed
+China,Industry and Manufacturing,2023,12743,False,Developing
+South Africa,Industry and Manufacturing,2016,0,True,Developing
+South Africa,Knowledge Representation,2018,0,True,Developing
+China,Knowledge Representation,2020,702,True,Developing
+India,Natural Language Processing,2024,0,False,Developing
+South Africa,Life Sciences,2023,0,False,Developing
+Germany,Life Sciences,2016,37,True,Developed
+China,Measuring and Testing,2017,1385,True,Developing
+China,Measuring and Testing,2019,3909,True,Developing
+China,Measuring and Testing,2026,231,False,Developing
+United States,Neural Networks,2022,7114,False,Developed
+South Africa,Neural Networks,2019,1,True,Developing
+United States,Physical Sciences and Engineering,2016,6870,True,Developed
+South Africa,Physical Sciences and Engineering,2019,1,True,Developing
+India,Physical Sciences and Engineering,2023,0,False,Developing
+United States,Search Methods,2018,1267,True,Developed
+China,Speech Processing,2025,4663,False,Developing
+South Africa,Telecommunications,2022,0,False,Developing
+India,Telecommunications,2018,45,True,Developing
+India,Transportation,2021,0,True,Developing
+Sweden,Transportation,2020,5,True,Developed
+United States,Agriculture,2022,153,False,Developed
+South Africa,All,2018,7,True,Developing
+Germany,All,2024,972,False,Developed
+Sweden,Banking and Finance,2019,0,True,Developed
+Germany,Bio-Inspired Computing,2024,34,False,Developed
+South Africa,Bio-Inspired Computing,2019,0,True,Developing
+Germany,Business,2017,30,True,Developed
+South Africa,Business,2025,0,False,Developing
+South Africa,Computer Vision,2020,0,True,Developing
+United States,Computer Vision,2016,1553,True,Developed
+Germany,Computing in Government,2018,2,True,Developed
+China,Computing in Government,2026,24,False,Developing
+India,Computing in Government,2018,2,True,Developing
+United States,Computing in Government,2022,47,False,Developed
+United States,Distributed AI,2023,106,False,Developed
+United States,Education,2022,104,False,Developed
+Germany,Fuzzy Logic,2019,7,True,Developed
+China,Fuzzy Logic,2025,4045,False,Developing
+United States,Fuzzy Logic,2024,20,False,Developed
+Germany,Industry and Manufacturing,2021,155,True,Developed
+Germany,Knowledge Representation,2019,16,True,Developed
+Germany,Knowledge Representation,2025,15,False,Developed
+United States,Natural Language Processing,2020,1591,True,Developed
+Germany,Life Sciences,2024,88,False,Developed
+Sweden,Life Sciences,2023,4,False,Developed
+United States,Logic-Based Knowledge Systems,2023,620,False,Developed
+China,Logic-Based Knowledge Systems,2018,959,True,Developing
+China,Logic-Based Knowledge Systems,2026,466,False,Developing
+United States,Markov and Bayesian Models,2021,1336,True,Developed
+India,Markov and Bayesian Models,2020,0,True,Developing
+India,Measuring and Testing,2019,0,True,Developing
+United States,Measuring and Testing,2020,1955,True,Developed
+South Africa,Neural Networks,2025,53,False,Developing
+India,Neural Networks,2016,42,True,Developing
+United States,Ontology Engineering,2023,262,False,Developed
+United States,Physical Sciences and Engineering,2017,10911,True,Developed
+United States,Physical Sciences and Engineering,2024,5277,False,Developed
+China,Physical Sciences and Engineering,2023,135288,False,Developing
+Germany,Planning and Scheduling,2025,35,False,Developed
+China,Search Methods,2023,2614,False,Developing
+India,Security,2018,23,True,Developing
+Germany,Spatial and Physical Reasoning,2025,30,False,Developed
+United States,Speech Processing,2016,650,True,Developed
+China,Speech Processing,2024,4908,False,Developing
+Sweden,Speech Processing,2024,1,False,Developed
+Germany,Speech Processing,2020,31,True,Developed
+South Africa,Speech Processing,2017,1,True,Developing
+South Africa,Telecommunications,2019,0,True,Developing
+China,Transportation,2025,12263,False,Developing
+South Africa,Agriculture,2018,0,True,Developing
+Germany,All,2022,1379,False,Developed
+China,All,2021,92950,True,Developing
+China,All,2025,176830,False,Developing
+China,Analytics and Algorithms,2016,302,True,Developing
+India,Banking and Finance,2021,0,True,Developing
+China,Bio-Inspired Computing,2024,11856,False,Developing
+United States,Business,2016,1373,True,Developed
+United States,Computing in Government,2020,151,True,Developed
+Sweden,Distributed AI,2020,1,True,Developed
+South Africa,Knowledge Representation,2017,0,True,Developing
+South Africa,Natural Language Processing,2025,0,False,Developing
+United States,Natural Language Processing,2016,766,True,Developed
+South Africa,Life Sciences,2021,0,True,Developing
+United States,Logic-Based Knowledge Systems,2016,1653,True,Developed
+Sweden,Logic-Based Knowledge Systems,2020,0,True,Developed
+Germany,Markov and Bayesian Models,2020,89,True,Developed
+China,Other and Unspecified,2022,27809,False,Developing
+United States,Personal Devices and Computing,2022,5069,False,Developed
+Sweden,Personal Devices and Computing,2025,0,False,Developed
+India,Planning and Scheduling,2020,0,True,Developing
+India,Planning and Scheduling,2021,0,True,Developing
+Sweden,Robotics,2021,7,True,Developed
+South Africa,Robotics,2016,0,True,Developing
+Germany,Robotics,2019,62,True,Developed
+China,Search Methods,2024,5241,False,Developing
+Sweden,Security,2024,1,False,Developed
+United States,Security,2024,539,False,Developed
+United States,Speech Processing,2019,1271,True,Developed
+India,Speech Processing,2020,1,True,Developing
+India,Speech Processing,2023,0,False,Developing
+China,Agriculture,2016,102,True,Developing
+Germany,All,2021,1174,True,Developed
+South Africa,Analytics and Algorithms,2016,0,True,Developing
+South Africa,Analytics and Algorithms,2021,0,True,Developing
+China,Analytics and Algorithms,2026,196,False,Developing
+Germany,Banking and Finance,2023,71,False,Developed
+Sweden,Bio-Inspired Computing,2020,1,True,Developed
+South Africa,Bio-Inspired Computing,2025,1,False,Developing
+United States,Computer Vision,2019,4868,True,Developed
+Sweden,Distributed AI,2024,0,False,Developed
+India,Distributed AI,2023,0,False,Developing
+China,Distributed AI,2026,29,False,Developing
+United States,Education,2024,74,False,Developed
+Germany,Fuzzy Logic,2017,6,True,Developed
+China,Industry and Manufacturing,2018,1691,True,Developing
+China,Industry and Manufacturing,2019,2674,True,Developing
+South Africa,Industry and Manufacturing,2024,0,False,Developing
+Germany,Life Sciences,2025,24,False,Developed
+China,Markov and Bayesian Models,2021,5425,True,Developing
+Germany,Measuring and Testing,2016,65,True,Developed
+United States,Measuring and Testing,2025,12,False,Developed
+India,Neural Networks,2021,2,True,Developing
+China,Ontology Engineering,2021,6006,True,Developing
+United States,Other and Unspecified,2019,4788,True,Developed
+India,Other and Unspecified,2023,8,False,Developing
+Germany,Personal Devices and Computing,2023,464,False,Developed
+China,Personal Devices and Computing,2024,87831,False,Developing
+United States,Planning and Scheduling,2019,1530,True,Developed
+South Africa,Planning and Scheduling,2021,0,True,Developing
+Sweden,Robotics,2025,0,False,Developed
+India,Robotics,2016,10,True,Developing
+India,Robotics,2018,17,True,Developing
+United States,Robotics,2023,228,False,Developed
+Germany,Robotics,2025,2,False,Developed
+China,Security,2018,998,True,Developing
+South Africa,Security,2017,0,True,Developing
+Germany,Spatial and Physical Reasoning,2016,127,True,Developed
+South Africa,Spatial and Physical Reasoning,2022,0,False,Developing
+India,Spatial and Physical Reasoning,2023,0,False,Developing
+Sweden,Speech Processing,2020,2,True,Developed
+Germany,Speech Processing,2016,17,True,Developed
+South Africa,Transportation,2025,0,False,Developing
+South Africa,Agriculture,2017,0,True,Developing
+South Africa,Agriculture,2020,0,True,Developing
+South Africa,Agriculture,2024,0,False,Developing
+India,Agriculture,2019,0,True,Developing
+Germany,All,2017,489,True,Developed
+Sweden,Analytics and Algorithms,2023,1,False,Developed
+India,Analytics and Algorithms,2019,0,True,Developing
+Sweden,Bio-Inspired Computing,2017,0,True,Developed
+South Africa,Bio-Inspired Computing,2023,3,False,Developing
+China,Computer Vision,2018,8630,True,Developing
+South Africa,Computer Vision,2017,2,True,Developing
+United States,Computing in Government,2017,45,True,Developed
+China,Distributed AI,2021,427,True,Developing
+United States,Education,2017,173,True,Developed
+United States,Education,2019,195,True,Developed
+Germany,Education,2020,2,True,Developed
+China,Energy Management,2022,9447,False,Developing
+South Africa,Fuzzy Logic,2024,2,False,Developing
+India,Fuzzy Logic,2017,5,True,Developing
+India,Industry and Manufacturing,2023,0,False,Developing
+Germany,Industry and Manufacturing,2017,69,True,Developed
+China,Knowledge Representation,2021,1122,True,Developing
+Sweden,Ontology Engineering,2021,0,True,Developed
+India,Ontology Engineering,2018,17,True,Developing
+Germany,Ontology Engineering,2019,16,True,Developed
+India,Other and Unspecified,2016,49,True,Developing
+Sweden,Physical Sciences and Engineering,2024,20,False,Developed
+South Africa,Physical Sciences and Engineering,2024,2,False,Developing
+South Africa,Planning and Scheduling,2019,0,True,Developing
+South Africa,Planning and Scheduling,2024,0,False,Developing
+India,Search Methods,2020,0,True,Developing
+Sweden,Search Methods,2023,4,False,Developed
+Sweden,Spatial and Physical Reasoning,2025,0,False,Developed
+China,Speech Processing,2017,830,True,Developing
+China,Telecommunications,2017,1930,True,Developing
+South Africa,Transportation,2019,0,True,Developing
+Sweden,Transportation,2021,3,True,Developed
+Germany,Agriculture,2023,14,False,Developed
+Germany,Analytics and Algorithms,2023,234,False,Developed
+Germany,Business,2021,57,True,Developed
+Sweden,Computer Vision,2025,0,False,Developed
+United States,Computer Vision,2024,1428,False,Developed
+China,Computing in Government,2025,3789,False,Developing
+China,Control Methods,2023,4688,False,Developing
+India,Distributed AI,2018,7,True,Developing
+South Africa,Distributed AI,2016,0,True,Developing
+China,Energy Management,2024,18584,False,Developing
+China,Energy Management,2026,151,False,Developing
+Germany,Fuzzy Logic,2023,9,False,Developed
+United States,Industry and Manufacturing,2017,482,True,Developed
+South Africa,Knowledge Representation,2021,0,True,Developing
+Germany,Natural Language Processing,2018,12,True,Developed
+China,Logic-Based Knowledge Systems,2022,4260,False,Developing
+Sweden,Markov and Bayesian Models,2022,5,False,Developed
+Germany,Measuring and Testing,2021,275,True,Developed
+United States,Personal Devices and Computing,2016,4584,True,Developed
+Sweden,Personal Devices and Computing,2016,6,True,Developed
+Sweden,Personal Devices and Computing,2018,10,True,Developed
+India,Physical Sciences and Engineering,2016,156,True,Developing
+China,Physical Sciences and Engineering,2017,16473,True,Developing
+India,Planning and Scheduling,2023,0,False,Developing
+South Africa,Robotics,2020,0,True,Developing
+China,Robotics,2018,1298,True,Developing
+China,Robotics,2025,5103,False,Developing
+United States,Security,2018,1350,True,Developed
+South Africa,Security,2016,2,True,Developing
+United States,Spatial and Physical Reasoning,2022,3653,False,Developed
+India,Speech Processing,2024,0,False,Developing
+South Africa,Telecommunications,2024,0,False,Developing
+South Africa,All,2021,23,True,Developing
+Germany,All,2020,1186,True,Developed
+United States,Analytics and Algorithms,2024,599,False,Developed
+South Africa,Analytics and Algorithms,2022,0,False,Developing
+Germany,Banking and Finance,2022,62,False,Developed
+South Africa,Business,2018,1,True,Developing
+Sweden,Computer Vision,2016,1,True,Developed
+Sweden,Computing in Government,2022,0,False,Developed
+Germany,Computing in Government,2016,1,True,Developed
+South Africa,Computing in Government,2022,0,False,Developing
+China,Control Methods,2022,3890,False,Developing
+South Africa,Distributed AI,2022,0,False,Developing
+South Africa,Distributed AI,2023,0,False,Developing
+South Africa,Education,2016,0,True,Developing
+Germany,Energy Management,2021,94,True,Developed
+Germany,Energy Management,2022,121,False,Developed
+Germany,Energy Management,2025,3,False,Developed
+India,Energy Management,2024,0,False,Developing
+China,Energy Management,2017,1017,True,Developing
+China,Energy Management,2021,6210,True,Developing
+China,Industry and Manufacturing,2020,4149,True,Developing
+South Africa,Industry and Manufacturing,2017,0,True,Developing
+China,Knowledge Representation,2017,323,True,Developing
+United States,Natural Language Processing,2018,1524,True,Developed
+China,Markov and Bayesian Models,2020,4323,True,Developing
+South Africa,Markov and Bayesian Models,2016,0,True,Developing
+Sweden,Neural Networks,2021,14,True,Developed
+Sweden,Ontology Engineering,2024,0,False,Developed
+South Africa,Ontology Engineering,2021,0,True,Developing
+China,Ontology Engineering,2022,7365,False,Developing
+South Africa,Other and Unspecified,2018,1,True,Developing
+South Africa,Other and Unspecified,2021,8,True,Developing
+South Africa,Other and Unspecified,2022,39,False,Developing
+Germany,Personal Devices and Computing,2021,385,True,Developed
+Sweden,Planning and Scheduling,2019,0,True,Developed
+Sweden,Security,2022,5,False,Developed
+Germany,Spatial and Physical Reasoning,2022,531,False,Developed
+Sweden,Agriculture,2021,4,True,Developed
+China,All,2024,176802,False,Developing
+Germany,Computer Vision,2019,360,True,Developed
+China,Computer Vision,2019,15205,True,Developing
+South Africa,Computer Vision,2022,0,False,Developing
+Sweden,Computing in Government,2021,0,True,Developed
+South Africa,Computing in Government,2020,0,True,Developing
+United States,Control Methods,2020,2018,True,Developed
+United States,Energy Management,2022,281,False,Developed
+United States,Energy Management,2023,172,False,Developed
+Germany,Energy Management,2019,66,True,Developed
+Germany,Fuzzy Logic,2018,12,True,Developed
+United States,Fuzzy Logic,2021,87,True,Developed
+United States,Knowledge Representation,2019,1286,True,Developed
+Sweden,Knowledge Representation,2020,0,True,Developed
+China,Knowledge Representation,2018,315,True,Developing
+Sweden,Natural Language Processing,2021,0,True,Developed
+Sweden,Natural Language Processing,2022,0,False,Developed
+China,Natural Language Processing,2026,169,False,Developing
+United States,Life Sciences,2021,2174,True,Developed
+South Africa,Life Sciences,2020,0,True,Developing
+China,Logic-Based Knowledge Systems,2019,1113,True,Developing
+Sweden,Logic-Based Knowledge Systems,2024,0,False,Developed
+Germany,Markov and Bayesian Models,2023,91,False,Developed
+United States,Measuring and Testing,2021,1740,True,Developed
+Sweden,Neural Networks,2020,17,True,Developed
+Sweden,Other and Unspecified,2023,9,False,Developed
+China,Personal Devices and Computing,2025,96020,False,Developing
+South Africa,Personal Devices and Computing,2022,0,False,Developing
+China,Physical Sciences and Engineering,2021,92950,True,Developing
+South Africa,Planning and Scheduling,2023,0,False,Developing
+Germany,Robotics,2017,46,True,Developed
+Germany,Search Methods,2016,6,True,Developed
+United States,Spatial and Physical Reasoning,2017,3377,True,Developed
+China,Spatial and Physical Reasoning,2025,100333,False,Developing
+Sweden,Spatial and Physical Reasoning,2020,13,True,Developed
+Sweden,Speech Processing,2023,0,False,Developed
+Germany,Speech Processing,2019,38,True,Developed
+China,Telecommunications,2018,3286,True,Developing
+Sweden,Telecommunications,2021,7,True,Developed
+Sweden,Telecommunications,2022,8,False,Developed
+India,Telecommunications,2020,1,True,Developing
+South Africa,Transportation,2022,0,False,Developing
+Germany,Transportation,2023,369,False,Developed
+United States,Transportation,2016,937,True,Developed
+South Africa,Agriculture,2016,1,True,Developing
+United States,All,2018,14638,True,Developed
+South Africa,Banking and Finance,2025,0,False,Developing
+China,Business,2024,25348,False,Developing
+Sweden,Distributed AI,2017,0,True,Developed
+United States,Distributed AI,2025,4,False,Developed
+South Africa,Distributed AI,2025,0,False,Developing
+Germany,Education,2016,4,True,Developed
+China,Industry and Manufacturing,2022,8865,False,Developing
+United States,Knowledge Representation,2024,222,False,Developed
+Sweden,Knowledge Representation,2025,0,False,Developed
+United States,Life Sciences,2022,1769,False,Developed
+India,Life Sciences,2017,34,True,Developing
+Germany,Markov and Bayesian Models,2019,80,True,Developed
+South Africa,Measuring and Testing,2018,1,True,Developing
+United States,Ontology Engineering,2021,455,True,Developed
+United States,Physical Sciences and Engineering,2018,14637,True,Developed
+Sweden,Physical Sciences and Engineering,2023,34,False,Developed
+India,Physical Sciences and Engineering,2018,269,True,Developing
+China,Physical Sciences and Engineering,2020,71882,True,Developing
+Germany,Planning and Scheduling,2022,75,False,Developed
+Sweden,Search Methods,2021,1,True,Developed
+Sweden,Spatial and Physical Reasoning,2019,9,True,Developed
+Sweden,Spatial and Physical Reasoning,2021,17,True,Developed
+South Africa,Speech Processing,2022,0,False,Developing
+Sweden,Telecommunications,2016,3,True,Developed
+Germany,All,2023,1503,False,Developed
+China,Analytics and Algorithms,2022,9363,False,Developing
+India,Analytics and Algorithms,2024,0,False,Developing
+China,Banking and Finance,2026,19,False,Developing
+Germany,Banking and Finance,2017,31,True,Developed
+India,Banking and Finance,2017,16,True,Developing
+India,Bio-Inspired Computing,2024,0,False,Developing
+United States,Business,2025,16,False,Developed
+Sweden,Business,2016,3,True,Developed
+Sweden,Business,2024,2,False,Developed
+Sweden,Computer Vision,2019,7,True,Developed
+South Africa,Computing in Government,2017,0,True,Developing
+China,Control Methods,2025,8242,False,Developing
+South Africa,Control Methods,2018,0,True,Developing
+South Africa,Control Methods,2022,0,False,Developing
+India,Control Methods,2023,0,False,Developing
+Germany,Control Methods,2018,295,True,Developed
+Germany,Distributed AI,2024,8,False,Developed
+China,Distributed AI,2022,739,False,Developing
+South Africa,Energy Management,2022,0,False,Developing
+South Africa,Fuzzy Logic,2019,0,True,Developing
+Sweden,Fuzzy Logic,2020,1,True,Developed
+China,Fuzzy Logic,2019,783,True,Developing
+China,Fuzzy Logic,2024,3514,False,Developing
+United States,Fuzzy Logic,2020,113,True,Developed
+India,Industry and Manufacturing,2022,0,False,Developing
+Germany,Industry and Manufacturing,2020,164,True,Developed
+United States,Industry and Manufacturing,2024,156,False,Developed
+Germany,Knowledge Representation,2017,10,True,Developed
+South Africa,Natural Language Processing,2020,2,True,Developing
+Germany,Life Sciences,2023,121,False,Developed
+China,Logic-Based Knowledge Systems,2021,2854,True,Developing
+Sweden,Markov and Bayesian Models,2020,1,True,Developed
+Sweden,Markov and Bayesian Models,2025,0,False,Developed
+Germany,Markov and Bayesian Models,2025,17,False,Developed
+Germany,Measuring and Testing,2019,241,True,Developed
+India,Ontology Engineering,2022,0,False,Developing
+Germany,Ontology Engineering,2016,9,True,Developed
+United States,Other and Unspecified,2016,2817,True,Developed
+United States,Personal Devices and Computing,2020,10284,True,Developed
+South Africa,Personal Devices and Computing,2021,1,True,Developing
+Sweden,Robotics,2023,2,False,Developed
+India,Robotics,2023,0,False,Developing
+Sweden,Security,2020,4,True,Developed
+South Africa,Speech Processing,2018,0,True,Developing
+South Africa,Transportation,2021,0,True,Developing
+China,Transportation,2018,1674,True,Developing
+United States,All,2020,16913,True,Developed
+Germany,Analytics and Algorithms,2020,141,True,Developed
+India,Banking and Finance,2022,1,False,Developing
+United States,Bio-Inspired Computing,2024,209,False,Developed
+Sweden,Computing in Government,2025,0,False,Developed
+United States,Computing in Government,2016,42,True,Developed
+China,Control Methods,2021,3099,True,Developing
+Germany,Control Methods,2023,377,False,Developed
+United States,Industry and Manufacturing,2018,641,True,Developed
+Sweden,Natural Language Processing,2016,1,True,Developed
+India,Natural Language Processing,2023,0,False,Developing
+India,Life Sciences,2023,0,False,Developing
+South Africa,Logic-Based Knowledge Systems,2019,0,True,Developing
+China,Logic-Based Knowledge Systems,2023,6897,False,Developing
+China,Markov and Bayesian Models,2017,1110,True,Developing
+Sweden,Measuring and Testing,2023,11,False,Developed
+United States,Neural Networks,2018,7628,True,Developed
+Germany,Neural Networks,2016,99,True,Developed
+United States,Ontology Engineering,2022,345,False,Developed
+Germany,Ontology Engineering,2023,18,False,Developed
+Germany,Other and Unspecified,2020,333,True,Developed
+Sweden,Personal Devices and Computing,2024,5,False,Developed
+China,Personal Devices and Computing,2018,15793,True,Developing
+United States,Physical Sciences and Engineering,2019,16513,True,Developed
+South Africa,Physical Sciences and Engineering,2018,3,True,Developing
+China,Robotics,2016,574,True,Developing
+China,Robotics,2024,4615,False,Developing
+China,Search Methods,2022,1233,False,Developing
+China,Security,2026,125,False,Developing
+South Africa,Spatial and Physical Reasoning,2021,0,True,Developing
+South Africa,Speech Processing,2023,0,False,Developing
+China,Agriculture,2017,224,True,Developing
+South Africa,All,2020,6,True,Developing
+Sweden,Analytics and Algorithms,2019,4,True,Developed
+India,Bio-Inspired Computing,2018,21,True,Developing
+India,Bio-Inspired Computing,2020,2,True,Developing
+India,Computer Vision,2017,83,True,Developing
+Germany,Computer Vision,2024,304,False,Developed
+China,Computer Vision,2021,31078,True,Developing
+India,Computing in Government,2020,0,True,Developing
+United States,Control Methods,2025,13,False,Developed
+Sweden,Control Methods,2022,8,False,Developed
+United States,Education,2023,92,False,Developed
+South Africa,Energy Management,2019,1,True,Developing
+Germany,Fuzzy Logic,2025,1,False,Developed
+United States,Fuzzy Logic,2025,1,False,Developed
+Sweden,Industry and Manufacturing,2019,4,True,Developed
+South Africa,Knowledge Representation,2023,0,False,Developing
+United States,Logic-Based Knowledge Systems,2022,984,False,Developed
+Germany,Markov and Bayesian Models,2021,68,True,Developed
+China,Markov and Bayesian Models,2024,10592,False,Developing
+South Africa,Measuring and Testing,2024,0,False,Developing
+Sweden,Neural Networks,2017,4,True,Developed
+United States,Neural Networks,2016,2310,True,Developed
+Germany,Other and Unspecified,2016,145,True,Developed
+Sweden,Physical Sciences and Engineering,2018,33,True,Developed
+India,Planning and Scheduling,2017,50,True,Developing
+China,Planning and Scheduling,2016,737,True,Developing
+Sweden,Robotics,2022,4,False,Developed
+China,Robotics,2021,2699,True,Developing
+United States,Search Methods,2020,1110,True,Developed
+Germany,Search Methods,2023,49,False,Developed
+India,Spatial and Physical Reasoning,2016,24,True,Developing
+China,Speech Processing,2019,2152,True,Developing
+India,Speech Processing,2017,6,True,Developing
+United States,Transportation,2021,1182,True,Developed
+United States,Transportation,2024,311,False,Developed
+Sweden,Transportation,2024,6,False,Developed
+United States,Agriculture,2025,2,False,Developed
+Sweden,All,2019,20,True,Developed
+China,All,2016,9031,True,Developing
+United States,All,2022,12135,False,Developed
+South Africa,Analytics and Algorithms,2018,0,True,Developing
+Germany,Analytics and Algorithms,2024,160,False,Developed
+United States,Banking and Finance,2022,526,False,Developed
+South Africa,Banking and Finance,2021,1,True,Developing
+India,Bio-Inspired Computing,2022,0,False,Developing
+United States,Business,2018,2205,True,Developed
+Sweden,Business,2023,4,False,Developed
+China,Control Methods,2019,2419,True,Developing
+South Africa,Control Methods,2024,0,False,Developing
+China,Distributed AI,2025,2872,False,Developing
+South Africa,Education,2019,0,True,Developing
+Germany,Education,2025,7,False,Developed
+United States,Energy Management,2021,385,True,Developed
+Germany,Fuzzy Logic,2024,2,False,Developed
+China,Fuzzy Logic,2023,2155,False,Developing
+United States,Fuzzy Logic,2023,33,False,Developed
+Sweden,Industry and Manufacturing,2024,5,False,Developed
+South Africa,Knowledge Representation,2020,0,True,Developing
+Sweden,Natural Language Processing,2024,2,False,Developed
+China,Natural Language Processing,2024,14314,False,Developing
+China,Life Sciences,2020,4726,True,Developing
+India,Logic-Based Knowledge Systems,2016,63,True,Developing
+India,Logic-Based Knowledge Systems,2021,1,True,Developing
+United States,Markov and Bayesian Models,2016,1015,True,Developed
+United States,Ontology Engineering,2016,245,True,Developed
+Germany,Other and Unspecified,2022,418,False,Developed
+United States,Other and Unspecified,2022,4368,False,Developed
+South Africa,Other and Unspecified,2016,3,True,Developing
+South Africa,Other and Unspecified,2025,69,False,Developing
+South Africa,Personal Devices and Computing,2020,4,True,Developing
+South Africa,Robotics,2022,2,False,Developing
+United States,Robotics,2017,503,True,Developed
+United States,Security,2023,804,False,Developed
+South Africa,Security,2022,0,False,Developing
+South Africa,Security,2025,0,False,Developing
+Germany,Security,2022,55,False,Developed
+Sweden,Spatial and Physical Reasoning,2017,5,True,Developed
+India,Spatial and Physical Reasoning,2019,5,True,Developing
+China,Telecommunications,2016,873,True,Developing
+China,Telecommunications,2020,7509,True,Developing
+Germany,Telecommunications,2023,187,False,Developed
+Sweden,Telecommunications,2020,7,True,Developed
+Sweden,Telecommunications,2023,7,False,Developed
+Sweden,Transportation,2022,5,False,Developed
+South Africa,Agriculture,2019,0,True,Developing
+South Africa,All,2019,5,True,Developing
+Sweden,All,2020,31,True,Developed
+Sweden,Banking and Finance,2023,1,False,Developed
+China,Banking and Finance,2025,4172,False,Developing
+Sweden,Bio-Inspired Computing,2023,0,False,Developed
+United States,Bio-Inspired Computing,2016,429,True,Developed
+United States,Business,2021,1874,True,Developed
+China,Business,2016,901,True,Developing
+China,Business,2018,3587,True,Developing
+China,Business,2026,248,False,Developing
+United States,Distributed AI,2017,268,True,Developed
+United States,Distributed AI,2022,265,False,Developed
+United States,Energy Management,2018,374,True,Developed
+United States,Energy Management,2024,104,False,Developed
+China,Fuzzy Logic,2018,589,True,Developing
+India,Industry and Manufacturing,2024,0,False,Developing
+India,Life Sciences,2020,3,True,Developing
+Germany,Logic-Based Knowledge Systems,2021,61,True,Developed
+Sweden,Markov and Bayesian Models,2023,6,False,Developed
+China,Markov and Bayesian Models,2022,6009,False,Developing
+Germany,Neural Networks,2024,610,False,Developed
+Germany,Ontology Engineering,2017,6,True,Developed
+United States,Personal Devices and Computing,2025,118,False,Developed
+United States,Physical Sciences and Engineering,2022,12133,False,Developed
+India,Physical Sciences and Engineering,2020,7,True,Developing
+China,Physical Sciences and Engineering,2016,9029,True,Developing
+Germany,Planning and Scheduling,2020,41,True,Developed
+India,Robotics,2019,0,True,Developing
+China,Search Methods,2020,486,True,Developing
+Sweden,Security,2017,1,True,Developed
+China,Speech Processing,2022,3545,False,Developing
+Sweden,Speech Processing,2025,0,False,Developed
+United States,Telecommunications,2017,2968,True,Developed
+China,Transportation,2020,5052,True,Developing
+Sweden,Transportation,2019,4,True,Developed
+South Africa,Agriculture,2022,0,False,Developing
+India,Business,2019,2,True,Developing
+Germany,Business,2024,52,False,Developed
+United States,Business,2019,2358,True,Developed
+United States,Business,2020,2432,True,Developed
+South Africa,Business,2016,2,True,Developing
+Germany,Computing in Government,2020,1,True,Developed
+India,Computing in Government,2016,1,True,Developing
+India,Education,2016,10,True,Developing
+Germany,Energy Management,2023,169,False,Developed
+China,Fuzzy Logic,2016,411,True,Developing
+India,Industry and Manufacturing,2021,0,True,Developing
+Germany,Natural Language Processing,2025,16,False,Developed
+China,Life Sciences,2021,6208,True,Developing
+Sweden,Life Sciences,2019,5,True,Developed
+Sweden,Logic-Based Knowledge Systems,2022,0,False,Developed
+India,Markov and Bayesian Models,2018,44,True,Developing
+South Africa,Markov and Bayesian Models,2021,0,True,Developing
+South Africa,Measuring and Testing,2020,0,True,Developing
+Sweden,Ontology Engineering,2025,0,False,Developed
+China,Ontology Engineering,2023,10396,False,Developing
+Germany,Other and Unspecified,2017,238,True,Developed
+China,Other and Unspecified,2018,9462,True,Developing
+United States,Personal Devices and Computing,2021,8169,True,Developed
+Germany,Physical Sciences and Engineering,2020,1186,True,Developed
+United States,Planning and Scheduling,2018,1488,True,Developed
+Sweden,Security,2016,0,True,Developed
+United States,Security,2025,37,False,Developed
+India,Spatial and Physical Reasoning,2018,92,True,Developing
+India,Spatial and Physical Reasoning,2020,2,True,Developing
+China,Speech Processing,2016,450,True,Developing
+India,Speech Processing,2022,0,False,Developing
+Germany,Telecommunications,2017,96,True,Developed
+Sweden,Analytics and Algorithms,2022,6,False,Developed
+South Africa,Banking and Finance,2022,1,False,Developing
+Germany,Bio-Inspired Computing,2016,13,True,Developed
+Germany,Bio-Inspired Computing,2018,30,True,Developed
+China,Bio-Inspired Computing,2018,2035,True,Developing
+China,Bio-Inspired Computing,2019,2604,True,Developing
+China,Bio-Inspired Computing,2022,5237,False,Developing
+South Africa,Control Methods,2023,0,False,Developing
+China,Education,2024,1698,False,Developing
+United States,Energy Management,2025,7,False,Developed
+India,Energy Management,2021,0,True,Developing
+South Africa,Energy Management,2025,0,False,Developing
+Sweden,Industry and Manufacturing,2018,5,True,Developed
+Sweden,Knowledge Representation,2021,0,True,Developed
+Germany,Knowledge Representation,2021,32,True,Developed
+South Africa,Natural Language Processing,2016,0,True,Developing
+Sweden,Natural Language Processing,2020,5,True,Developed
+Sweden,Natural Language Processing,2023,4,False,Developed
+United States,Life Sciences,2016,899,True,Developed
+Sweden,Life Sciences,2018,5,True,Developed
+Sweden,Life Sciences,2020,5,True,Developed
+Germany,Markov and Bayesian Models,2022,79,False,Developed
+Sweden,Neural Networks,2016,3,True,Developed
+United States,Neural Networks,2017,4876,True,Developed
+China,Ontology Engineering,2024,13875,False,Developing
+China,Personal Devices and Computing,2017,8924,True,Developing
+China,Personal Devices and Computing,2026,1085,False,Developing
+Germany,Planning and Scheduling,2024,43,False,Developed
+South Africa,Planning and Scheduling,2025,0,False,Developing
+South Africa,Search Methods,2022,0,False,Developing
+Sweden,Security,2018,1,True,Developed
+India,Speech Processing,2018,19,True,Developing
+China,Telecommunications,2023,13849,False,Developing
+India,Transportation,2016,6,True,Developing
+Germany,Transportation,2020,284,True,Developed
+China,Agriculture,2022,1712,False,Developing
+China,All,2018,30020,True,Developing
+China,All,2019,48119,True,Developing
+India,All,2017,267,True,Developing
+South Africa,Analytics and Algorithms,2023,0,False,Developing
+China,Analytics and Algorithms,2020,4474,True,Developing
+Sweden,Banking and Finance,2018,4,True,Developed
+India,Computer Vision,2021,0,True,Developing
+Germany,Computer Vision,2016,79,True,Developed
+Sweden,Computing in Government,2018,0,True,Developed
+Sweden,Computing in Government,2019,0,True,Developed
+Sweden,Control Methods,2025,0,False,Developed
+India,Control Methods,2021,0,True,Developing
+Germany,Distributed AI,2020,14,True,Developed
+South Africa,Education,2017,0,True,Developing
+Sweden,Energy Management,2016,0,True,Developed
+Sweden,Energy Management,2025,1,False,Developed
+China,Industry and Manufacturing,2017,1007,True,Developing
+China,Knowledge Representation,2023,3990,False,Developing
+India,Natural Language Processing,2017,47,True,Developing
+India,Natural Language Processing,2021,0,True,Developing
+United States,Logic-Based Knowledge Systems,2019,2971,True,Developed
+Germany,Logic-Based Knowledge Systems,2022,52,False,Developed
+United States,Markov and Bayesian Models,2024,302,False,Developed
+India,Markov and Bayesian Models,2016,21,True,Developing
+China,Measuring and Testing,2022,8642,False,Developing
+United States,Neural Networks,2019,9434,True,Developed
+South Africa,Neural Networks,2022,31,False,Developing
+China,Ontology Engineering,2019,2491,True,Developing
+United States,Personal Devices and Computing,2024,2517,False,Developed
+India,Physical Sciences and Engineering,2021,1,True,Developing
+South Africa,Planning and Scheduling,2016,2,True,Developing
+India,Planning and Scheduling,2016,40,True,Developing
+China,Robotics,2023,3451,False,Developing
+Germany,Robotics,2020,91,True,Developed
+South Africa,Search Methods,2019,0,True,Developing
+India,Security,2020,3,True,Developing
+China,Spatial and Physical Reasoning,2017,5135,True,Developing
+Germany,Spatial and Physical Reasoning,2024,346,False,Developed
+South Africa,Spatial and Physical Reasoning,2025,0,False,Developing
+China,Speech Processing,2023,4477,False,Developing
+Germany,Speech Processing,2018,32,True,Developed
+South Africa,Telecommunications,2016,1,True,Developing
+Sweden,Telecommunications,2024,2,False,Developed
+India,Telecommunications,2017,62,True,Developing
+India,Transportation,2020,0,True,Developing
+Sweden,Agriculture,2018,4,True,Developed
+United States,All,2019,16515,True,Developed
+United States,Analytics and Algorithms,2017,805,True,Developed
+Sweden,Analytics and Algorithms,2025,0,False,Developed
+China,Banking and Finance,2016,169,True,Developing
+South Africa,Bio-Inspired Computing,2018,1,True,Developing
+Germany,Business,2022,76,False,Developed
+India,Computer Vision,2016,25,True,Developing
+Sweden,Computing in Government,2024,0,False,Developed
+Germany,Computing in Government,2025,1,False,Developed
+China,Computing in Government,2018,298,True,Developing
+South Africa,Computing in Government,2023,0,False,Developing
+United States,Control Methods,2018,2423,True,Developed
+China,Distributed AI,2016,18,True,Developing
+Germany,Education,2019,8,True,Developed
+India,Fuzzy Logic,2016,3,True,Developing
+Germany,Industry and Manufacturing,2019,120,True,Developed
+United States,Knowledge Representation,2020,1213,True,Developed
+United States,Knowledge Representation,2025,8,False,Developed
+Germany,Knowledge Representation,2020,31,True,Developed
+China,Knowledge Representation,2024,7850,False,Developing
+China,Natural Language Processing,2025,14256,False,Developing
+United States,Natural Language Processing,2025,37,False,Developed
+China,Life Sciences,2022,7229,False,Developing
+China,Life Sciences,2025,17638,False,Developing
+Germany,Life Sciences,2021,106,True,Developed
+India,Life Sciences,2024,0,False,Developing
+South Africa,Logic-Based Knowledge Systems,2022,0,False,Developing
+Germany,Neural Networks,2018,447,True,Developed
+South Africa,Ontology Engineering,2018,0,True,Developing
+South Africa,Personal Devices and Computing,2016,3,True,Developing
+Sweden,Planning and Scheduling,2023,4,False,Developed
+United States,Planning and Scheduling,2016,994,True,Developed
+China,Robotics,2022,2846,False,Developing
+United States,Search Methods,2017,802,True,Developed
+China,Security,2020,3279,True,Developing
+United States,Security,2016,599,True,Developed
+India,Security,2016,7,True,Developing
+Germany,Telecommunications,2021,166,True,Developed
+Sweden,Transportation,2023,4,False,Developed
+Sweden,Agriculture,2025,0,False,Developed
+Sweden,All,2022,36,False,Developed
+China,Banking and Finance,2024,4225,False,Developing
+United States,Banking and Finance,2023,361,False,Developed
+Sweden,Bio-Inspired Computing,2021,0,True,Developed
+Sweden,Bio-Inspired Computing,2022,0,False,Developed
+Germany,Bio-Inspired Computing,2025,21,False,Developed
+Germany,Computer Vision,2023,505,False,Developed
+South Africa,Computer Vision,2019,0,True,Developing
+United States,Distributed AI,2019,350,True,Developed
+South Africa,Education,2024,0,False,Developing
+Sweden,Fuzzy Logic,2024,0,False,Developed
+Sweden,Industry and Manufacturing,2021,7,True,Developed
+United States,Natural Language Processing,2017,1157,True,Developed
+China,Life Sciences,2018,2124,True,Developing
+Germany,Logic-Based Knowledge Systems,2020,79,True,Developed
+China,Logic-Based Knowledge Systems,2016,511,True,Developing
+China,Measuring and Testing,2023,12072,False,Developing
+Sweden,Neural Networks,2018,11,True,Developed
+Germany,Ontology Engineering,2022,8,False,Developed
+United States,Other and Unspecified,2020,4666,True,Developed
+South Africa,Personal Devices and Computing,2025,0,False,Developing
+South Africa,Physical Sciences and Engineering,2021,1,True,Developing
+Germany,Planning and Scheduling,2019,40,True,Developed
+United States,Planning and Scheduling,2020,1723,True,Developed
+China,Planning and Scheduling,2020,7357,True,Developing
+United States,Robotics,2019,814,True,Developed
+India,Search Methods,2022,0,False,Developing
+Germany,Search Methods,2024,35,False,Developed
+United States,Spatial and Physical Reasoning,2021,5121,True,Developed
+Germany,Speech Processing,2017,20,True,Developed
+Germany,Transportation,2024,281,False,Developed
+India,Agriculture,2020,0,True,Developing
+India,All,2018,270,True,Developing
+China,Analytics and Algorithms,2019,1873,True,Developing
+United States,Banking and Finance,2020,972,True,Developed
+Sweden,Business,2022,3,False,Developed
+South Africa,Computer Vision,2018,1,True,Developing
+United States,Computer Vision,2025,57,False,Developed
+India,Control Methods,2024,0,False,Developing
+India,Distributed AI,2024,0,False,Developing
+Germany,Education,2024,8,False,Developed
+Sweden,Energy Management,2024,4,False,Developed
+India,Energy Management,2019,0,True,Developing
+South Africa,Fuzzy Logic,2023,1,False,Developing
+United States,Fuzzy Logic,2022,77,False,Developed
+China,Natural Language Processing,2018,1467,True,Developing
+China,Markov and Bayesian Models,2026,160,False,Developing
+Sweden,Neural Networks,2022,22,False,Developed
+China,Neural Networks,2017,8969,True,Developing
+China,Neural Networks,2022,74275,False,Developing
+South Africa,Neural Networks,2024,56,False,Developing
+Sweden,Ontology Engineering,2022,0,False,Developed
+Sweden,Ontology Engineering,2023,0,False,Developed
+China,Other and Unspecified,2023,30463,False,Developing
+China,Other and Unspecified,2026,235,False,Developing
+India,Personal Devices and Computing,2017,182,True,Developing
+Sweden,Personal Devices and Computing,2023,14,False,Developed
+China,Personal Devices and Computing,2022,54280,False,Developing
+South Africa,Physical Sciences and Engineering,2023,0,False,Developing
+China,Physical Sciences and Engineering,2026,1881,False,Developing
+South Africa,Robotics,2019,0,True,Developing
+United States,Robotics,2025,12,False,Developed
+India,Search Methods,2024,0,False,Developing
+United States,Search Methods,2021,903,True,Developed
+Germany,Search Methods,2022,33,False,Developed
+Germany,Search Methods,2025,10,False,Developed
+China,Spatial and Physical Reasoning,2024,95975,False,Developing
+Sweden,Spatial and Physical Reasoning,2018,20,True,Developed
+India,Spatial and Physical Reasoning,2024,0,False,Developing
+United States,Telecommunications,2019,4202,True,Developed
+China,Transportation,2017,934,True,Developing
+United States,Transportation,2023,594,False,Developed
+Sweden,Transportation,2016,3,True,Developed
+Germany,Agriculture,2025,2,False,Developed
+United States,Agriculture,2018,179,True,Developed
+United States,All,2021,15629,True,Developed
+South Africa,Analytics and Algorithms,2024,0,False,Developing
+South Africa,Banking and Finance,2018,0,True,Developing
+Sweden,Bio-Inspired Computing,2025,0,False,Developed
+South Africa,Computer Vision,2023,0,False,Developing
+India,Computing in Government,2021,0,True,Developing
+United States,Computing in Government,2018,43,True,Developed
+United States,Control Methods,2022,1180,False,Developed
+China,Education,2025,2021,False,Developing
+India,Education,2020,0,True,Developing
+South Africa,Fuzzy Logic,2016,0,True,Developing
+South Africa,Fuzzy Logic,2018,0,True,Developing
+India,Industry and Manufacturing,2020,0,True,Developing
+Germany,Industry and Manufacturing,2016,34,True,Developed
+Germany,Knowledge Representation,2023,28,False,Developed
+Germany,Natural Language Processing,2021,18,True,Developed
+China,Life Sciences,2016,625,True,Developing
+China,Logic-Based Knowledge Systems,2024,15090,False,Developing
+Sweden,Logic-Based Knowledge Systems,2017,1,True,Developed
+South Africa,Measuring and Testing,2021,0,True,Developing
+India,Measuring and Testing,2021,0,True,Developing
+United States,Measuring and Testing,2016,821,True,Developed
+South Africa,Ontology Engineering,2024,0,False,Developing
+China,Ontology Engineering,2018,1270,True,Developing
+China,Other and Unspecified,2021,26178,True,Developing
+South Africa,Other and Unspecified,2019,4,True,Developing
+India,Personal Devices and Computing,2016,106,True,Developing
+Germany,Planning and Scheduling,2018,44,True,Developed
+Germany,Planning and Scheduling,2023,62,False,Developed
+South Africa,Robotics,2025,4,False,Developing
+United States,Robotics,2024,150,False,Developed
+South Africa,Search Methods,2024,0,False,Developing
+India,Search Methods,2023,0,False,Developing
+United States,Security,2019,1644,True,Developed
+Sweden,Spatial and Physical Reasoning,2023,13,False,Developed
+United States,Telecommunications,2016,1812,True,Developed
+United States,Transportation,2019,1833,True,Developed
+Germany,All,2025,172,False,Developed
+United States,Banking and Finance,2016,360,True,Developed
+South Africa,Business,2023,0,False,Developing
+Germany,Computer Vision,2017,166,True,Developed
+Sweden,Computing in Government,2017,0,True,Developed
+India,Control Methods,2018,31,True,Developing
+Sweden,Distributed AI,2016,0,True,Developed
+Sweden,Education,2020,1,True,Developed
+South Africa,Energy Management,2020,0,True,Developing
+South Africa,Energy Management,2023,0,False,Developing
+China,Energy Management,2020,4420,True,Developing
+United States,Fuzzy Logic,2016,108,True,Developed
+China,Industry and Manufacturing,2025,12246,False,Developing
+South Africa,Industry and Manufacturing,2023,0,False,Developing
+Germany,Industry and Manufacturing,2018,89,True,Developed
+China,Knowledge Representation,2026,231,False,Developing
+Germany,Natural Language Processing,2019,18,True,Developed
+Germany,Natural Language Processing,2023,51,False,Developed
+China,Natural Language Processing,2021,7604,True,Developing
+Germany,Logic-Based Knowledge Systems,2016,31,True,Developed
+United States,Markov and Bayesian Models,2023,415,False,Developed
+South Africa,Markov and Bayesian Models,2017,0,True,Developing
+United States,Measuring and Testing,2018,1858,True,Developed
+United States,Measuring and Testing,2024,480,False,Developed
+India,Neural Networks,2018,129,True,Developing
+Sweden,Other and Unspecified,2017,9,True,Developed
+Sweden,Personal Devices and Computing,2017,3,True,Developed
+Sweden,Personal Devices and Computing,2021,15,True,Developed
+Germany,Personal Devices and Computing,2017,235,True,Developed
+South Africa,Personal Devices and Computing,2017,3,True,Developing
+Sweden,Physical Sciences and Engineering,2021,26,True,Developed
+China,Planning and Scheduling,2021,9952,True,Developing
+China,Planning and Scheduling,2023,13722,False,Developing
+Germany,Robotics,2018,48,True,Developed
+China,Search Methods,2018,181,True,Developing
+Sweden,Search Methods,2018,1,True,Developed
+Sweden,Security,2025,0,False,Developed
+India,Speech Processing,2016,3,True,Developing
+Sweden,Speech Processing,2018,0,True,Developed
+Germany,Speech Processing,2024,36,False,Developed
+South Africa,Telecommunications,2017,0,True,Developing
+China,Agriculture,2024,3739,False,Developing
+South Africa,All,2025,125,False,Developing
+United States,All,2024,5277,False,Developed
+South Africa,Analytics and Algorithms,2025,0,False,Developing
+China,Analytics and Algorithms,2024,16821,False,Developing
+United States,Bio-Inspired Computing,2020,832,True,Developed
+China,Bio-Inspired Computing,2020,3406,True,Developing
+China,Business,2017,1902,True,Developing
+Germany,Computer Vision,2020,401,True,Developed
+China,Computer Vision,2024,59336,False,Developing
+United States,Computing in Government,2019,108,True,Developed
+China,Education,2022,918,False,Developing
+India,Education,2018,4,True,Developing
+Germany,Education,2021,6,True,Developed
+Sweden,Energy Management,2019,3,True,Developed
+South Africa,Energy Management,2018,1,True,Developing
+Sweden,Knowledge Representation,2022,0,False,Developed
+South Africa,Neural Networks,2017,1,True,Developing
+Germany,Neural Networks,2025,89,False,Developed
+Sweden,Ontology Engineering,2017,0,True,Developed
+United States,Ontology Engineering,2025,11,False,Developed
+Germany,Other and Unspecified,2023,472,False,Developed
+Germany,Personal Devices and Computing,2016,123,True,Developed
+India,Physical Sciences and Engineering,2022,3,False,Developing
+Germany,Physical Sciences and Engineering,2024,972,False,Developed
+Sweden,Planning and Scheduling,2016,3,True,Developed
+Sweden,Planning and Scheduling,2024,2,False,Developed
+United States,Planning and Scheduling,2022,857,False,Developed
+Sweden,Robotics,2017,3,True,Developed
+South Africa,Search Methods,2023,0,False,Developing
+India,Search Methods,2017,20,True,Developing
+China,Security,2019,1638,True,Developing
+India,Security,2024,0,False,Developing
+China,Spatial and Physical Reasoning,2020,30039,True,Developing
+Sweden,Speech Processing,2017,0,True,Developed
+Sweden,Speech Processing,2022,1,False,Developed
+China,Transportation,2021,6455,True,Developing
+Germany,Agriculture,2020,11,True,Developed
+United States,Agriculture,2016,73,True,Developed
+Sweden,All,2024,20,False,Developed
+India,Bio-Inspired Computing,2017,14,True,Developing
+India,Bio-Inspired Computing,2021,0,True,Developing
+India,Business,2017,64,True,Developing
+Germany,Business,2019,51,True,Developed
+Germany,Business,2020,49,True,Developed
+South Africa,Business,2024,0,False,Developing
+Sweden,Business,2025,0,False,Developed
+Sweden,Computer Vision,2022,15,False,Developed
+China,Computer Vision,2020,24930,True,Developing
+China,Computer Vision,2023,49165,False,Developing
+Sweden,Control Methods,2021,10,True,Developed
+Germany,Distributed AI,2023,19,False,Developed
+China,Distributed AI,2018,59,True,Developing
+Sweden,Education,2017,0,True,Developed
+India,Natural Language Processing,2018,33,True,Developing
+India,Natural Language Processing,2022,0,False,Developing
+Germany,Natural Language Processing,2017,5,True,Developed
+Germany,Logic-Based Knowledge Systems,2017,31,True,Developed
+Sweden,Logic-Based Knowledge Systems,2019,1,True,Developed
+India,Markov and Bayesian Models,2022,0,False,Developing
+China,Markov and Bayesian Models,2016,705,True,Developing
+China,Markov and Bayesian Models,2023,8016,False,Developing
+South Africa,Markov and Bayesian Models,2025,3,False,Developing
+Sweden,Measuring and Testing,2016,4,True,Developed
+Sweden,Measuring and Testing,2022,11,False,Developed
+South Africa,Measuring and Testing,2022,0,False,Developing
+China,Measuring and Testing,2018,2327,True,Developing
+China,Neural Networks,2024,126063,False,Developing
+India,Ontology Engineering,2016,10,True,Developing
+Germany,Other and Unspecified,2025,74,False,Developed
+China,Other and Unspecified,2019,14111,True,Developing
+Germany,Personal Devices and Computing,2020,530,True,Developed
+Germany,Personal Devices and Computing,2024,301,False,Developed
+United States,Physical Sciences and Engineering,2025,242,False,Developed
+Germany,Robotics,2021,97,True,Developed
+China,Search Methods,2016,52,True,Developing
+Germany,Search Methods,2018,19,True,Developed
+United States,Spatial and Physical Reasoning,2019,5825,True,Developed
+South Africa,Spatial and Physical Reasoning,2017,2,True,Developing
+United States,Speech Processing,2023,545,False,Developed
+Germany,Speech Processing,2021,32,True,Developed
+India,Telecommunications,2024,0,False,Developing
+South Africa,Transportation,2024,0,False,Developing
+India,Analytics and Algorithms,2021,0,True,Developing
+India,Banking and Finance,2020,0,True,Developing
+Germany,Bio-Inspired Computing,2019,38,True,Developed
+India,Business,2023,0,False,Developing
+Germany,Business,2018,48,True,Developed
+China,Business,2021,12144,True,Developing
+South Africa,Business,2019,0,True,Developing
+India,Computing in Government,2017,1,True,Developing
+United States,Computing in Government,2023,32,False,Developed
+China,Control Methods,2020,3054,True,Developing
+Sweden,Education,2016,0,True,Developed
+Sweden,Knowledge Representation,2023,0,False,Developed
+Germany,Knowledge Representation,2018,27,True,Developed
+China,Knowledge Representation,2025,12938,False,Developing
+South Africa,Natural Language Processing,2018,0,True,Developing
+China,Natural Language Processing,2019,2968,True,Developing
+United States,Life Sciences,2025,35,False,Developed
+United States,Logic-Based Knowledge Systems,2024,454,False,Developed
+Sweden,Logic-Based Knowledge Systems,2016,3,True,Developed
+Sweden,Markov and Bayesian Models,2021,2,True,Developed
+United States,Measuring and Testing,2022,1413,False,Developed
+Sweden,Neural Networks,2019,12,True,Developed
+China,Neural Networks,2018,18674,True,Developing
+China,Neural Networks,2026,1346,False,Developing
+India,Ontology Engineering,2020,0,True,Developing
+United States,Other and Unspecified,2017,3785,True,Developed
+United States,Other and Unspecified,2024,1998,False,Developed
+India,Personal Devices and Computing,2018,180,True,Developing
+China,Personal Devices and Computing,2020,46719,True,Developing
+South Africa,Planning and Scheduling,2017,2,True,Developing
+India,Robotics,2017,11,True,Developing
+India,Robotics,2024,0,False,Developing
+Germany,Robotics,2024,33,False,Developed
+South Africa,Search Methods,2021,0,True,Developing
+China,Security,2021,4335,True,Developing
+China,Spatial and Physical Reasoning,2021,40456,True,Developing
+India,Spatial and Physical Reasoning,2022,0,False,Developing
+South Africa,Speech Processing,2016,0,True,Developing
+South Africa,Transportation,2018,0,True,Developing
+China,Transportation,2024,20550,False,Developing
+United States,Transportation,2022,869,False,Developed
+United States,All,2017,10911,True,Developed
+China,Banking and Finance,2017,439,True,Developing
+United States,Banking and Finance,2018,766,True,Developed
+South Africa,Banking and Finance,2016,0,True,Developing
+Sweden,Bio-Inspired Computing,2024,1,False,Developed
+Germany,Bio-Inspired Computing,2020,62,True,Developed
+South Africa,Bio-Inspired Computing,2020,0,True,Developing
+India,Business,2016,43,True,Developing
+Germany,Computer Vision,2022,485,False,Developed
+China,Computer Vision,2017,4629,True,Developing
+South Africa,Computing in Government,2019,0,True,Developing
+Germany,Control Methods,2020,377,True,Developed
+China,Distributed AI,2020,284,True,Developing
+South Africa,Education,2023,0,False,Developing
+South Africa,Education,2025,0,False,Developing
+India,Education,2021,0,True,Developing
+South Africa,Energy Management,2021,0,True,Developing
+Germany,Fuzzy Logic,2021,5,True,Developed
+Sweden,Industry and Manufacturing,2025,0,False,Developed
+Sweden,Natural Language Processing,2017,0,True,Developed
+Sweden,Natural Language Processing,2025,0,False,Developed
+South Africa,Life Sciences,2025,0,False,Developing
+South Africa,Logic-Based Knowledge Systems,2017,0,True,Developing
+Germany,Logic-Based Knowledge Systems,2024,45,False,Developed
+Germany,Markov and Bayesian Models,2018,51,True,Developed
+South Africa,Markov and Bayesian Models,2018,1,True,Developing
+South Africa,Markov and Bayesian Models,2019,0,True,Developing
+Germany,Measuring and Testing,2024,230,False,Developed
+Sweden,Neural Networks,2024,15,False,Developed
+India,Ontology Engineering,2024,0,False,Developing
+United States,Other and Unspecified,2018,4693,True,Developed
+China,Other and Unspecified,2016,3634,True,Developing
+South Africa,Other and Unspecified,2024,74,False,Developing
+India,Personal Devices and Computing,2019,10,True,Developing
+India,Physical Sciences and Engineering,2019,12,True,Developing
+South Africa,Planning and Scheduling,2022,0,False,Developing
+South Africa,Robotics,2017,0,True,Developing
+India,Search Methods,2016,12,True,Developing
+Germany,Spatial and Physical Reasoning,2019,410,True,Developed
+United States,Speech Processing,2025,15,False,Developed
+Germany,Speech Processing,2023,57,False,Developed
+India,Transportation,2018,19,True,Developing
+Sweden,Analytics and Algorithms,2020,4,True,Developed
+China,Analytics and Algorithms,2018,1167,True,Developing
+South Africa,Bio-Inspired Computing,2024,2,False,Developing
+South Africa,Business,2020,3,True,Developing
+India,Computer Vision,2022,1,False,Developing
+China,Computing in Government,2023,2593,False,Developing
+Germany,Control Methods,2019,331,True,Developed
+Germany,Control Methods,2021,324,True,Developed
+Sweden,Education,2023,2,False,Developed
+China,Energy Management,2025,18498,False,Developing
+South Africa,Fuzzy Logic,2022,1,False,Developing
+China,Fuzzy Logic,2022,1517,False,Developing
+China,Fuzzy Logic,2026,36,False,Developing
+India,Natural Language Processing,2016,21,True,Developing
+Germany,Life Sciences,2017,52,True,Developed
+Germany,Life Sciences,2020,133,True,Developed
+Germany,Life Sciences,2022,133,False,Developed
+India,Life Sciences,2019,1,True,Developing
+China,Markov and Bayesian Models,2018,1922,True,Developing
+India,Measuring and Testing,2016,10,True,Developing
+India,Measuring and Testing,2020,0,True,Developing
+India,Measuring and Testing,2024,0,False,Developing
+Germany,Measuring and Testing,2020,271,True,Developed
+China,Neural Networks,2020,48104,True,Developing
+China,Other and Unspecified,2024,34662,False,Developing
+India,Other and Unspecified,2017,81,True,Developing
+India,Other and Unspecified,2021,4,True,Developing
+South Africa,Personal Devices and Computing,2018,2,True,Developing
+South Africa,Planning and Scheduling,2018,1,True,Developing
+United States,Robotics,2021,621,True,Developed
+South Africa,Search Methods,2017,0,True,Developing
+India,Search Methods,2021,0,True,Developing
+Germany,Security,2020,49,True,Developed
+United States,Speech Processing,2022,855,False,Developed
+China,Speech Processing,2026,37,False,Developing
+China,Telecommunications,2026,135,False,Developing
+South Africa,Transportation,2023,0,False,Developing
+Sweden,Agriculture,2023,3,False,Developed
+India,Agriculture,2023,0,False,Developing
+Germany,All,2016,275,True,Developed
+Sweden,All,2016,12,True,Developed
+South Africa,Analytics and Algorithms,2020,0,True,Developing
+China,Banking and Finance,2022,3054,False,Developing
+United States,Banking and Finance,2019,923,True,Developed
+South Africa,Banking and Finance,2017,1,True,Developing
+South Africa,Banking and Finance,2024,0,False,Developing
+United States,Computer Vision,2023,2432,False,Developed
+Germany,Computing in Government,2021,0,True,Developed
+Germany,Computing in Government,2024,4,False,Developed
+South Africa,Computing in Government,2025,0,False,Developing
+India,Control Methods,2017,34,True,Developing
+Sweden,Distributed AI,2019,1,True,Developed
+China,Distributed AI,2024,1991,False,Developing
+United States,Energy Management,2016,182,True,Developed
+India,Energy Management,2017,3,True,Developing
+South Africa,Energy Management,2016,0,True,Developing
+Sweden,Knowledge Representation,2018,1,True,Developed
+South Africa,Life Sciences,2016,0,True,Developing
+India,Logic-Based Knowledge Systems,2018,73,True,Developing
+China,Logic-Based Knowledge Systems,2020,1958,True,Developing
+South Africa,Markov and Bayesian Models,2023,3,False,Developing
+India,Neural Networks,2024,0,False,Developing
+Germany,Ontology Engineering,2024,7,False,Developed
+Sweden,Other and Unspecified,2019,7,True,Developed
+India,Other and Unspecified,2022,5,False,Developing
+Sweden,Personal Devices and Computing,2019,7,True,Developed
+China,Personal Devices and Computing,2019,28509,True,Developing
+China,Physical Sciences and Engineering,2019,48115,True,Developing
+Sweden,Planning and Scheduling,2025,0,False,Developed
+United States,Planning and Scheduling,2024,382,False,Developed
+China,Robotics,2020,2366,True,Developing
+Sweden,Search Methods,2020,0,True,Developed
+United States,Spatial and Physical Reasoning,2023,2216,False,Developed
+United States,Speech Processing,2018,1220,True,Developed
+China,Speech Processing,2020,3216,True,Developing
+Germany,Telecommunications,2024,121,False,Developed
+Germany,Agriculture,2021,18,True,Developed
+India,Agriculture,2016,3,True,Developing
+United States,All,2023,8057,False,Developed
+Sweden,Analytics and Algorithms,2024,1,False,Developed
+India,Analytics and Algorithms,2016,18,True,Developing
+India,Analytics and Algorithms,2022,0,False,Developing
+Sweden,Banking and Finance,2017,1,True,Developed
+India,Banking and Finance,2019,0,True,Developing
+Sweden,Bio-Inspired Computing,2018,3,True,Developed
+Germany,Bio-Inspired Computing,2021,40,True,Developed
+South Africa,Bio-Inspired Computing,2022,2,False,Developing
+India,Bio-Inspired Computing,2023,0,False,Developing
+China,Business,2019,5876,True,Developing
+China,Business,2023,17086,False,Developing
+Sweden,Computer Vision,2024,4,False,Developed
+South Africa,Computer Vision,2016,0,True,Developing
+Germany,Computing in Government,2017,2,True,Developed
+China,Control Methods,2026,102,False,Developing
+Sweden,Education,2019,0,True,Developed
+Germany,Education,2022,9,False,Developed
+United States,Energy Management,2019,361,True,Developed
+Sweden,Energy Management,2017,0,True,Developed
+India,Energy Management,2018,5,True,Developing
+India,Energy Management,2023,0,False,Developing
+India,Fuzzy Logic,2019,1,True,Developing
+Sweden,Industry and Manufacturing,2023,4,False,Developed
+United States,Knowledge Representation,2023,344,False,Developed
+South Africa,Natural Language Processing,2017,1,True,Developing
+China,Life Sciences,2026,200,False,Developing
+Germany,Life Sciences,2019,107,True,Developed
+India,Logic-Based Knowledge Systems,2024,0,False,Developing
+Sweden,Measuring and Testing,2020,9,True,Developed
+Sweden,Measuring and Testing,2021,5,True,Developed
+United States,Ontology Engineering,2020,549,True,Developed
+Germany,Personal Devices and Computing,2022,393,False,Developed
+South Africa,Physical Sciences and Engineering,2025,0,False,Developing
+China,Search Methods,2025,8122,False,Developing
+Germany,Search Methods,2021,29,True,Developed
+China,Security,2024,9480,False,Developing
+China,Spatial and Physical Reasoning,2018,9692,True,Developing
+Germany,Spatial and Physical Reasoning,2018,323,True,Developed
+India,Spatial and Physical Reasoning,2021,0,True,Developing
+Germany,Transportation,2025,20,False,Developed
+United States,Transportation,2020,1542,True,Developed
+Germany,Agriculture,2018,7,True,Developed
+Germany,Agriculture,2022,22,False,Developed
+China,Agriculture,2025,3667,False,Developing
+Germany,Analytics and Algorithms,2025,36,False,Developed
+China,Analytics and Algorithms,2017,622,True,Developing
+China,Bio-Inspired Computing,2016,1000,True,Developing
+India,Bio-Inspired Computing,2019,1,True,Developing
+United States,Business,2022,1308,False,Developed
+India,Computer Vision,2023,0,False,Developing
+India,Computer Vision,2024,0,False,Developing
+China,Computer Vision,2022,40813,False,Developing
+China,Computing in Government,2016,70,True,Developing
+China,Computing in Government,2022,1796,False,Developing
+Germany,Distributed AI,2025,5,False,Developed
+India,Distributed AI,2019,0,True,Developing
+South Africa,Distributed AI,2021,0,True,Developing
+China,Distributed AI,2017,59,True,Developing
+South Africa,Education,2020,0,True,Developing
+Sweden,Energy Management,2018,1,True,Developed
+Sweden,Energy Management,2021,0,True,Developed
+China,Energy Management,2018,1740,True,Developing
+India,Industry and Manufacturing,2018,18,True,Developing
+United States,Knowledge Representation,2022,597,False,Developed
+India,Knowledge Representation,2019,4,True,Developing
+India,Knowledge Representation,2021,0,True,Developing
+Sweden,Natural Language Processing,2019,0,True,Developed
+South Africa,Life Sciences,2019,0,True,Developing
+South Africa,Markov and Bayesian Models,2022,0,False,Developing
+China,Neural Networks,2023,94856,False,Developing
+India,Neural Networks,2017,107,True,Developing
+South Africa,Ontology Engineering,2019,0,True,Developing
+China,Other and Unspecified,2025,27509,False,Developing
+South Africa,Other and Unspecified,2020,2,True,Developing
+China,Personal Devices and Computing,2023,64820,False,Developing
+Germany,Physical Sciences and Engineering,2019,987,True,Developed
+Germany,Planning and Scheduling,2016,27,True,Developed
+China,Planning and Scheduling,2022,11568,False,Developing
+South Africa,Robotics,2023,5,False,Developing
+China,Security,2025,11736,False,Developing
+Germany,Security,2021,57,True,Developed
+United States,Spatial and Physical Reasoning,2025,53,False,Developed
+Germany,Spatial and Physical Reasoning,2017,234,True,Developed
+South Africa,Spatial and Physical Reasoning,2018,2,True,Developing
+South Africa,Spatial and Physical Reasoning,2019,0,True,Developing
+South Africa,Telecommunications,2018,1,True,Developing
+South Africa,Transportation,2020,0,True,Developing
+China,Agriculture,2019,609,True,Developing
+South Africa,All,2023,99,False,Developing
+Sweden,All,2025,3,False,Developed
+China,Analytics and Algorithms,2025,18591,False,Developing
+India,Analytics and Algorithms,2023,0,False,Developing
+South Africa,Bio-Inspired Computing,2016,0,True,Developing
+India,Business,2018,56,True,Developing
+South Africa,Computer Vision,2024,0,False,Developing
+Sweden,Computing in Government,2020,0,True,Developed
+Germany,Computing in Government,2023,6,False,Developed
+South Africa,Control Methods,2025,0,False,Developing
+Germany,Control Methods,2025,12,False,Developed
+South Africa,Distributed AI,2017,0,True,Developing
+United States,Education,2020,239,True,Developed
+United States,Energy Management,2020,335,True,Developed
+South Africa,Fuzzy Logic,2025,0,False,Developing
+United States,Fuzzy Logic,2018,216,True,Developed
+India,Industry and Manufacturing,2017,10,True,Developing
+India,Knowledge Representation,2018,44,True,Developing
+Germany,Natural Language Processing,2020,24,True,Developed
+United States,Natural Language Processing,2024,773,False,Developed
+United States,Life Sciences,2024,594,False,Developed
+South Africa,Life Sciences,2017,1,True,Developing
+China,Life Sciences,2023,10072,False,Developing
+South Africa,Logic-Based Knowledge Systems,2023,0,False,Developing
+India,Logic-Based Knowledge Systems,2023,0,False,Developing
+South Africa,Markov and Bayesian Models,2020,2,True,Developing
+Sweden,Neural Networks,2023,20,False,Developed
+India,Neural Networks,2020,6,True,Developing
+India,Neural Networks,2023,3,False,Developing
+Sweden,Other and Unspecified,2024,5,False,Developed
+China,Personal Devices and Computing,2016,4605,True,Developing
+South Africa,Physical Sciences and Engineering,2017,4,True,Developing
+South Africa,Physical Sciences and Engineering,2022,1,False,Developing
+Germany,Physical Sciences and Engineering,2025,172,False,Developed
+Sweden,Planning and Scheduling,2022,3,False,Developed
+South Africa,Planning and Scheduling,2020,3,True,Developing
+China,Search Methods,2026,93,False,Developing
+United States,Speech Processing,2021,1167,True,Developed
+United States,Speech Processing,2024,254,False,Developed
+Germany,Speech Processing,2022,34,False,Developed
+China,Telecommunications,2025,15534,False,Developing
+United States,Telecommunications,2018,3758,True,Developed
+Sweden,Telecommunications,2018,11,True,Developed
+China,Transportation,2016,480,True,Developing
+Sweden,Agriculture,2016,0,True,Developed
+South Africa,Agriculture,2025,0,False,Developing
+China,Agriculture,2023,2503,False,Developing
+Sweden,All,2021,26,True,Developed
+United States,Analytics and Algorithms,2021,1779,True,Developed
+Sweden,Banking and Finance,2016,3,True,Developed
+South Africa,Bio-Inspired Computing,2017,0,True,Developing
+India,Computer Vision,2019,4,True,Developing
+China,Computing in Government,2020,1050,True,Developing
+China,Computing in Government,2024,3696,False,Developing
+Sweden,Control Methods,2016,2,True,Developed
+Sweden,Distributed AI,2021,1,True,Developed
+India,Distributed AI,2017,5,True,Developing
+India,Distributed AI,2021,0,True,Developing
+India,Distributed AI,2022,0,False,Developing
+United States,Education,2025,1,False,Developed
+India,Education,2024,0,False,Developing
+Germany,Energy Management,2020,105,True,Developed
+Sweden,Fuzzy Logic,2018,0,True,Developed
+Sweden,Fuzzy Logic,2019,0,True,Developed
+United States,Fuzzy Logic,2019,159,True,Developed
+United States,Knowledge Representation,2018,1470,True,Developed
+Sweden,Life Sciences,2024,2,False,Developed
+India,Life Sciences,2022,0,False,Developing
+South Africa,Logic-Based Knowledge Systems,2020,0,True,Developing
+South Africa,Logic-Based Knowledge Systems,2024,0,False,Developing
+United States,Logic-Based Knowledge Systems,2017,2685,True,Developed
+Germany,Logic-Based Knowledge Systems,2019,57,True,Developed
+China,Logic-Based Knowledge Systems,2017,889,True,Developing
+Germany,Markov and Bayesian Models,2024,58,False,Developed
+South Africa,Other and Unspecified,2023,49,False,Developing
+United States,Personal Devices and Computing,2023,3865,False,Developed
+South Africa,Robotics,2018,0,True,Developing
+Germany,Robotics,2016,17,True,Developed
+Germany,Search Methods,2017,4,True,Developed
+United States,Spatial and Physical Reasoning,2018,5178,True,Developed
+South Africa,Spatial and Physical Reasoning,2016,0,True,Developing
+Sweden,Speech Processing,2016,0,True,Developed
+China,Telecommunications,2019,4754,True,Developing
+United States,Telecommunications,2023,1960,False,Developed
+India,Telecommunications,2016,30,True,Developing
+United States,Transportation,2018,1929,True,Developed
+United States,Transportation,2025,16,False,Developed
+United States,Agriculture,2019,170,True,Developed
+Sweden,All,2018,33,True,Developed
+India,All,2022,6,False,Developing
+Sweden,Banking and Finance,2020,1,True,Developed
+Germany,Banking and Finance,2018,51,True,Developed
+United States,Bio-Inspired Computing,2019,997,True,Developed
+Germany,Business,2023,72,False,Developed
+United States,Business,2023,901,False,Developed
+China,Business,2025,27011,False,Developing
+Sweden,Business,2021,2,True,Developed
+United States,Computer Vision,2018,4506,True,Developed
+China,Computing in Government,2017,152,True,Developing
+India,Computing in Government,2019,0,True,Developing
+Germany,Distributed AI,2019,15,True,Developed
+South Africa,Education,2022,0,False,Developing
+India,Education,2017,7,True,Developing
+China,Energy Management,2016,649,True,Developing
+India,Industry and Manufacturing,2016,5,True,Developing
+South Africa,Industry and Manufacturing,2022,0,False,Developing
+United States,Industry and Manufacturing,2020,786,True,Developed
+China,Natural Language Processing,2020,5900,True,Developing
+China,Life Sciences,2017,1075,True,Developing
+India,Measuring and Testing,2023,0,False,Developing
+Germany,Neural Networks,2021,821,True,Developed
+Germany,Other and Unspecified,2018,236,True,Developed
+India,Other and Unspecified,2018,86,True,Developing
+China,Personal Devices and Computing,2021,61219,True,Developing
+South Africa,Personal Devices and Computing,2019,0,True,Developing
+Sweden,Planning and Scheduling,2018,1,True,Developed
+Germany,Planning and Scheduling,2017,28,True,Developed
+South Africa,Robotics,2021,1,True,Developing
+India,Robotics,2021,0,True,Developing
+United States,Search Methods,2022,627,False,Developed
+Sweden,Security,2021,3,True,Developed
+India,Security,2021,1,True,Developing
+South Africa,Security,2020,0,True,Developing
+China,Speech Processing,2021,3574,True,Developing
+India,Speech Processing,2019,2,True,Developing
+South Africa,Telecommunications,2023,0,False,Developing
+Germany,Telecommunications,2018,137,True,Developed
+Germany,Transportation,2018,276,True,Developed
+South Africa,All,2016,3,True,Developing
+Germany,Analytics and Algorithms,2017,38,True,Developed
+India,Analytics and Algorithms,2020,0,True,Developing
+Sweden,Banking and Finance,2021,1,True,Developed
+China,Banking and Finance,2019,1380,True,Developing
+China,Banking and Finance,2023,3927,False,Developing
+South Africa,Banking and Finance,2019,0,True,Developing
+Sweden,Computer Vision,2020,6,True,Developed
+South Africa,Computing in Government,2016,1,True,Developing
+India,Control Methods,2022,1,False,Developing
+Germany,Control Methods,2016,132,True,Developed
+Sweden,Education,2021,0,True,Developed
+United States,Education,2016,136,True,Developed
+China,Industry and Manufacturing,2016,618,True,Developing
+United States,Knowledge Representation,2017,1314,True,Developed
+South Africa,Natural Language Processing,2019,0,True,Developing
+Germany,Natural Language Processing,2024,39,False,Developed
+China,Natural Language Processing,2022,7857,False,Developing
+India,Life Sciences,2018,32,True,Developing
+Sweden,Logic-Based Knowledge Systems,2018,3,True,Developed
+Sweden,Measuring and Testing,2024,5,False,Developed
+South Africa,Neural Networks,2016,0,True,Developing
+South Africa,Ontology Engineering,2016,0,True,Developing
+Sweden,Other and Unspecified,2016,6,True,Developed
+Sweden,Other and Unspecified,2025,2,False,Developed
+Sweden,Physical Sciences and Engineering,2020,31,True,Developed
+China,Physical Sciences and Engineering,2018,30001,True,Developing
+United States,Planning and Scheduling,2017,1387,True,Developed
+South Africa,Robotics,2024,2,False,Developing
+United States,Search Methods,2016,323,True,Developed
+South Africa,Security,2021,0,True,Developing
+South Africa,Spatial and Physical Reasoning,2020,2,True,Developing
+Sweden,Spatial and Physical Reasoning,2024,5,False,Developed
+Sweden,All,2023,34,False,Developed
+United States,Analytics and Algorithms,2023,872,False,Developed
+South Africa,Analytics and Algorithms,2017,1,True,Developing
+Germany,Analytics and Algorithms,2016,13,True,Developed
+Sweden,Banking and Finance,2022,4,False,Developed
+China,Banking and Finance,2021,2863,True,Developing
+India,Banking and Finance,2016,2,True,Developing
+India,Banking and Finance,2024,0,False,Developing
+China,Bio-Inspired Computing,2026,176,False,Developing
+China,Computer Vision,2025,52685,False,Developing
+India,Computing in Government,2024,0,False,Developing
+United States,Control Methods,2016,1212,True,Developed
+India,Education,2022,0,False,Developing
+Sweden,Fuzzy Logic,2022,0,False,Developed
+India,Fuzzy Logic,2020,0,True,Developing
+Sweden,Industry and Manufacturing,2022,6,False,Developed
+South Africa,Industry and Manufacturing,2025,0,False,Developing
+United States,Industry and Manufacturing,2016,294,True,Developed
+India,Knowledge Representation,2023,0,False,Developing
+United States,Life Sciences,2020,2331,True,Developed
+South Africa,Logic-Based Knowledge Systems,2021,0,True,Developing
+Germany,Logic-Based Knowledge Systems,2023,62,False,Developed
+Germany,Logic-Based Knowledge Systems,2025,19,False,Developed
+Sweden,Markov and Bayesian Models,2024,1,False,Developed
+South Africa,Neural Networks,2021,15,True,Developing
+India,Neural Networks,2022,2,False,Developing
+India,Ontology Engineering,2021,0,True,Developing
+Sweden,Other and Unspecified,2022,13,False,Developed
+Germany,Other and Unspecified,2024,340,False,Developed
+India,Personal Devices and Computing,2020,6,True,Developing
+India,Personal Devices and Computing,2023,0,False,Developing
+United States,Planning and Scheduling,2023,588,False,Developed
+China,Search Methods,2017,128,True,Developing
+Germany,Search Methods,2020,45,True,Developed
+United States,Security,2020,1664,True,Developed
+China,Speech Processing,2018,1441,True,Developing
+China,Telecommunications,2022,10870,False,Developing
+India,Telecommunications,2019,2,True,Developing
+India,Transportation,2024,0,False,Developing
+Germany,Transportation,2021,306,True,Developed
+Sweden,Transportation,2018,16,True,Developed
+United States,Agriculture,2024,36,False,Developed
+China,All,2020,71883,True,Developing
+United States,Banking and Finance,2025,9,False,Developed
+Germany,Banking and Finance,2016,17,True,Developed
+South Africa,Banking and Finance,2020,0,True,Developing
+China,Bio-Inspired Computing,2021,4405,True,Developing
+Sweden,Business,2017,1,True,Developed
+United States,Control Methods,2017,1878,True,Developed
+Sweden,Control Methods,2019,10,True,Developed
+Sweden,Control Methods,2023,7,False,Developed
+South Africa,Control Methods,2021,0,True,Developing
+Germany,Distributed AI,2018,5,True,Developed
+India,Distributed AI,2016,4,True,Developing
+India,Distributed AI,2020,0,True,Developing
+Germany,Education,2017,7,True,Developed
+China,Fuzzy Logic,2020,1115,True,Developing
+United States,Knowledge Representation,2016,846,True,Developed
+United States,Natural Language Processing,2023,1153,False,Developed
+China,Life Sciences,2019,3261,True,Developing
+South Africa,Logic-Based Knowledge Systems,2016,0,True,Developing
+South Africa,Logic-Based Knowledge Systems,2018,1,True,Developing
+Sweden,Markov and Bayesian Models,2019,2,True,Developed
+South Africa,Measuring and Testing,2023,0,False,Developing
+United States,Neural Networks,2021,9280,True,Developed
+Germany,Ontology Engineering,2025,0,False,Developed
+Germany,Physical Sciences and Engineering,2018,736,True,Developed
+India,Planning and Scheduling,2022,0,False,Developing
+China,Planning and Scheduling,2026,220,False,Developing
+Sweden,Security,2023,3,False,Developed
+United States,Spatial and Physical Reasoning,2024,1226,False,Developed
+China,All,2023,135288,False,Developing
+Germany,Analytics and Algorithms,2018,65,True,Developed
+India,Business,2024,0,False,Developing
+Sweden,Business,2020,3,True,Developed
+Germany,Computer Vision,2025,33,False,Developed
+China,Computer Vision,2026,554,False,Developing
+United States,Computer Vision,2017,3029,True,Developed
+China,Computing in Government,2021,1519,True,Developing
+United States,Education,2021,156,True,Developed
+India,Education,2023,0,False,Developing
+South Africa,Energy Management,2017,0,True,Developing
+Germany,Fuzzy Logic,2020,5,True,Developed
+India,Fuzzy Logic,2021,0,True,Developing
+India,Fuzzy Logic,2023,0,False,Developing
+Germany,Industry and Manufacturing,2024,79,False,Developed
+India,Knowledge Representation,2017,43,True,Developing
+United States,Logic-Based Knowledge Systems,2020,2995,True,Developed
+India,Logic-Based Knowledge Systems,2019,4,True,Developing
+Sweden,Measuring and Testing,2017,3,True,Developed
+South Africa,Measuring and Testing,2019,0,True,Developing
+India,Ontology Engineering,2023,0,False,Developing
+Germany,Personal Devices and Computing,2018,366,True,Developed
+South Africa,Personal Devices and Computing,2024,2,False,Developing
+Sweden,Physical Sciences and Engineering,2016,12,True,Developed
+South Africa,Physical Sciences and Engineering,2016,3,True,Developing
+China,Physical Sciences and Engineering,2022,107424,False,Developing
+China,Physical Sciences and Engineering,2025,176829,False,Developing
+Germany,Physical Sciences and Engineering,2016,275,True,Developed
+Sweden,Robotics,2019,5,True,Developed
+United States,Search Methods,2019,1300,True,Developed
+United States,Search Methods,2023,220,False,Developed
+United States,Security,2017,954,True,Developed
+South Africa,Security,2024,0,False,Developing
+Germany,Security,2016,13,True,Developed
+China,Spatial and Physical Reasoning,2019,17370,True,Developing
+Germany,Transportation,2019,302,True,Developed
+China,Transportation,2019,3009,True,Developing
+China,Agriculture,2026,38,False,Developing
+South Africa,All,2017,4,True,Developing
+India,All,2016,156,True,Developing
+Sweden,Analytics and Algorithms,2018,5,True,Developed
+South Africa,Analytics and Algorithms,2019,0,True,Developing
+China,Banking and Finance,2018,1022,True,Developing
+China,Banking and Finance,2020,2262,True,Developing
+South Africa,Banking and Finance,2023,0,False,Developing
+United States,Computer Vision,2022,3899,False,Developed
+Sweden,Computing in Government,2016,0,True,Developed
+Sweden,Computing in Government,2023,0,False,Developed
+India,Computing in Government,2023,0,False,Developing
+Sweden,Control Methods,2018,17,True,Developed
+Sweden,Control Methods,2024,6,False,Developed
+Germany,Control Methods,2017,230,True,Developed
+United States,Distributed AI,2018,264,True,Developed
+South Africa,Distributed AI,2018,1,True,Developing
+South Africa,Distributed AI,2024,0,False,Developing
+South Africa,Education,2021,0,True,Developing
+United States,Energy Management,2017,288,True,Developed
+Germany,Energy Management,2024,90,False,Developed
+Germany,Fuzzy Logic,2016,5,True,Developed
+Sweden,Fuzzy Logic,2023,0,False,Developed
+South Africa,Industry and Manufacturing,2019,1,True,Developing
+South Africa,Knowledge Representation,2022,0,False,Developing
+United States,Natural Language Processing,2019,1648,True,Developed
+Germany,Life Sciences,2018,70,True,Developed
+Sweden,Life Sciences,2022,5,False,Developed
+United States,Logic-Based Knowledge Systems,2021,1979,True,Developed
+Sweden,Logic-Based Knowledge Systems,2025,1,False,Developed
+Sweden,Measuring and Testing,2018,6,True,Developed
+India,Measuring and Testing,2017,20,True,Developing
+Germany,Measuring and Testing,2018,186,True,Developed
+South Africa,Neural Networks,2018,6,True,Developing
+South Africa,Neural Networks,2023,44,False,Developing
+China,Ontology Engineering,2026,319,False,Developing
+India,Other and Unspecified,2019,2,True,Developing
+Sweden,Personal Devices and Computing,2020,13,True,Developed
+South Africa,Physical Sciences and Engineering,2020,4,True,Developing
+Germany,Planning and Scheduling,2021,55,True,Developed
+United States,Planning and Scheduling,2021,1234,True,Developed
+India,Planning and Scheduling,2019,1,True,Developing
+Sweden,Robotics,2020,7,True,Developed
+China,Search Methods,2019,247,True,Developing
+India,Search Methods,2019,1,True,Developing
+United States,Search Methods,2025,8,False,Developed
+United States,Speech Processing,2020,1167,True,Developed
+South Africa,Telecommunications,2025,0,False,Developing
+China,Telecommunications,2021,8577,True,Developing
+United States,Telecommunications,2022,3260,False,Developed
+India,Transportation,2019,0,True,Developing
+India,All,2024,2,False,Developing
+Sweden,Analytics and Algorithms,2016,3,True,Developed
+Sweden,Banking and Finance,2024,1,False,Developed
+Sweden,Banking and Finance,2025,0,False,Developed
+Germany,Banking and Finance,2019,47,True,Developed
+United States,Bio-Inspired Computing,2021,559,True,Developed
+India,Business,2022,0,False,Developing
+Sweden,Control Methods,2017,4,True,Developed
+United States,Distributed AI,2024,71,False,Developed
+China,Education,2017,257,True,Developing
+China,Education,2026,18,False,Developing
+India,Energy Management,2020,0,True,Developing
+Sweden,Fuzzy Logic,2016,0,True,Developed
+Sweden,Knowledge Representation,2016,1,True,Developed
+South Africa,Natural Language Processing,2023,0,False,Developing
+India,Natural Language Processing,2020,0,True,Developing
+India,Logic-Based Knowledge Systems,2017,84,True,Developing
+Sweden,Markov and Bayesian Models,2018,5,True,Developed
+United States,Markov and Bayesian Models,2017,1631,True,Developed
+China,Markov and Bayesian Models,2025,13945,False,Developing
+South Africa,Measuring and Testing,2016,0,True,Developing
+Sweden,Neural Networks,2025,0,False,Developed
+United States,Neural Networks,2020,10099,True,Developed
+United States,Neural Networks,2024,3049,False,Developed
+United States,Neural Networks,2025,128,False,Developed
+United States,Ontology Engineering,2024,203,False,Developed
+India,Other and Unspecified,2020,7,True,Developing
+China,Planning and Scheduling,2017,1496,True,Developing
+China,Robotics,2017,889,True,Developing
+China,Security,2017,482,True,Developing
+United States,Spatial and Physical Reasoning,2020,5782,True,Developed
+China,Spatial and Physical Reasoning,2022,49366,False,Developing
+Germany,Spatial and Physical Reasoning,2021,507,True,Developed
+Germany,Spatial and Physical Reasoning,2023,549,False,Developed
+United States,Telecommunications,2020,4389,True,Developed
+United States,Telecommunications,2024,1143,False,Developed
+India,Telecommunications,2022,1,False,Developing
+China,Agriculture,2020,840,True,Developing
+United States,All,2016,6870,True,Developed
+United States,Banking and Finance,2024,245,False,Developed
+China,Bio-Inspired Computing,2025,13212,False,Developing
+United States,Computing in Government,2021,63,True,Developed
+China,Control Methods,2024,6600,False,Developing
+United States,Distributed AI,2020,395,True,Developed
+India,Energy Management,2016,2,True,Developing
+South Africa,Industry and Manufacturing,2021,0,True,Developing
+United States,Industry and Manufacturing,2025,8,False,Developed
+China,Knowledge Representation,2016,200,True,Developing
+India,Knowledge Representation,2022,0,False,Developing
+United States,Life Sciences,2017,1413,True,Developed
+United States,Life Sciences,2023,947,False,Developed
+South Africa,Life Sciences,2022,0,False,Developing
+Sweden,Life Sciences,2016,1,True,Developed
+Germany,Logic-Based Knowledge Systems,2018,73,True,Developed
+Sweden,Logic-Based Knowledge Systems,2021,1,True,Developed
+India,Markov and Bayesian Models,2023,0,False,Developing
+India,Markov and Bayesian Models,2024,0,False,Developing
+China,Measuring and Testing,2024,17422,False,Developing
+Sweden,Ontology Engineering,2020,1,True,Developed
+United States,Ontology Engineering,2018,452,True,Developed
+United States,Personal Devices and Computing,2017,7134,True,Developed
+China,Security,2016,238,True,Developing
+China,Security,2023,6704,False,Developing
+China,Spatial and Physical Reasoning,2026,1117,False,Developing
+South Africa,Spatial and Physical Reasoning,2023,0,False,Developing
+South Africa,Speech Processing,2020,0,True,Developing
+South Africa,Speech Processing,2021,0,True,Developing
+South Africa,Speech Processing,2025,0,False,Developing
+Germany,Telecommunications,2020,157,True,Developed
+Germany,Transportation,2022,325,False,Developed
+Sweden,Agriculture,2019,4,True,Developed
+India,Agriculture,2022,0,False,Developing
+Germany,All,2018,736,True,Developed
+United States,Analytics and Algorithms,2016,517,True,Developed
+United States,Analytics and Algorithms,2022,1688,False,Developed
+India,Banking and Finance,2018,13,True,Developing
+India,Business,2020,0,True,Developing
+China,Business,2022,13980,False,Developing
+South Africa,Business,2022,0,False,Developing
+Sweden,Computer Vision,2017,1,True,Developed
+India,Computer Vision,2018,93,True,Developing
+China,Computing in Government,2019,710,True,Developing
+South Africa,Control Methods,2019,0,True,Developing
+Germany,Distributed AI,2017,5,True,Developed
+South Africa,Education,2018,0,True,Developing
+China,Education,2018,451,True,Developing
+Germany,Education,2018,7,True,Developed
+China,Fuzzy Logic,2017,455,True,Developing
+United States,Industry and Manufacturing,2022,467,False,Developed
+United States,Industry and Manufacturing,2023,253,False,Developed
+South Africa,Knowledge Representation,2019,0,True,Developing
+India,Knowledge Representation,2024,0,False,Developing
+India,Logic-Based Knowledge Systems,2020,0,True,Developing
+China,Logic-Based Knowledge Systems,2025,26218,False,Developing
+Sweden,Logic-Based Knowledge Systems,2023,2,False,Developed
+Germany,Neural Networks,2017,214,True,Developed
+Germany,Neural Networks,2019,689,True,Developed
+South Africa,Ontology Engineering,2017,0,True,Developing
+Germany,Ontology Engineering,2021,20,True,Developed
+Germany,Other and Unspecified,2021,335,True,Developed
+United States,Personal Devices and Computing,2018,9552,True,Developed
+China,Planning and Scheduling,2018,2763,True,Developing
+China,Robotics,2026,62,False,Developing
+India,Robotics,2020,0,True,Developing
+United States,Robotics,2022,445,False,Developed
+China,Search Methods,2021,701,True,Developing
+South Africa,Search Methods,2025,0,False,Developing
+India,Search Methods,2018,20,True,Developing
+Sweden,Search Methods,2025,0,False,Developed
+United States,Security,2021,1435,True,Developed
+Germany,Security,2025,22,False,Developed
+China,Spatial and Physical Reasoning,2023,69816,False,Developing
+United States,Telecommunications,2021,4035,True,Developed
+Germany,Agriculture,2016,1,True,Developed
+Sweden,Agriculture,2020,4,True,Developed
+China,Analytics and Algorithms,2021,8157,True,Developing
+Germany,Banking and Finance,2024,45,False,Developed
+Germany,Bio-Inspired Computing,2017,20,True,Developed
+United States,Bio-Inspired Computing,2022,412,False,Developed
+China,Bio-Inspired Computing,2023,7165,False,Developing
+South Africa,Business,2017,2,True,Developing
+Sweden,Business,2018,2,True,Developed
+Germany,Computing in Government,2022,2,False,Developed
+South Africa,Computing in Government,2024,0,False,Developing
+South Africa,Control Methods,2020,0,True,Developing
+South Africa,Distributed AI,2019,0,True,Developing
+Sweden,Education,2025,0,False,Developed
+China,Education,2020,1005,True,Developing
+China,Fuzzy Logic,2021,1279,True,Developing
+India,Industry and Manufacturing,2019,0,True,Developing
+Germany,Industry and Manufacturing,2023,141,False,Developed
+United States,Natural Language Processing,2022,1069,False,Developed
+India,Logic-Based Knowledge Systems,2022,0,False,Developing
+Sweden,Markov and Bayesian Models,2016,2,True,Developed
+United States,Markov and Bayesian Models,2022,969,False,Developed
+India,Markov and Bayesian Models,2019,4,True,Developing
+South Africa,Measuring and Testing,2017,0,True,Developing
+South Africa,Measuring and Testing,2025,0,False,Developing
+India,Measuring and Testing,2022,0,False,Developing
+Germany,Measuring and Testing,2022,343,False,Developed
+Germany,Neural Networks,2022,935,False,Developed
+Sweden,Ontology Engineering,2018,0,True,Developed
+South Africa,Ontology Engineering,2022,1,False,Developing
+China,Ontology Engineering,2016,263,True,Developing
+China,Ontology Engineering,2017,622,True,Developing
+China,Ontology Engineering,2025,19479,False,Developing
+United States,Ontology Engineering,2017,365,True,Developed
+India,Ontology Engineering,2017,20,True,Developing
+India,Ontology Engineering,2019,2,True,Developing
+Germany,Ontology Engineering,2020,22,True,Developed
+United States,Other and Unspecified,2021,4962,True,Developed
+United States,Physical Sciences and Engineering,2021,15629,True,Developed
+Sweden,Physical Sciences and Engineering,2022,36,False,Developed
+India,Planning and Scheduling,2018,38,True,Developing
+China,Robotics,2019,1584,True,Developing
+India,Robotics,2022,0,False,Developing
+Sweden,Search Methods,2017,0,True,Developed
+China,Security,2022,5441,False,Developing
+India,Spatial and Physical Reasoning,2017,70,True,Developing
+Sweden,Telecommunications,2017,6,True,Developed
+India,Transportation,2022,2,False,Developing
+United States,Agriculture,2017,137,True,Developed
+United States,Agriculture,2021,157,True,Developed
+United States,Agriculture,2023,77,False,Developed
+Sweden,Analytics and Algorithms,2021,2,True,Developed
+Germany,Analytics and Algorithms,2019,113,True,Developed
+Sweden,Bio-Inspired Computing,2019,2,True,Developed
+Germany,Bio-Inspired Computing,2022,62,False,Developed
+United States,Business,2024,568,False,Developed
+United States,Control Methods,2019,2441,True,Developed
+Germany,Control Methods,2024,221,False,Developed
+Germany,Distributed AI,2016,4,True,Developed
+China,Distributed AI,2023,1387,False,Developing
+China,Education,2023,1066,False,Developing
+Germany,Education,2023,5,False,Developed
+Sweden,Energy Management,2020,4,True,Developed
+Sweden,Energy Management,2023,4,False,Developed
+Sweden,Fuzzy Logic,2017,0,True,Developed
+Sweden,Industry and Manufacturing,2017,2,True,Developed
+China,Industry and Manufacturing,2026,138,False,Developing
+Germany,Industry and Manufacturing,2022,131,False,Developed
+South Africa,Knowledge Representation,2016,0,True,Developing
+China,Natural Language Processing,2016,436,True,Developing
+India,Life Sciences,2021,0,True,Developing
+South Africa,Markov and Bayesian Models,2024,2,False,Developing
+China,Measuring and Testing,2025,20003,False,Developing
+United States,Measuring and Testing,2017,1335,True,Developed
+United States,Measuring and Testing,2019,1890,True,Developed
+South Africa,Ontology Engineering,2025,4,False,Developing
+Germany,Robotics,2022,79,False,Developed
+Sweden,Search Methods,2024,0,False,Developed
+Germany,Search Methods,2019,28,True,Developed
+United States,Security,2022,1146,False,Developed
+India,Security,2019,2,True,Developing
+United States,Spatial and Physical Reasoning,2016,1914,True,Developed
+United States,Speech Processing,2017,984,True,Developed
+Germany,Speech Processing,2025,14,False,Developed
+South Africa,Telecommunications,2020,1,True,Developing
+United States,Telecommunications,2025,60,False,Developed
+Germany,Telecommunications,2025,29,False,Developed
+China,Transportation,2026,94,False,Developing

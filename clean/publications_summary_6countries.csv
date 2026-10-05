@@ -1,0 +1,37 @@
+country,field,num_articles,num_citations,group
+United States,AI Safety,16201,1053019,Developed
+Germany,AI Safety,3524,118568,Developed
+Sweden,AI Safety,636,17217,Developed
+China,AI Safety,9885,340999,Developing
+South Africa,AI Safety,116,2455,Developing
+India,AI Safety,3120,38121,Developing
+South Africa,All,6681,147419,Developing
+United States,All,376956,15302556,Developed
+India,All,252531,2854407,Developing
+China,All,644908,14523421,Developing
+Germany,All,95756,2802123,Developed
+Sweden,All,17812,510448,Developed
+South Africa,Computer Vision,1502,33121,Developing
+United States,Computer Vision,88023,5328463,Developed
+Germany,Computer Vision,23579,1035131,Developed
+India,Computer Vision,98111,1115996,Developing
+Sweden,Computer Vision,3357,137777,Developed
+China,Computer Vision,274823,7219429,Developing
+United States,Large language models,24834,2021365,Developed
+India,Large language models,4524,74802,Developing
+Sweden,Large language models,610,32663,Developed
+China,Large language models,47951,1555921,Developing
+Germany,Large language models,4152,270344,Developed
+South Africa,Large language models,168,6665,Developing
+India,Natural Language Processing,21752,271124,Developing
+South Africa,Natural Language Processing,644,12692,Developing
+Sweden,Natural Language Processing,1749,39310,Developed
+United States,Natural Language Processing,42615,2008002,Developed
+Germany,Natural Language Processing,11377,270841,Developed
+China,Natural Language Processing,46882,1094419,Developing
+South Africa,Robotics,671,9048,Developing
+United States,Robotics,62971,1441864,Developed
+India,Robotics,17482,144477,Developing
+Sweden,Robotics,3794,86430,Developed
+Germany,Robotics,20640,394466,Developed
+China,Robotics,99584,1408911,Developing

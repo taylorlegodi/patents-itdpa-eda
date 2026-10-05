@@ -1,0 +1,389 @@
+country,field,year,num_articles,complete,group
+South Africa,AI Safety,2020,11,True,Developing
+China,All,2026,4625,False,Developing
+United States,All,2025,32838,False,Developed
+India,All,2023,43664,True,Developing
+South Africa,All,2025,628,False,Developing
+Sweden,All,2017,1063,True,Developed
+Germany,Large language models,2025,656,False,Developed
+China,Robotics,2021,10761,True,Developing
+South Africa,AI Safety,2021,12,True,Developing
+Sweden,Computer Vision,2020,314,True,Developed
+India,Natural Language Processing,2019,1463,True,Developing
+South Africa,Robotics,2019,69,True,Developing
+Sweden,AI Safety,2026,2,False,Developed
+India,All,2017,11381,True,Developing
+Sweden,All,2023,2650,True,Developed
+India,Computer Vision,2023,16373,True,Developing
+South Africa,Large language models,2025,41,False,Developing
+India,Large language models,2024,1264,True,Developing
+United States,Robotics,2026,161,False,Developed
+Germany,Robotics,2018,1954,True,Developed
+China,AI Safety,2021,920,True,Developing
+United States,AI Safety,2021,2031,True,Developed
+United States,All,2022,43440,True,Developed
+Germany,All,2022,12257,True,Developed
+China,Large language models,2016,119,True,Developing
+United States,Natural Language Processing,2020,4791,True,Developed
+China,AI Safety,2019,484,True,Developing
+Germany,Computer Vision,2023,3661,True,Developed
+United States,Large language models,2017,289,True,Developed
+United States,Large language models,2019,1309,True,Developed
+South Africa,Natural Language Processing,2022,80,True,Developing
+China,Natural Language Processing,2022,6008,True,Developing
+Germany,All,2024,12207,True,Developed
+United States,All,2016,21143,True,Developed
+South Africa,Computer Vision,2019,124,True,Developing
+India,Large language models,2021,445,True,Developing
+China,Natural Language Processing,2016,1678,True,Developing
+Germany,Natural Language Processing,2023,1686,True,Developed
+United States,Robotics,2016,5197,True,Developed
+India,Robotics,2018,1311,True,Developing
+Sweden,AI Safety,2022,76,True,Developed
+India,AI Safety,2019,81,True,Developing
+India,All,2025,24726,False,Developing
+Sweden,Computer Vision,2023,511,True,Developed
+United States,Computer Vision,2019,8785,True,Developed
+South Africa,Large language models,2020,6,True,Developing
+Sweden,Natural Language Processing,2024,162,True,Developed
+Germany,Natural Language Processing,2021,1373,True,Developed
+Sweden,Robotics,2022,450,True,Developed
+South Africa,Robotics,2023,110,True,Developing
+Germany,AI Safety,2022,452,True,Developed
+Sweden,AI Safety,2020,68,True,Developed
+Sweden,AI Safety,2025,113,False,Developed
+South Africa,AI Safety,2024,27,True,Developing
+Germany,Large language models,2021,447,True,Developed
+Germany,Large language models,2022,555,True,Developed
+South Africa,Natural Language Processing,2024,85,True,Developing
+Sweden,Robotics,2020,427,True,Developed
+Sweden,Robotics,2026,8,False,Developed
+India,Robotics,2026,9,False,Developing
+China,All,2016,21920,True,Developing
+United States,All,2017,23637,True,Developed
+South Africa,All,2017,311,True,Developing
+South Africa,All,2021,804,True,Developing
+Germany,All,2017,6300,True,Developed
+Germany,All,2023,13936,True,Developed
+Sweden,Computer Vision,2022,435,True,Developed
+South Africa,Computer Vision,2025,118,False,Developing
+India,Computer Vision,2022,12015,True,Developing
+India,Natural Language Processing,2024,3797,True,Developing
+China,Natural Language Processing,2023,7855,True,Developing
+Germany,Robotics,2019,2007,True,Developed
+Sweden,AI Safety,2019,39,True,Developed
+India,AI Safety,2020,104,True,Developing
+South Africa,All,2022,841,True,Developing
+Germany,All,2021,11870,True,Developed
+United States,Computer Vision,2026,246,False,Developed
+Germany,Robotics,2026,26,False,Developed
+Sweden,AI Safety,2017,31,True,Developed
+China,AI Safety,2026,164,False,Developing
+United States,AI Safety,2016,518,True,Developed
+United States,Computer Vision,2020,10211,True,Developed
+India,Computer Vision,2017,5302,True,Developing
+China,Computer Vision,2024,45376,True,Developing
+Germany,Robotics,2021,2266,True,Developed
+India,AI Safety,2023,551,True,Developing
+India,All,2026,37,False,Developing
+Sweden,Computer Vision,2017,191,True,Developed
+Sweden,Large language models,2023,148,True,Developed
+Sweden,Robotics,2019,369,True,Developed
+India,Robotics,2017,1044,True,Developing
+Germany,AI Safety,2025,419,False,Developed
+Sweden,AI Safety,2024,113,True,Developed
+China,All,2023,104292,True,Developing
+United States,Computer Vision,2017,5499,True,Developed
+United States,Large language models,2022,3189,True,Developed
+South Africa,Natural Language Processing,2017,35,True,Developing
+South Africa,Robotics,2025,36,False,Developing
+South Africa,Robotics,2026,1,False,Developing
+South Africa,AI Safety,2019,6,True,Developing
+India,AI Safety,2018,51,True,Developing
+United States,All,2023,50230,True,Developed
+India,All,2022,31239,True,Developing
+United States,Computer Vision,2023,11681,True,Developed
+United States,Computer Vision,2024,10939,True,Developed
+South Africa,Computer Vision,2023,223,True,Developing
+Germany,Computer Vision,2026,49,False,Developed
+Sweden,Large language models,2020,33,True,Developed
+United States,Large language models,2016,208,True,Developed
+Sweden,Natural Language Processing,2020,193,True,Developed
+United States,Robotics,2019,6407,True,Developed
+South Africa,Robotics,2016,50,True,Developing
+South Africa,AI Safety,2023,15,True,Developing
+China,AI Safety,2020,735,True,Developing
+United States,AI Safety,2024,2480,True,Developed
+India,All,2021,29077,True,Developing
+South Africa,All,2020,692,True,Developing
+Germany,Large language models,2017,49,True,Developed
+China,Large language models,2023,10607,True,Developing
+United States,Natural Language Processing,2026,101,False,Developed
+India,Natural Language Processing,2025,1746,False,Developing
+United States,Robotics,2023,7273,True,Developed
+United States,Robotics,2025,4583,False,Developed
+Germany,All,2019,8550,True,Developed
+China,Large language models,2019,1545,True,Developing
+India,Natural Language Processing,2016,1029,True,Developing
+United States,Robotics,2021,6976,True,Developed
+Sweden,Robotics,2025,251,False,Developed
+Germany,Robotics,2023,2568,True,Developed
+India,Robotics,2023,2663,True,Developing
+South Africa,Robotics,2020,67,True,Developing
+United States,AI Safety,2022,1817,True,Developed
+China,All,2022,82800,True,Developing
+India,Computer Vision,2025,8348,False,Developing
+India,Large language models,2025,812,False,Developing
+China,Natural Language Processing,2018,2857,True,Developing
+Germany,Robotics,2017,1778,True,Developed
+Germany,Robotics,2024,2370,True,Developed
+China,All,2024,110110,True,Developing
+Germany,Computer Vision,2020,2417,True,Developed
+Germany,Computer Vision,2024,3048,True,Developed
+Sweden,Large language models,2019,22,True,Developed
+Sweden,Large language models,2024,122,True,Developed
+Germany,Large language models,2018,82,True,Developed
+United States,Natural Language Processing,2017,2826,True,Developed
+United States,Natural Language Processing,2018,3402,True,Developed
+United States,Natural Language Processing,2023,6177,True,Developed
+Germany,Robotics,2016,1716,True,Developed
+India,Robotics,2025,1253,False,Developing
+South Africa,Computer Vision,2018,101,True,Developing
+China,Computer Vision,2018,16756,True,Developing
+Germany,Computer Vision,2022,3178,True,Developed
+South Africa,Natural Language Processing,2020,63,True,Developing
+China,Natural Language Processing,2026,185,False,Developing
+Sweden,Natural Language Processing,2019,156,True,Developed
+South Africa,Robotics,2017,55,True,Developing
+India,Computer Vision,2018,6197,True,Developing
+China,Computer Vision,2020,25471,True,Developing
+China,Computer Vision,2026,1540,False,Developing
+Sweden,Large language models,2017,3,True,Developed
+Sweden,Large language models,2022,89,True,Developed
+Germany,Large language models,2016,36,True,Developed
+Germany,Large language models,2024,915,True,Developed
+Germany,Natural Language Processing,2016,924,True,Developed
+China,Robotics,2024,16017,True,Developing
+South Africa,AI Safety,2016,6,True,Developing
+India,AI Safety,2025,646,False,Developing
+Sweden,All,2026,73,False,Developed
+China,Computer Vision,2023,43603,True,Developing
+Sweden,Natural Language Processing,2016,159,True,Developed
+India,AI Safety,2017,24,True,Developing
+China,All,2017,26566,True,Developing
+Sweden,All,2024,2385,True,Developed
+Germany,Natural Language Processing,2018,1019,True,Developed
+Sweden,Robotics,2024,414,True,Developed
+Germany,AI Safety,2024,562,True,Developed
+South Africa,AI Safety,2025,19,False,Developing
+India,AI Safety,2021,160,True,Developing
+India,All,2016,10234,True,Developing
+United States,Computer Vision,2018,7212,True,Developed
+United States,Computer Vision,2022,10466,True,Developed
+China,Large language models,2017,285,True,Developing
+United States,Natural Language Processing,2019,4094,True,Developed
+South Africa,Natural Language Processing,2019,44,True,Developing
+Germany,Natural Language Processing,2019,1110,True,Developed
+Sweden,Robotics,2021,408,True,Developed
+Sweden,AI Safety,2016,16,True,Developed
+United States,AI Safety,2020,1979,True,Developed
+United States,All,2026,1147,False,Developed
+South Africa,All,2023,1113,True,Developing
+Sweden,Computer Vision,2024,474,True,Developed
+Germany,Large language models,2020,263,True,Developed
+Sweden,Natural Language Processing,2018,156,True,Developed
+Germany,Natural Language Processing,2017,936,True,Developed
+Sweden,Robotics,2018,341,True,Developed
+India,Computer Vision,2021,11518,True,Developing
+Sweden,Large language models,2021,65,True,Developed
+South Africa,Large language models,2024,37,True,Developing
+China,Natural Language Processing,2021,5998,True,Developing
+Germany,Robotics,2025,1383,False,Developed
+India,Robotics,2022,2246,True,Developing
+Sweden,AI Safety,2021,58,True,Developed
+United States,All,2018,29526,True,Developed
+United States,All,2021,46801,True,Developed
+United States,All,2024,48876,True,Developed
+China,Computer Vision,2021,31861,True,Developing
+Germany,Computer Vision,2016,1394,True,Developed
+India,Large language models,2022,602,True,Developing
+United States,Natural Language Processing,2021,5339,True,Developed
+India,Natural Language Processing,2018,1485,True,Developing
+India,Robotics,2021,2139,True,Developing
+India,AI Safety,2024,1299,True,Developing
+United States,AI Safety,2018,995,True,Developed
+China,All,2019,48935,True,Developing
+South Africa,All,2019,469,True,Developing
+Sweden,All,2022,2333,True,Developed
+China,Computer Vision,2016,9900,True,Developing
+India,Natural Language Processing,2026,1,False,Developing
+United States,Robotics,2022,6700,True,Developed
+South Africa,Robotics,2024,62,True,Developing
+Germany,AI Safety,2021,423,True,Developed
+Germany,AI Safety,2026,2,False,Developed
+India,Computer Vision,2024,18249,True,Developing
+China,Computer Vision,2022,35321,True,Developing
+Germany,Computer Vision,2025,1658,False,Developed
+South Africa,Large language models,2017,2,True,Developing
+India,Large language models,2018,60,True,Developing
+Sweden,Natural Language Processing,2026,5,False,Developed
+India,Robotics,2020,1666,True,Developing
+China,Robotics,2026,817,False,Developing
+Germany,All,2026,189,False,Developed
+Germany,Natural Language Processing,2020,1290,True,Developed
+Germany,AI Safety,2017,127,True,Developed
+United States,AI Safety,2017,611,True,Developed
+United States,AI Safety,2026,35,False,Developed
+Sweden,All,2019,1459,True,Developed
+Sweden,Computer Vision,2021,412,True,Developed
+United States,Natural Language Processing,2024,4801,True,Developed
+South Africa,Robotics,2021,91,True,Developing
+China,Robotics,2016,4217,True,Developing
+United States,AI Safety,2019,1482,True,Developed
+United States,Computer Vision,2016,5050,True,Developed
+Germany,Large language models,2019,158,True,Developed
+United States,Natural Language Processing,2022,4996,True,Developed
+China,Robotics,2018,6335,True,Developing
+Germany,AI Safety,2023,582,True,Developed
+India,All,2018,14100,True,Developing
+Sweden,All,2020,1885,True,Developed
+Sweden,All,2021,2115,True,Developed
+South Africa,Computer Vision,2022,186,True,Developing
+India,Computer Vision,2016,4922,True,Developing
+India,Computer Vision,2019,6823,True,Developing
+China,Natural Language Processing,2025,4755,False,Developing
+Germany,Robotics,2020,2087,True,Developed
+India,Robotics,2019,1427,True,Developing
+Sweden,AI Safety,2023,94,True,Developed
+China,AI Safety,2024,2267,True,Developing
+India,All,2024,51154,True,Developing
+Sweden,Computer Vision,2018,219,True,Developed
+Germany,Large language models,2023,991,True,Developed
+United States,Large language models,2025,3625,False,Developed
+United States,Large language models,2026,1,False,Developed
+China,All,2025,79698,False,Developing
+India,All,2020,20777,True,Developing
+South Africa,Computer Vision,2021,181,True,Developing
+India,Robotics,2016,990,True,Developing
+China,Robotics,2019,7876,True,Developing
+Germany,AI Safety,2016,102,True,Developed
+South Africa,AI Safety,2017,4,True,Developing
+China,Large language models,2025,9128,False,Developing
+Germany,Natural Language Processing,2024,1088,True,Developed
+China,Robotics,2025,11258,False,Developing
+Sweden,AI Safety,2018,26,True,Developed
+Germany,All,2018,7256,True,Developed
+Sweden,Computer Vision,2025,279,False,Developed
+South Africa,Computer Vision,2020,187,True,Developing
+South Africa,Large language models,2019,3,True,Developing
+India,Large language models,2023,968,True,Developing
+India,Natural Language Processing,2017,1141,True,Developing
+South Africa,Natural Language Processing,2016,47,True,Developing
+South Africa,Natural Language Processing,2018,38,True,Developing
+South Africa,Natural Language Processing,2025,55,False,Developing
+United States,All,2020,42988,True,Developed
+Sweden,Computer Vision,2019,294,True,Developed
+South Africa,Computer Vision,2026,3,False,Developing
+India,Computer Vision,2020,8350,True,Developing
+Sweden,Large language models,2016,3,True,Developed
+United States,Large language models,2020,2150,True,Developed
+United States,Natural Language Processing,2025,3244,False,Developed
+China,Robotics,2023,15994,True,Developing
+South Africa,AI Safety,2022,10,True,Developing
+South Africa,Computer Vision,2016,88,True,Developing
+South Africa,Computer Vision,2024,205,True,Developing
+South Africa,Large language models,2018,1,True,Developing
+India,Natural Language Processing,2022,2712,True,Developing
+Sweden,Robotics,2016,329,True,Developed
+Sweden,Robotics,2023,484,True,Developed
+South Africa,Robotics,2022,74,True,Developing
+China,AI Safety,2016,91,True,Developing
+United States,Computer Vision,2021,11166,True,Developed
+China,Computer Vision,2019,22240,True,Developing
+Germany,Computer Vision,2018,1746,True,Developed
+South Africa,Large language models,2023,38,True,Developing
+China,Large language models,2018,682,True,Developing
+China,Robotics,2017,5044,True,Developing
+India,AI Safety,2022,187,True,Developing
+United States,All,2019,36330,True,Developed
+South Africa,All,2016,346,True,Developing
+Germany,All,2025,7211,False,Developed
+South Africa,Computer Vision,2017,86,True,Developing
+China,Large language models,2024,12280,True,Developing
+United States,Robotics,2018,5951,True,Developed
+United States,Robotics,2020,7075,True,Developed
+Germany,AI Safety,2018,215,True,Developed
+China,AI Safety,2025,2244,False,Developing
+China,All,2021,72439,True,Developing
+China,Computer Vision,2017,11933,True,Developing
+Sweden,Large language models,2018,9,True,Developed
+India,Large language models,2019,106,True,Developing
+South Africa,Natural Language Processing,2021,73,True,Developing
+United States,Robotics,2017,5486,True,Developed
+United States,AI Safety,2025,2047,False,Developed
+South Africa,All,2018,383,True,Developing
+Sweden,Computer Vision,2016,216,True,Developed
+China,Computer Vision,2025,30822,False,Developing
+Germany,Computer Vision,2019,2092,True,Developed
+Germany,Computer Vision,2021,2888,True,Developed
+United States,Large language models,2023,5184,True,Developed
+United States,Large language models,2024,5090,True,Developed
+Sweden,Natural Language Processing,2023,253,True,Developed
+Germany,Natural Language Processing,2022,1257,True,Developed
+India,Robotics,2024,2734,True,Developing
+United States,AI Safety,2023,2206,True,Developed
+Sweden,All,2018,1208,True,Developed
+India,Natural Language Processing,2021,2688,True,Developing
+India,Natural Language Processing,2023,3639,True,Developing
+South Africa,Natural Language Processing,2023,124,True,Developing
+China,Natural Language Processing,2019,3917,True,Developing
+Germany,AI Safety,2020,398,True,Developed
+China,AI Safety,2018,295,True,Developing
+China,AI Safety,2022,939,True,Developing
+China,AI Safety,2023,1579,True,Developing
+United States,Computer Vision,2025,6768,False,Developed
+Germany,Computer Vision,2017,1448,True,Developed
+United States,Large language models,2021,3140,True,Developed
+Germany,Natural Language Processing,2025,677,False,Developed
+India,AI Safety,2016,17,True,Developing
+India,All,2019,16142,True,Developing
+Sweden,All,2016,1060,True,Developed
+South Africa,Large language models,2022,24,True,Developing
+China,Large language models,2026,4,False,Developing
+United States,Large language models,2018,649,True,Developed
+Sweden,Natural Language Processing,2017,142,True,Developed
+South Africa,Robotics,2018,56,True,Developing
+China,All,2020,56769,True,Developing
+Sweden,All,2025,1581,False,Developed
+India,Large language models,2020,227,True,Developing
+United States,Natural Language Processing,2016,2844,True,Developed
+India,Natural Language Processing,2020,2051,True,Developing
+Sweden,Natural Language Processing,2022,204,True,Developed
+China,Robotics,2020,8202,True,Developing
+South Africa,All,2024,1087,True,Developing
+India,Computer Vision,2026,14,False,Developing
+India,Large language models,2016,12,True,Developing
+Sweden,Natural Language Processing,2021,202,True,Developed
+Germany,Natural Language Processing,2026,17,False,Developed
+United States,Robotics,2024,7162,True,Developed
+Germany,AI Safety,2019,242,True,Developed
+China,All,2018,36754,True,Developing
+Germany,All,2020,10050,True,Developed
+Sweden,Computer Vision,2026,12,False,Developed
+Sweden,Large language models,2025,116,False,Developed
+South Africa,Large language models,2021,16,True,Developing
+China,Large language models,2020,2613,True,Developing
+China,Natural Language Processing,2024,6883,True,Developing
+Sweden,Natural Language Processing,2025,117,False,Developed
+Sweden,Robotics,2017,313,True,Developed
+Germany,Robotics,2022,2485,True,Developed
+China,Robotics,2022,13063,True,Developing
+South Africa,AI Safety,2018,6,True,Developing
+China,AI Safety,2017,167,True,Developing
+South Africa,All,2026,7,False,Developing
+Germany,All,2016,5930,True,Developed
+China,Large language models,2021,4463,True,Developing
+China,Large language models,2022,6225,True,Developing
+India,Large language models,2017,28,True,Developing
+China,Natural Language Processing,2017,1952,True,Developing
+China,Natural Language Processing,2020,4794,True,Developing

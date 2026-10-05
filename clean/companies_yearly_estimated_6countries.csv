@@ -1,0 +1,2056 @@
+country,field,year,estimated_investment,complete,group
+United States,Agriculture,2017,73,True,Developed
+India,Biotechnology,2023,5,True,Developing
+South Africa,Community and Lifestyle,2024,0,True,Developing
+Germany,Community and Lifestyle,2022,187,True,Developed
+India,Consumer goods,2022,288,True,Developing
+United States,Cyber Security,2019,2617,True,Developed
+Germany,Data and analytics,2021,2068,True,Developed
+Sweden,Data and analytics,2022,3586,True,Developed
+China,Education,2016,193,True,Developing
+China,Education,2020,1283,True,Developing
+Germany,Education,2021,131,True,Developed
+China,Energy and natural resources,2016,17,True,Developing
+China,Energy and natural resources,2020,19,True,Developing
+China,Gaming,2019,2,True,Developing
+China,Gaming,2023,1,True,Developing
+India,General purpose,2016,106,True,Developing
+South Africa,Hardware,2018,1,True,Developing
+Germany,Hardware,2019,166,True,Developed
+Germany,Healthcare and Life Sciences,2017,35,True,Developed
+India,Healthcare and Life Sciences,2016,4,True,Developing
+United States,Information Technology,2019,34008,True,Developed
+Germany,Lending and Investments,2026,7,False,Developed
+United States,Lending and Investments,2019,3087,True,Developed
+South Africa,Media and Entertainment,2020,1,True,Developing
+Sweden,"Military, public safety and government",2023,2,True,Developed
+India,"Military, public safety and government",2022,47,True,Developing
+Germany,"Military, public safety and government",2025,357,True,Developed
+India,"Mobile, platforms & Internet services",2022,801,True,Developing
+South Africa,Navigation and mapping,2023,1,True,Developing
+China,Navigation and mapping,2026,303,False,Developing
+India,Other,2024,22,True,Developing
+Germany,Other,2023,314,True,Developed
+United States,Privacy and Security,2020,4160,True,Developed
+Sweden,Real estate,2019,3,True,Developed
+Sweden,Robotics,2020,2,True,Developed
+United States,"Sales, retail, commerce, marketing",2016,2532,True,Developed
+Sweden,"Sales, retail, commerce, marketing",2016,10,True,Developed
+China,Semiconductor,2024,473,True,Developing
+China,Semiconductor,2026,418,False,Developing
+South Africa,Software,2024,215,True,Developing
+South Africa,Software,2025,89,True,Developing
+India,Speech Recognition,2026,7,False,Developing
+United States,Speech Recognition,2022,310,True,Developed
+United States,Sports,2022,597,True,Developed
+China,Telecommunications,2024,1,True,Developing
+Germany,Telecommunications,2022,135,True,Developed
+United States,Transportation,2021,18595,True,Developed
+China,Transportation,2018,954,True,Developing
+Germany,Agriculture,2018,14,True,Developed
+India,All,2018,2541,True,Developing
+South Africa,Biotechnology,2022,8,True,Developing
+India,Computer Vision,2020,13,True,Developing
+Germany,Cyber Security,2018,9,True,Developed
+India,Data and analytics,2019,594,True,Developing
+India,Data and analytics,2021,1063,True,Developing
+United States,Data and analytics,2021,96490,True,Developed
+Sweden,Energy and natural resources,2017,167,True,Developed
+Germany,Finance,2018,379,True,Developed
+South Africa,Finance,2026,1,False,Developing
+United States,Gaming,2019,194,True,Developed
+China,General purpose,2024,10614,True,Developing
+South Africa,General purpose,2021,7,True,Developing
+Sweden,General purpose,2025,3106,True,Developed
+South Africa,Hardware,2023,1,True,Developing
+India,Hardware,2023,2539,True,Developing
+India,Healthcare and Life Sciences,2022,155,True,Developing
+Sweden,Healthcare and Life Sciences,2022,50,True,Developed
+Sweden,Manufacturing,2026,8,False,Developed
+United States,Manufacturing,2019,2002,True,Developed
+Germany,Media and Entertainment,2019,12,True,Developed
+India,"Mobile, platforms & Internet services",2018,357,True,Developing
+India,"Mobile, platforms & Internet services",2026,573,False,Developing
+Sweden,"Mobile, platforms & Internet services",2019,8,True,Developed
+South Africa,Other,2026,5,False,Developing
+United States,Other,2025,10250,True,Developed
+Germany,Privacy and Security,2019,106,True,Developed
+Germany,Real estate,2018,259,True,Developed
+United States,"Sales, retail, commerce, marketing",2020,7778,True,Developed
+United States,Semiconductor,2018,102,True,Developed
+Sweden,Software,2026,1860,False,Developed
+United States,Speech Recognition,2017,73,True,Developed
+India,Sports,2022,8,True,Developing
+China,Telecommunications,2018,20,True,Developing
+Germany,Telecommunications,2025,106,True,Developed
+Germany,Agriculture,2021,238,True,Developed
+South Africa,All,2025,218,True,Developing
+Germany,All,2025,28389,True,Developed
+China,Biotechnology,2026,494,False,Developing
+South Africa,Community and Lifestyle,2023,1,True,Developing
+China,Computer Vision,2026,210,False,Developing
+Germany,Computer Vision,2018,388,True,Developed
+Sweden,Consumer goods,2021,6,True,Developed
+United States,Data and analytics,2022,56775,True,Developed
+Germany,Education,2019,13,True,Developed
+United States,Education,2025,3206,True,Developed
+China,Energy and natural resources,2018,6,True,Developing
+China,Facial Recognition,2019,166,True,Developing
+China,Finance,2022,136,True,Developing
+Sweden,Gaming,2017,1,True,Developed
+United States,Gaming,2017,33,True,Developed
+Germany,Gaming,2023,3,True,Developed
+India,Healthcare and Life Sciences,2021,155,True,Developing
+Sweden,Information Technology,2019,20,True,Developed
+Sweden,Information Technology,2022,3504,True,Developed
+Germany,Information Technology,2022,1519,True,Developed
+India,Lending and Investments,2021,51,True,Developing
+India,Lending and Investments,2025,63,True,Developing
+India,Media and Entertainment,2023,24,True,Developing
+China,Media and Entertainment,2017,2354,True,Developing
+South Africa,"Mobile, platforms & Internet services",2019,25,True,Developing
+United States,"Mobile, platforms & Internet services",2018,17261,True,Developed
+Germany,"Mobile, platforms & Internet services",2020,491,True,Developed
+South Africa,NLP,2024,151,True,Developing
+China,NLP,2023,15,True,Developing
+Sweden,Navigation and mapping,2016,2,True,Developed
+South Africa,Other,2023,4,True,Developing
+India,Privacy and Security,2016,1,True,Developing
+Sweden,Privacy and Security,2023,1,True,Developed
+United States,Professional services,2023,8917,True,Developed
+South Africa,Professional services,2025,62,True,Developing
+India,Real estate,2023,12,True,Developing
+Sweden,Software,2016,32,True,Developed
+Sweden,Software,2025,3674,True,Developed
+India,Speech Recognition,2024,1,True,Developing
+China,Speech Recognition,2021,22,True,Developing
+China,Speech Recognition,2025,9,True,Developing
+India,Sports,2018,0,True,Developing
+China,Telecommunications,2022,5,True,Developing
+China,Telecommunications,2025,24,True,Developing
+Sweden,Transportation,2023,6,True,Developed
+Germany,Community and Lifestyle,2018,273,True,Developed
+Germany,Consumer goods,2019,2,True,Developed
+India,Cyber Security,2023,3,True,Developing
+India,Cyber Security,2026,481,False,Developing
+China,Cyber Security,2018,44,True,Developing
+China,Cyber Security,2019,15,True,Developing
+United States,Cyber Security,2017,557,True,Developed
+United States,Cyber Security,2020,1495,True,Developed
+United States,Cyber Security,2023,3531,True,Developed
+Sweden,Cyber Security,2026,1,False,Developed
+South Africa,Data and analytics,2024,215,True,Developing
+India,Data and analytics,2025,2340,True,Developing
+India,Energy and natural resources,2023,331,True,Developing
+India,Facial Recognition,2021,0,True,Developing
+India,Finance,2017,14,True,Developing
+Sweden,Finance,2022,3438,True,Developed
+India,Gaming,2018,0,True,Developing
+China,Gaming,2024,5,True,Developing
+China,Gaming,2025,49,True,Developing
+United States,Gaming,2016,29,True,Developed
+India,Hardware,2016,12,True,Developing
+Germany,Lending and Investments,2017,128,True,Developed
+Germany,Lending and Investments,2021,60,True,Developed
+Sweden,Lending and Investments,2021,0,True,Developed
+United States,Manufacturing,2022,2353,True,Developed
+Sweden,"Mobile, platforms & Internet services",2017,6,True,Developed
+Germany,NLP,2024,3,True,Developed
+China,Navigation and mapping,2023,5,True,Developing
+India,Navigation and mapping,2023,25,True,Developing
+Germany,Navigation and mapping,2017,4,True,Developed
+India,Other,2018,12,True,Developing
+Germany,Other,2021,153,True,Developed
+United States,Other,2023,2471,True,Developed
+India,Privacy and Security,2019,8,True,Developing
+United States,Privacy and Security,2026,9893,False,Developed
+China,Professional services,2020,120,True,Developing
+India,Professional services,2023,133,True,Developing
+Sweden,Real estate,2023,3,True,Developed
+Sweden,"Sales, retail, commerce, marketing",2023,9,True,Developed
+Sweden,"Sales, retail, commerce, marketing",2025,555,True,Developed
+India,"Sales, retail, commerce, marketing",2019,105,True,Developing
+India,Sports,2025,2,True,Developing
+Germany,Telecommunications,2017,3,True,Developed
+India,Agriculture,2025,18,True,Developing
+Sweden,All,2022,4145,True,Developed
+China,All,2025,22018,True,Developing
+Sweden,Biotechnology,2026,0,False,Developed
+United States,Biotechnology,2016,428,True,Developed
+United States,Consumer goods,2026,11270,False,Developed
+Germany,Cyber Security,2021,9,True,Developed
+Sweden,Cyber Security,2023,1,True,Developed
+India,Data and analytics,2026,2443,False,Developing
+South Africa,Education,2021,1,True,Developing
+Germany,Energy and natural resources,2022,59,True,Developed
+India,Gaming,2017,0,True,Developing
+India,Gaming,2024,10,True,Developing
+Germany,General purpose,2020,1957,True,Developed
+Germany,Hardware,2021,813,True,Developed
+India,Healthcare and Life Sciences,2017,25,True,Developing
+India,Lending and Investments,2023,50,True,Developing
+Sweden,Media and Entertainment,2020,11,True,Developed
+Germany,Media and Entertainment,2024,253,True,Developed
+United States,Media and Entertainment,2021,5643,True,Developed
+Germany,NLP,2020,243,True,Developed
+China,NLP,2021,64,True,Developing
+Sweden,Other,2025,1148,True,Developed
+India,Professional services,2019,169,True,Developing
+Germany,"Sales, retail, commerce, marketing",2016,374,True,Developed
+Germany,"Sales, retail, commerce, marketing",2021,344,True,Developed
+South Africa,Software,2016,52,True,Developing
+India,Software,2016,172,True,Developing
+India,Sports,2017,1,True,Developing
+India,Sports,2026,36,False,Developing
+Germany,Transportation,2016,475,True,Developed
+South Africa,Agriculture,2023,0,True,Developing
+United States,Agriculture,2021,993,True,Developed
+Sweden,All,2018,130,True,Developed
+Sweden,Biotechnology,2017,0,True,Developed
+China,Community and Lifestyle,2025,435,True,Developing
+India,Community and Lifestyle,2019,44,True,Developing
+United States,Consumer goods,2023,1802,True,Developed
+India,Data and analytics,2017,99,True,Developing
+Sweden,Education,2018,3,True,Developed
+South Africa,Finance,2021,33,True,Developing
+South Africa,Finance,2022,0,True,Developing
+India,Gaming,2025,2,True,Developing
+China,Gaming,2018,5,True,Developing
+United States,General purpose,2016,8323,True,Developed
+China,Information Technology,2020,2005,True,Developing
+Sweden,Information Technology,2018,15,True,Developed
+Germany,Lending and Investments,2019,17,True,Developed
+China,Manufacturing,2016,42,True,Developing
+China,Manufacturing,2022,2360,True,Developing
+China,Manufacturing,2026,2851,False,Developing
+India,Manufacturing,2018,4,True,Developing
+United States,Media and Entertainment,2022,4030,True,Developed
+United States,"Military, public safety and government",2022,2588,True,Developed
+United States,"Military, public safety and government",2025,3653,True,Developed
+Sweden,"Mobile, platforms & Internet services",2021,20,True,Developed
+India,Navigation and mapping,2021,2,True,Developing
+Germany,Real estate,2024,78,True,Developed
+Sweden,Robotics,2019,14,True,Developed
+United States,Robotics,2021,3144,True,Developed
+United States,Semiconductor,2019,899,True,Developed
+China,Simulation,2024,14,True,Developing
+United States,Simulation,2017,13,True,Developed
+Germany,Simulation,2022,2,True,Developed
+Germany,Software,2025,20680,True,Developed
+India,Speech Recognition,2016,7,True,Developing
+United States,Sports,2019,220,True,Developed
+Sweden,Sports,2021,2368,True,Developed
+Germany,Sports,2021,3,True,Developed
+India,Telecommunications,2017,13,True,Developing
+Sweden,Transportation,2024,5,True,Developed
+India,Transportation,2024,88,True,Developing
+China,Transportation,2026,1488,False,Developing
+Sweden,Agriculture,2024,8,True,Developed
+United States,All,2017,26733,True,Developed
+China,Community and Lifestyle,2018,102,True,Developing
+India,Community and Lifestyle,2024,31,True,Developing
+China,Computer Vision,2025,269,True,Developing
+Germany,Consumer goods,2018,469,True,Developed
+India,Cyber Security,2021,8,True,Developing
+Sweden,Data and analytics,2018,67,True,Developed
+China,Education,2023,252,True,Developing
+Sweden,Gaming,2018,2,True,Developed
+Germany,Gaming,2024,2,True,Developed
+China,Hardware,2018,1241,True,Developing
+Germany,Hardware,2024,1067,True,Developed
+Germany,Lending and Investments,2024,83,True,Developed
+South Africa,Lending and Investments,2023,1,True,Developing
+United States,Manufacturing,2025,11669,True,Developed
+Germany,Manufacturing,2023,461,True,Developed
+United States,"Mobile, platforms & Internet services",2017,4570,True,Developed
+United States,NLP,2023,13158,True,Developed
+South Africa,Navigation and mapping,2022,0,True,Developing
+Germany,Navigation and mapping,2019,5,True,Developed
+China,Other,2022,261,True,Developing
+Sweden,Other,2022,3427,True,Developed
+United States,Privacy and Security,2021,10504,True,Developed
+India,Robotics,2025,33,True,Developing
+United States,"Sales, retail, commerce, marketing",2019,13562,True,Developed
+China,"Sales, retail, commerce, marketing",2019,147,True,Developing
+United States,Sports,2024,740,True,Developed
+China,Telecommunications,2021,15,True,Developing
+United States,Telecommunications,2018,693,True,Developed
+Germany,Transportation,2021,744,True,Developed
+Sweden,Agriculture,2025,2,True,Developed
+China,Biotechnology,2023,166,True,Developing
+United States,Biotechnology,2023,2800,True,Developed
+Germany,Community and Lifestyle,2021,167,True,Developed
+India,Data and analytics,2020,4832,True,Developing
+China,Education,2022,156,True,Developing
+United States,Energy and natural resources,2017,375,True,Developed
+United States,Energy and natural resources,2026,17940,False,Developed
+India,Gaming,2023,3,True,Developing
+United States,General purpose,2024,76901,True,Developed
+China,Healthcare and Life Sciences,2024,308,True,Developing
+United States,Healthcare and Life Sciences,2021,11769,True,Developed
+India,Information Technology,2018,409,True,Developing
+India,Information Technology,2019,403,True,Developing
+India,Information Technology,2025,1519,True,Developing
+United States,Manufacturing,2016,407,True,Developed
+United States,Manufacturing,2017,830,True,Developed
+Sweden,Media and Entertainment,2018,5,True,Developed
+China,Media and Entertainment,2018,633,True,Developing
+Sweden,"Military, public safety and government",2020,6,True,Developed
+Germany,"Military, public safety and government",2019,2,True,Developed
+China,"Mobile, platforms & Internet services",2023,675,True,Developing
+South Africa,"Mobile, platforms & Internet services",2020,20,True,Developing
+South Africa,"Mobile, platforms & Internet services",2024,0,True,Developing
+India,Privacy and Security,2018,33,True,Developing
+Germany,Professional services,2020,432,True,Developed
+India,Professional services,2016,34,True,Developing
+India,Real estate,2026,11,False,Developing
+China,Robotics,2025,2551,True,Developing
+China,"Sales, retail, commerce, marketing",2026,288,False,Developing
+Germany,"Sales, retail, commerce, marketing",2022,520,True,Developed
+India,"Sales, retail, commerce, marketing",2023,2605,True,Developing
+South Africa,"Sales, retail, commerce, marketing",2025,62,True,Developing
+India,Software,2023,3429,True,Developing
+United States,Software,2019,75125,True,Developed
+United States,Speech Recognition,2024,1053,True,Developed
+Germany,Sports,2023,1,True,Developed
+Germany,Telecommunications,2018,230,True,Developed
+Sweden,Telecommunications,2023,3,True,Developed
+China,Agriculture,2025,396,True,Developing
+Sweden,All,2025,7124,True,Developed
+Sweden,Biotechnology,2022,3,True,Developed
+United States,Community and Lifestyle,2024,1731,True,Developed
+India,Computer Vision,2026,4,False,Developing
+India,Consumer goods,2018,326,True,Developing
+South Africa,Data and analytics,2016,52,True,Developing
+United States,Data and analytics,2025,247189,True,Developed
+Sweden,Education,2024,0,True,Developed
+India,Education,2022,295,True,Developing
+China,Energy and natural resources,2023,113,True,Developing
+China,Gaming,2016,6,True,Developing
+Sweden,Gaming,2021,32,True,Developed
+Germany,General purpose,2018,1627,True,Developed
+India,General purpose,2018,652,True,Developing
+United States,Hardware,2022,9818,True,Developed
+Germany,Hardware,2020,671,True,Developed
+India,Healthcare and Life Sciences,2026,209,False,Developing
+South Africa,Healthcare and Life Sciences,2026,1,False,Developing
+Germany,Information Technology,2016,556,True,Developed
+South Africa,Information Technology,2019,26,True,Developing
+United States,Manufacturing,2023,2129,True,Developed
+Germany,Manufacturing,2020,196,True,Developed
+United States,"Mobile, platforms & Internet services",2016,4548,True,Developed
+Sweden,"Mobile, platforms & Internet services",2026,67,False,Developed
+India,Navigation and mapping,2026,0,False,Developing
+United States,Navigation and mapping,2022,1028,True,Developed
+Germany,Navigation and mapping,2016,5,True,Developed
+China,Other,2017,92,True,Developing
+Germany,Privacy and Security,2024,33,True,Developed
+Sweden,Privacy and Security,2018,1,True,Developed
+Sweden,Privacy and Security,2020,4,True,Developed
+Germany,Professional services,2019,241,True,Developed
+United States,Real estate,2017,321,True,Developed
+United States,Real estate,2022,1722,True,Developed
+Sweden,Real estate,2026,296,False,Developed
+Sweden,"Sales, retail, commerce, marketing",2017,8,True,Developed
+India,Semiconductor,2021,1,True,Developing
+Germany,Semiconductor,2017,6,True,Developed
+United States,Simulation,2021,249,True,Developed
+United States,Software,2024,83938,True,Developed
+United States,Speech Recognition,2021,290,True,Developed
+United States,Sports,2021,1250,True,Developed
+United States,Sports,2023,388,True,Developed
+United States,Sports,2025,5818,True,Developed
+China,Transportation,2024,5818,True,Developing
+Sweden,Agriculture,2020,1,True,Developed
+Sweden,Community and Lifestyle,2019,0,True,Developed
+Germany,Cyber Security,2025,840,True,Developed
+United States,Data and analytics,2016,10805,True,Developed
+United States,Data and analytics,2026,244569,False,Developed
+Sweden,Energy and natural resources,2022,3454,True,Developed
+China,Energy and natural resources,2024,32,True,Developing
+China,Energy and natural resources,2025,222,True,Developing
+India,Energy and natural resources,2020,15,True,Developing
+Germany,Energy and natural resources,2021,177,True,Developed
+India,Finance,2019,24,True,Developing
+Sweden,Gaming,2024,1,True,Developed
+China,Hardware,2026,4793,False,Developing
+United States,Hardware,2018,7927,True,Developed
+China,Healthcare and Life Sciences,2019,322,True,Developing
+South Africa,Healthcare and Life Sciences,2024,1,True,Developing
+Sweden,Information Technology,2025,2333,True,Developed
+China,Lending and Investments,2021,112,True,Developing
+South Africa,Manufacturing,2018,2,True,Developing
+Sweden,Manufacturing,2017,4,True,Developed
+India,Navigation and mapping,2016,2,True,Developing
+United States,Other,2022,7918,True,Developed
+China,Privacy and Security,2020,52,True,Developing
+Germany,Professional services,2022,338,True,Developed
+Germany,Real estate,2016,2,True,Developed
+Germany,Semiconductor,2021,1,True,Developed
+United States,Speech Recognition,2019,389,True,Developed
+China,Speech Recognition,2022,92,True,Developing
+India,Sports,2019,0,True,Developing
+South Africa,Telecommunications,2018,1,True,Developing
+China,Telecommunications,2016,12,True,Developing
+Germany,Transportation,2020,446,True,Developed
+United States,Computer Vision,2024,2445,True,Developed
+United States,Consumer goods,2019,4844,True,Developed
+Sweden,Cyber Security,2021,2,True,Developed
+United States,Finance,2019,7924,True,Developed
+India,General purpose,2024,850,True,Developing
+Sweden,General purpose,2021,10168,True,Developed
+Sweden,Hardware,2020,28,True,Developed
+South Africa,Hardware,2024,2,True,Developing
+China,Healthcare and Life Sciences,2018,500,True,Developing
+South Africa,Healthcare and Life Sciences,2025,6,True,Developing
+Sweden,Information Technology,2020,3451,True,Developed
+India,Lending and Investments,2022,42,True,Developing
+South Africa,Lending and Investments,2020,23,True,Developing
+South Africa,Media and Entertainment,2021,0,True,Developing
+China,"Military, public safety and government",2024,14,True,Developing
+United States,"Mobile, platforms & Internet services",2021,24733,True,Developed
+Germany,"Mobile, platforms & Internet services",2018,1028,True,Developed
+United States,NLP,2025,6113,True,Developed
+United States,Navigation and mapping,2021,1063,True,Developed
+Germany,Navigation and mapping,2020,232,True,Developed
+United States,Professional services,2021,16314,True,Developed
+Germany,Real estate,2020,12,True,Developed
+China,Robotics,2016,218,True,Developing
+Sweden,Robotics,2025,2,True,Developed
+United States,"Sales, retail, commerce, marketing",2023,5208,True,Developed
+India,"Sales, retail, commerce, marketing",2018,349,True,Developing
+Germany,Semiconductor,2023,3,True,Developed
+Germany,Simulation,2024,3,True,Developed
+India,Simulation,2022,165,True,Developing
+United States,Transportation,2025,32153,True,Developed
+China,Transportation,2022,1087,True,Developing
+India,Agriculture,2020,3,True,Developing
+China,Agriculture,2026,221,False,Developing
+Germany,All,2017,1147,True,Developed
+China,All,2017,7061,True,Developing
+Germany,Computer Vision,2019,14,True,Developed
+China,Consumer goods,2016,110,True,Developing
+Germany,Data and analytics,2018,1050,True,Developed
+Germany,Data and analytics,2019,663,True,Developed
+China,Education,2017,193,True,Developing
+China,Education,2026,197,False,Developing
+United States,Energy and natural resources,2025,4342,True,Developed
+United States,Finance,2023,6026,True,Developed
+Germany,Gaming,2018,3,True,Developed
+Germany,Gaming,2025,6,True,Developed
+China,General purpose,2016,4152,True,Developing
+South Africa,General purpose,2023,23,True,Developing
+China,Hardware,2025,5218,True,Developing
+China,Healthcare and Life Sciences,2020,446,True,Developing
+India,Lending and Investments,2019,7,True,Developing
+India,Manufacturing,2017,4,True,Developing
+China,Media and Entertainment,2026,486,False,Developing
+United States,"Mobile, platforms & Internet services",2026,44011,False,Developed
+India,NLP,2023,33,True,Developing
+India,NLP,2025,32,True,Developing
+China,NLP,2019,28,True,Developing
+China,Navigation and mapping,2021,26,True,Developing
+China,Other,2024,188,True,Developing
+China,Privacy and Security,2024,97,True,Developing
+United States,Professional services,2019,11169,True,Developed
+China,Professional services,2017,58,True,Developing
+China,Professional services,2019,111,True,Developing
+South Africa,Professional services,2024,3,True,Developing
+South Africa,Real estate,2023,1,True,Developing
+India,Robotics,2024,29,True,Developing
+China,Semiconductor,2022,333,True,Developing
+China,Simulation,2023,3,True,Developing
+Germany,Simulation,2021,53,True,Developed
+Sweden,Software,2019,147,True,Developed
+Sweden,Agriculture,2023,3,True,Developed
+South Africa,All,2026,100,False,Developing
+Sweden,Biotechnology,2021,3,True,Developed
+India,Biotechnology,2018,0,True,Developing
+China,Community and Lifestyle,2017,79,True,Developing
+South Africa,Community and Lifestyle,2020,0,True,Developing
+Germany,Cyber Security,2026,282,False,Developed
+China,Cyber Security,2025,7,True,Developing
+Sweden,Data and analytics,2023,122,True,Developed
+United States,Facial Recognition,2017,6,True,Developed
+India,Facial Recognition,2020,2,True,Developing
+China,Finance,2023,101,True,Developing
+Germany,Finance,2016,132,True,Developed
+Sweden,Finance,2016,1,True,Developed
+Sweden,Finance,2020,3430,True,Developed
+Sweden,Finance,2021,2393,True,Developed
+Germany,General purpose,2024,3949,True,Developed
+China,Information Technology,2026,2001,False,Developing
+China,Lending and Investments,2020,53,True,Developing
+Sweden,Manufacturing,2023,9,True,Developed
+United States,Manufacturing,2020,1796,True,Developed
+Germany,"Military, public safety and government",2021,146,True,Developed
+India,"Mobile, platforms & Internet services",2020,12019,True,Developing
+United States,Navigation and mapping,2018,222,True,Developed
+Germany,Other,2024,507,True,Developed
+Sweden,Other,2018,4,True,Developed
+Sweden,Other,2024,15,True,Developed
+India,Privacy and Security,2024,32,True,Developing
+United States,Real estate,2020,1651,True,Developed
+Germany,Robotics,2021,213,True,Developed
+China,Semiconductor,2023,532,True,Developing
+Germany,Semiconductor,2022,3,True,Developed
+United States,Software,2026,274628,False,Developed
+India,Transportation,2022,208,True,Developing
+Germany,Agriculture,2025,19,True,Developed
+South Africa,All,2018,70,True,Developing
+Sweden,All,2024,5469,True,Developed
+Germany,Biotechnology,2024,23,True,Developed
+China,Community and Lifestyle,2020,487,True,Developing
+South Africa,Community and Lifestyle,2016,52,True,Developing
+Sweden,Community and Lifestyle,2018,10,True,Developed
+Sweden,Computer Vision,2023,2,True,Developed
+United States,Computer Vision,2018,1844,True,Developed
+Sweden,Cyber Security,2022,0,True,Developed
+United States,Data and analytics,2018,35742,True,Developed
+China,Data and analytics,2021,6205,True,Developing
+China,Education,2019,92,True,Developing
+Germany,Energy and natural resources,2019,20,True,Developed
+China,Finance,2020,163,True,Developing
+Germany,Finance,2022,216,True,Developed
+United States,Finance,2024,9463,True,Developed
+China,Gaming,2022,30,True,Developing
+India,General purpose,2022,1911,True,Developing
+China,Hardware,2016,470,True,Developing
+United States,Hardware,2017,4090,True,Developed
+India,Healthcare and Life Sciences,2018,513,True,Developing
+Sweden,Healthcare and Life Sciences,2016,2,True,Developed
+Sweden,Healthcare and Life Sciences,2019,10,True,Developed
+South Africa,Information Technology,2021,4,True,Developing
+South Africa,Manufacturing,2023,1,True,Developing
+United States,Manufacturing,2021,4079,True,Developed
+India,Manufacturing,2022,61,True,Developing
+Germany,Manufacturing,2026,633,False,Developed
+China,Media and Entertainment,2023,378,True,Developing
+Germany,Media and Entertainment,2018,487,True,Developed
+China,"Mobile, platforms & Internet services",2021,1275,True,Developing
+Sweden,"Mobile, platforms & Internet services",2024,11,True,Developed
+India,NLP,2016,8,True,Developing
+Sweden,NLP,2021,3,True,Developed
+Germany,Professional services,2016,250,True,Developed
+Germany,Professional services,2018,938,True,Developed
+Germany,Robotics,2018,237,True,Developed
+India,"Sales, retail, commerce, marketing",2026,551,False,Developing
+Germany,Semiconductor,2025,46,True,Developed
+India,Simulation,2026,0,False,Developing
+China,Software,2022,5999,True,Developing
+Sweden,Software,2018,88,True,Developed
+India,Speech Recognition,2018,9,True,Developing
+China,Speech Recognition,2016,51,True,Developing
+China,Speech Recognition,2019,15,True,Developing
+China,Sports,2016,10,True,Developing
+United States,Telecommunications,2016,455,True,Developed
+United States,Transportation,2016,2417,True,Developed
+United States,Agriculture,2024,683,True,Developed
+United States,Agriculture,2025,981,True,Developed
+China,Biotechnology,2025,131,True,Developing
+United States,Community and Lifestyle,2019,2130,True,Developed
+Sweden,Community and Lifestyle,2017,9,True,Developed
+China,Computer Vision,2023,90,True,Developing
+United States,Computer Vision,2019,3941,True,Developed
+Germany,Computer Vision,2025,954,True,Developed
+South Africa,Consumer goods,2021,0,True,Developing
+China,Data and analytics,2024,9809,True,Developing
+China,Data and analytics,2026,11353,False,Developing
+China,Finance,2017,158,True,Developing
+China,Finance,2019,193,True,Developing
+China,Finance,2024,755,True,Developing
+China,Gaming,2017,11,True,Developing
+Sweden,General purpose,2024,110,True,Developed
+China,Hardware,2021,3008,True,Developing
+Sweden,Hardware,2024,7,True,Developed
+United States,Healthcare and Life Sciences,2017,1831,True,Developed
+United States,Healthcare and Life Sciences,2025,52450,True,Developed
+Sweden,Healthcare and Life Sciences,2020,30,True,Developed
+Sweden,Healthcare and Life Sciences,2021,2375,True,Developed
+Germany,Lending and Investments,2018,3,True,Developed
+United States,Lending and Investments,2025,4967,True,Developed
+South Africa,Manufacturing,2021,0,True,Developing
+Sweden,Manufacturing,2020,4,True,Developed
+China,Manufacturing,2019,699,True,Developing
+China,"Mobile, platforms & Internet services",2016,3335,True,Developing
+South Africa,NLP,2021,0,True,Developing
+Sweden,Navigation and mapping,2021,3,True,Developed
+India,Navigation and mapping,2018,1,True,Developing
+United States,Navigation and mapping,2026,2270,False,Developed
+Germany,Navigation and mapping,2022,31,True,Developed
+Germany,Other,2018,243,True,Developed
+Sweden,Privacy and Security,2017,1,True,Developed
+Sweden,Privacy and Security,2026,8,False,Developed
+United States,Real estate,2019,4088,True,Developed
+China,Real estate,2021,293,True,Developing
+United States,"Sales, retail, commerce, marketing",2022,16633,True,Developed
+Sweden,"Sales, retail, commerce, marketing",2021,604,True,Developed
+United States,Semiconductor,2022,640,True,Developed
+Germany,Software,2022,2896,True,Developed
+Sweden,Sports,2019,5,True,Developed
+United States,Agriculture,2016,39,True,Developed
+India,All,2025,5677,True,Developing
+India,Biotechnology,2024,15,True,Developing
+United States,Community and Lifestyle,2021,2370,True,Developed
+China,Community and Lifestyle,2016,28,True,Developing
+South Africa,Community and Lifestyle,2026,0,False,Developing
+Germany,Community and Lifestyle,2020,25,True,Developed
+South Africa,Computer Vision,2022,8,True,Developing
+United States,Consumer goods,2021,5642,True,Developed
+China,Consumer goods,2025,254,True,Developing
+India,Cyber Security,2024,2,True,Developing
+Germany,Data and analytics,2026,6812,False,Developed
+India,Data and analytics,2022,2287,True,Developing
+Sweden,Education,2021,2403,True,Developed
+South Africa,Education,2019,0,True,Developing
+United States,Energy and natural resources,2023,1266,True,Developed
+United States,General purpose,2020,39007,True,Developed
+South Africa,General purpose,2018,6,True,Developing
+United States,Hardware,2019,16982,True,Developed
+China,Information Technology,2022,2156,True,Developing
+South Africa,Information Technology,2018,3,True,Developing
+South Africa,Information Technology,2026,10,False,Developing
+Germany,Lending and Investments,2025,963,True,Developed
+South Africa,Lending and Investments,2018,18,True,Developing
+United States,"Military, public safety and government",2018,334,True,Developed
+Germany,NLP,2017,3,True,Developed
+United States,Navigation and mapping,2025,1068,True,Developed
+India,Other,2022,153,True,Developing
+Germany,Privacy and Security,2021,18,True,Developed
+China,Privacy and Security,2017,70,True,Developing
+United States,Real estate,2025,4427,True,Developed
+China,Real estate,2024,30,True,Developing
+India,Real estate,2025,22,True,Developing
+China,Robotics,2018,441,True,Developing
+Sweden,Robotics,2026,5,False,Developed
+China,"Sales, retail, commerce, marketing",2025,325,True,Developing
+Germany,Software,2018,1929,True,Developed
+Germany,Software,2026,7591,False,Developed
+Germany,Sports,2026,1,False,Developed
+India,Transportation,2020,21,True,Developing
+United States,Transportation,2024,11478,True,Developed
+Germany,Transportation,2025,6060,True,Developed
+Germany,Agriculture,2022,11,True,Developed
+Germany,Biotechnology,2021,90,True,Developed
+China,Community and Lifestyle,2022,62,True,Developing
+Germany,Consumer goods,2016,179,True,Developed
+China,Cyber Security,2017,36,True,Developing
+Sweden,Cyber Security,2020,0,True,Developed
+Sweden,Data and analytics,2021,10226,True,Developed
+China,Energy and natural resources,2019,20,True,Developing
+United States,Facial Recognition,2021,1203,True,Developed
+United States,Finance,2017,1242,True,Developed
+India,Finance,2024,244,True,Developing
+China,Gaming,2021,60,True,Developing
+China,General purpose,2022,5722,True,Developing
+Sweden,General purpose,2019,49,True,Developed
+Germany,Healthcare and Life Sciences,2023,75,True,Developed
+South Africa,Healthcare and Life Sciences,2023,6,True,Developing
+United States,Information Technology,2016,5840,True,Developed
+India,Information Technology,2023,2980,True,Developing
+India,Information Technology,2024,293,True,Developing
+Sweden,Information Technology,2026,46,False,Developed
+Germany,Information Technology,2018,1820,True,Developed
+Germany,Information Technology,2019,446,True,Developed
+South Africa,Information Technology,2022,170,True,Developing
+United States,Lending and Investments,2021,4040,True,Developed
+India,Lending and Investments,2018,16,True,Developing
+China,Lending and Investments,2022,30,True,Developing
+Sweden,Manufacturing,2024,14,True,Developed
+Germany,Manufacturing,2022,269,True,Developed
+Germany,Manufacturing,2025,2603,True,Developed
+Sweden,Media and Entertainment,2025,3,True,Developed
+India,"Military, public safety and government",2023,1,True,Developing
+China,"Mobile, platforms & Internet services",2025,1087,True,Developing
+Germany,"Mobile, platforms & Internet services",2024,776,True,Developed
+Germany,NLP,2025,7,True,Developed
+China,NLP,2018,172,True,Developing
+Sweden,Navigation and mapping,2018,1,True,Developed
+United States,Navigation and mapping,2017,138,True,Developed
+Germany,Other,2017,39,True,Developed
+Germany,Other,2022,186,True,Developed
+Germany,Privacy and Security,2026,508,False,Developed
+United States,Privacy and Security,2024,9514,True,Developed
+China,Professional services,2021,221,True,Developing
+South Africa,Real estate,2019,124,True,Developing
+India,Real estate,2022,56,True,Developing
+Germany,Robotics,2022,248,True,Developed
+India,Robotics,2023,6,True,Developing
+United States,Robotics,2022,1448,True,Developed
+South Africa,Robotics,2020,52,True,Developing
+United States,"Sales, retail, commerce, marketing",2018,6910,True,Developed
+China,"Sales, retail, commerce, marketing",2023,140,True,Developing
+India,Semiconductor,2026,26,False,Developing
+Germany,Semiconductor,2020,6,True,Developed
+United States,Simulation,2024,207,True,Developed
+China,Speech Recognition,2017,19,True,Developing
+Germany,Speech Recognition,2019,0,True,Developed
+India,Telecommunications,2026,17,False,Developing
+China,Transportation,2021,1207,True,Developing
+India,Agriculture,2019,12,True,Developing
+Sweden,Agriculture,2018,2,True,Developed
+United States,Agriculture,2018,2348,True,Developed
+South Africa,All,2022,200,True,Developing
+Sweden,All,2021,18369,True,Developed
+United States,All,2026,636732,False,Developed
+Germany,Biotechnology,2022,36,True,Developed
+United States,Biotechnology,2025,21958,True,Developed
+India,Community and Lifestyle,2025,11,True,Developing
+Sweden,Computer Vision,2024,2,True,Developed
+Sweden,Consumer goods,2020,6,True,Developed
+Sweden,Consumer goods,2025,0,True,Developed
+Sweden,Consumer goods,2026,7,False,Developed
+Germany,Consumer goods,2017,0,True,Developed
+Sweden,Data and analytics,2020,3511,True,Developed
+Germany,Finance,2026,1155,False,Developed
+China,Gaming,2020,34,True,Developing
+China,General purpose,2019,3002,True,Developing
+China,Healthcare and Life Sciences,2026,1591,False,Developing
+South Africa,Information Technology,2023,6,True,Developing
+China,Lending and Investments,2024,21,True,Developing
+United States,Manufacturing,2018,3888,True,Developed
+China,Manufacturing,2023,2227,True,Developing
+Germany,Manufacturing,2016,242,True,Developed
+China,"Military, public safety and government",2018,17,True,Developing
+China,"Mobile, platforms & Internet services",2019,813,True,Developing
+United States,NLP,2026,9234,False,Developed
+Germany,Navigation and mapping,2021,137,True,Developed
+China,Other,2020,269,True,Developing
+Germany,Other,2025,1925,True,Developed
+United States,Privacy and Security,2025,32039,True,Developed
+United States,Professional services,2022,9354,True,Developed
+China,Professional services,2026,697,False,Developing
+India,Real estate,2018,0,True,Developing
+United States,Robotics,2020,3661,True,Developed
+India,"Sales, retail, commerce, marketing",2025,198,True,Developing
+South Africa,"Sales, retail, commerce, marketing",2023,2,True,Developing
+Germany,Simulation,2017,1,True,Developed
+United States,Speech Recognition,2020,721,True,Developed
+China,Sports,2021,48,True,Developing
+China,Sports,2022,8,True,Developing
+United States,Telecommunications,2021,3394,True,Developed
+Germany,Transportation,2022,434,True,Developed
+India,Agriculture,2021,16,True,Developing
+South Africa,All,2017,80,True,Developing
+United States,Community and Lifestyle,2017,404,True,Developed
+India,Computer Vision,2018,4,True,Developing
+Sweden,Consumer goods,2024,0,True,Developed
+India,Consumer goods,2023,2458,True,Developing
+South Africa,Cyber Security,2022,8,True,Developing
+India,Education,2020,61,True,Developing
+United States,Energy and natural resources,2016,508,True,Developed
+South Africa,Finance,2020,76,True,Developing
+United States,Gaming,2020,105,True,Developed
+India,General purpose,2019,530,True,Developing
+India,General purpose,2026,1966,False,Developing
+Sweden,General purpose,2026,1836,False,Developed
+United States,Hardware,2020,10983,True,Developed
+United States,Hardware,2021,24172,True,Developed
+Germany,Healthcare and Life Sciences,2020,30,True,Developed
+India,Healthcare and Life Sciences,2023,26,True,Developing
+Sweden,Manufacturing,2016,0,True,Developed
+Sweden,Manufacturing,2025,3,True,Developed
+India,Media and Entertainment,2017,10,True,Developing
+China,Media and Entertainment,2019,365,True,Developing
+Germany,"Military, public safety and government",2024,110,True,Developed
+China,"Mobile, platforms & Internet services",2022,1356,True,Developing
+Sweden,"Mobile, platforms & Internet services",2022,53,True,Developed
+China,Other,2018,135,True,Developing
+Germany,Other,2016,11,True,Developed
+Germany,Other,2019,156,True,Developed
+Germany,Privacy and Security,2023,30,True,Developed
+India,Professional services,2026,1011,False,Developing
+Germany,Robotics,2026,465,False,Developed
+United States,Simulation,2019,36,True,Developed
+Germany,Speech Recognition,2018,0,True,Developed
+South Africa,Speech Recognition,2022,1,True,Developing
+United States,Sports,2016,35,True,Developed
+India,Telecommunications,2016,23,True,Developing
+China,Telecommunications,2026,10,False,Developing
+South Africa,Transportation,2018,0,True,Developing
+India,Agriculture,2017,2,True,Developing
+Sweden,All,2016,65,True,Developed
+China,All,2019,7338,True,Developing
+China,All,2021,17750,True,Developing
+South Africa,Community and Lifestyle,2022,0,True,Developing
+Germany,Community and Lifestyle,2024,131,True,Developed
+United States,Computer Vision,2021,3913,True,Developed
+China,Cyber Security,2020,25,True,Developing
+China,Cyber Security,2023,7,True,Developing
+Sweden,Data and analytics,2016,27,True,Developed
+United States,Energy and natural resources,2019,4136,True,Developed
+Germany,Energy and natural resources,2023,460,True,Developed
+United States,Facial Recognition,2016,77,True,Developed
+United States,Facial Recognition,2026,30,False,Developed
+China,Finance,2021,421,True,Developing
+India,Gaming,2021,3,True,Developing
+Sweden,Gaming,2026,2,False,Developed
+Germany,Gaming,2021,1,True,Developed
+Germany,General purpose,2019,609,True,Developed
+South Africa,General purpose,2020,70,True,Developing
+China,Hardware,2019,1280,True,Developing
+South Africa,Hardware,2020,68,True,Developing
+India,Hardware,2017,23,True,Developing
+India,Information Technology,2017,55,True,Developing
+Sweden,Information Technology,2023,55,True,Developed
+Germany,Information Technology,2020,1345,True,Developed
+United States,Lending and Investments,2016,348,True,Developed
+Sweden,Manufacturing,2018,6,True,Developed
+Sweden,Manufacturing,2022,43,True,Developed
+China,"Mobile, platforms & Internet services",2020,1515,True,Developing
+United States,NLP,2021,3899,True,Developed
+South Africa,Navigation and mapping,2024,0,True,Developing
+India,Navigation and mapping,2019,3,True,Developing
+United States,Navigation and mapping,2020,175,True,Developed
+Sweden,Other,2016,5,True,Developed
+United States,Privacy and Security,2016,597,True,Developed
+China,Professional services,2018,93,True,Developing
+South Africa,Real estate,2020,0,True,Developing
+United States,Real estate,2021,5241,True,Developed
+Germany,Real estate,2022,177,True,Developed
+Sweden,Real estate,2022,31,True,Developed
+Germany,Robotics,2017,17,True,Developed
+Germany,Semiconductor,2019,0,True,Developed
+China,Software,2018,3781,True,Developing
+China,Sports,2026,67,False,Developing
+South Africa,Agriculture,2019,2,True,Developing
+China,Agriculture,2024,159,True,Developing
+India,All,2016,233,True,Developing
+Germany,All,2019,1507,True,Developed
+China,All,2018,11141,True,Developing
+Germany,Biotechnology,2019,20,True,Developed
+China,Biotechnology,2016,248,True,Developing
+United States,Biotechnology,2026,6623,False,Developed
+India,Biotechnology,2020,3,True,Developing
+Sweden,Community and Lifestyle,2024,1,True,Developed
+Sweden,Computer Vision,2018,5,True,Developed
+Sweden,Computer Vision,2020,24,True,Developed
+China,Computer Vision,2022,186,True,Developing
+India,Computer Vision,2019,13,True,Developing
+Germany,Cyber Security,2024,5,True,Developed
+Germany,Education,2022,114,True,Developed
+Sweden,Energy and natural resources,2020,3427,True,Developed
+South Africa,Energy and natural resources,2025,1,True,Developing
+China,Finance,2018,297,True,Developing
+United States,Gaming,2024,745,True,Developed
+India,General purpose,2020,316,True,Developing
+South Africa,General purpose,2017,6,True,Developing
+China,Healthcare and Life Sciences,2023,529,True,Developing
+South Africa,Information Technology,2020,61,True,Developing
+India,Lending and Investments,2016,1,True,Developing
+India,Media and Entertainment,2025,153,True,Developing
+Germany,Media and Entertainment,2017,247,True,Developed
+United States,Media and Entertainment,2025,12356,True,Developed
+China,"Military, public safety and government",2017,3,True,Developing
+United States,"Military, public safety and government",2019,618,True,Developed
+United States,"Mobile, platforms & Internet services",2025,49679,True,Developed
+Germany,"Mobile, platforms & Internet services",2022,483,True,Developed
+Germany,"Mobile, platforms & Internet services",2026,2498,False,Developed
+Sweden,"Mobile, platforms & Internet services",2023,34,True,Developed
+China,NLP,2022,123,True,Developing
+China,NLP,2024,42,True,Developing
+China,Other,2021,666,True,Developing
+China,Privacy and Security,2016,167,True,Developing
+United States,Professional services,2025,38922,True,Developed
+India,Real estate,2021,84,True,Developing
+China,Robotics,2026,2641,False,Developing
+United States,Simulation,2025,5069,True,Developed
+India,Speech Recognition,2017,6,True,Developing
+United States,Speech Recognition,2016,205,True,Developed
+Germany,Speech Recognition,2020,1,True,Developed
+Sweden,Telecommunications,2024,0,True,Developed
+Sweden,Transportation,2018,0,True,Developed
+United States,Transportation,2022,7947,True,Developed
+Sweden,Agriculture,2021,6,True,Developed
+Sweden,All,2026,5248,False,Developed
+United States,All,2025,455141,True,Developed
+United States,Community and Lifestyle,2022,1390,True,Developed
+China,Computer Vision,2017,253,True,Developing
+Germany,Consumer goods,2023,285,True,Developed
+United States,Consumer goods,2017,1676,True,Developed
+United States,Consumer goods,2018,5154,True,Developed
+China,Consumer goods,2019,133,True,Developing
+China,Consumer goods,2024,176,True,Developing
+Sweden,Data and analytics,2026,1842,False,Developed
+China,Data and analytics,2017,3835,True,Developing
+India,Education,2018,29,True,Developing
+Germany,Education,2017,21,True,Developed
+India,Energy and natural resources,2026,771,False,Developing
+Germany,Finance,2023,109,True,Developed
+Germany,Finance,2024,332,True,Developed
+India,Finance,2022,180,True,Developing
+Sweden,Finance,2025,1176,True,Developed
+South Africa,Finance,2017,23,True,Developing
+United States,Gaming,2021,470,True,Developed
+United States,General purpose,2022,51081,True,Developed
+China,General purpose,2026,12446,False,Developing
+Sweden,Hardware,2018,19,True,Developed
+South Africa,Hardware,2022,6,True,Developing
+India,Media and Entertainment,2024,142,True,Developing
+India,NLP,2021,56,True,Developing
+United States,NLP,2020,2412,True,Developed
+India,Navigation and mapping,2017,2,True,Developing
+Germany,Navigation and mapping,2026,147,False,Developed
+China,Other,2023,284,True,Developing
+South Africa,Other,2019,2,True,Developing
+United States,Other,2016,655,True,Developed
+United States,Privacy and Security,2019,4258,True,Developed
+China,Privacy and Security,2023,144,True,Developing
+Germany,Professional services,2021,232,True,Developed
+China,Real estate,2018,127,True,Developing
+India,Robotics,2019,5,True,Developing
+United States,Robotics,2023,1893,True,Developed
+United States,"Sales, retail, commerce, marketing",2021,25732,True,Developed
+United States,"Sales, retail, commerce, marketing",2025,23016,True,Developed
+Germany,"Sales, retail, commerce, marketing",2017,314,True,Developed
+China,Semiconductor,2016,10,True,Developing
+United States,Semiconductor,2016,405,True,Developed
+Sweden,Simulation,2026,0,False,Developed
+India,Software,2021,1127,True,Developing
+Germany,Software,2024,4501,True,Developed
+China,Sports,2018,5,True,Developing
+China,Sports,2020,23,True,Developing
+India,Telecommunications,2024,1,True,Developing
+Germany,Telecommunications,2023,1,True,Developed
+South Africa,Transportation,2026,0,False,Developing
+South Africa,Agriculture,2020,8,True,Developing
+China,Agriculture,2021,165,True,Developing
+Sweden,All,2023,289,True,Developed
+United States,All,2018,57431,True,Developed
+Sweden,Biotechnology,2018,1,True,Developed
+China,Biotechnology,2019,62,True,Developing
+United States,Biotechnology,2017,442,True,Developed
+United States,Biotechnology,2019,2675,True,Developed
+Sweden,Computer Vision,2022,1,True,Developed
+China,Computer Vision,2024,109,True,Developing
+South Africa,Computer Vision,2026,3,False,Developing
+Sweden,Consumer goods,2022,4,True,Developed
+India,Cyber Security,2022,38,True,Developing
+United States,Cyber Security,2022,2364,True,Developed
+Germany,Data and analytics,2016,803,True,Developed
+India,Data and analytics,2024,743,True,Developing
+China,Data and analytics,2022,5680,True,Developing
+Germany,Education,2023,40,True,Developed
+China,Facial Recognition,2024,8,True,Developing
+China,Finance,2016,143,True,Developing
+India,Finance,2026,259,False,Developing
+China,Gaming,2026,84,False,Developing
+Sweden,Gaming,2016,0,True,Developed
+China,Information Technology,2017,3162,True,Developing
+China,Lending and Investments,2026,49,False,Developing
+United States,Manufacturing,2024,6709,True,Developed
+China,Manufacturing,2021,1128,True,Developing
+Sweden,Media and Entertainment,2016,3,True,Developed
+Germany,Media and Entertainment,2016,13,True,Developed
+United States,Media and Entertainment,2023,2162,True,Developed
+United States,"Military, public safety and government",2021,2238,True,Developed
+China,"Mobile, platforms & Internet services",2017,2784,True,Developing
+Germany,NLP,2018,233,True,Developed
+China,NLP,2026,437,False,Developing
+Sweden,Navigation and mapping,2020,7,True,Developed
+India,Navigation and mapping,2024,25,True,Developing
+India,Other,2019,154,True,Developing
+India,Other,2026,589,False,Developing
+China,Other,2026,324,False,Developing
+China,Privacy and Security,2026,143,False,Developing
+Germany,Professional services,2017,10,True,Developed
+Germany,Professional services,2025,4601,True,Developed
+Sweden,Professional services,2016,1,True,Developed
+Sweden,Professional services,2026,1724,False,Developed
+Sweden,Robotics,2017,1,True,Developed
+Germany,"Sales, retail, commerce, marketing",2023,453,True,Developed
+United States,Software,2020,49495,True,Developed
+India,Sports,2024,3,True,Developing
+United States,Telecommunications,2026,3687,False,Developed
+Sweden,Transportation,2020,13,True,Developed
+United States,Agriculture,2019,327,True,Developed
+Germany,Biotechnology,2018,2,True,Developed
+Germany,Community and Lifestyle,2016,20,True,Developed
+Sweden,Computer Vision,2016,2,True,Developed
+Germany,Computer Vision,2023,295,True,Developed
+India,Cyber Security,2017,2,True,Developing
+China,Cyber Security,2024,30,True,Developing
+United States,Cyber Security,2021,4240,True,Developed
+China,Data and analytics,2019,2991,True,Developing
+China,Education,2025,324,True,Developing
+United States,Education,2021,5098,True,Developed
+South Africa,Energy and natural resources,2026,5,False,Developing
+United States,Finance,2018,2084,True,Developed
+United States,Gaming,2022,293,True,Developed
+China,General purpose,2017,3721,True,Developing
+Germany,General purpose,2023,2220,True,Developed
+India,General purpose,2023,869,True,Developing
+China,Hardware,2017,572,True,Developing
+South Africa,Hardware,2019,2,True,Developing
+Germany,Healthcare and Life Sciences,2022,230,True,Developed
+Germany,Healthcare and Life Sciences,2024,363,True,Developed
+Sweden,Healthcare and Life Sciences,2025,69,True,Developed
+Germany,Information Technology,2017,338,True,Developed
+Germany,Lending and Investments,2023,48,True,Developed
+India,Manufacturing,2024,87,True,Developing
+Germany,Manufacturing,2024,1049,True,Developed
+China,Media and Entertainment,2020,981,True,Developing
+Germany,Media and Entertainment,2022,218,True,Developed
+Sweden,"Military, public safety and government",2025,1,True,Developed
+China,NLP,2017,39,True,Developing
+China,Navigation and mapping,2020,21,True,Developing
+India,Other,2016,24,True,Developing
+Sweden,Real estate,2021,11,True,Developed
+China,Semiconductor,2017,38,True,Developing
+Germany,Semiconductor,2018,5,True,Developed
+China,Software,2023,4736,True,Developing
+China,Software,2026,11349,False,Developing
+United States,Software,2018,38205,True,Developed
+China,Speech Recognition,2018,54,True,Developing
+China,Speech Recognition,2024,3,True,Developing
+India,Sports,2021,51,True,Developing
+India,Agriculture,2018,6,True,Developing
+India,Agriculture,2022,97,True,Developing
+United States,Agriculture,2023,722,True,Developed
+South Africa,All,2020,150,True,Developing
+Sweden,All,2019,181,True,Developed
+Germany,Biotechnology,2025,1655,True,Developed
+Sweden,Biotechnology,2023,2,True,Developed
+United States,Computer Vision,2022,2757,True,Developed
+India,Consumer goods,2026,1,False,Developing
+Germany,Cyber Security,2019,6,True,Developed
+India,Cyber Security,2020,1,True,Developing
+United States,Data and analytics,2020,47070,True,Developed
+China,Education,2018,494,True,Developing
+Germany,Education,2025,301,True,Developed
+India,Facial Recognition,2022,2,True,Developing
+Sweden,Finance,2018,0,True,Developed
+United States,Gaming,2026,874,False,Developed
+Sweden,General purpose,2020,3491,True,Developed
+United States,Information Technology,2026,106332,False,Developed
+Germany,Information Technology,2026,3288,False,Developed
+China,Lending and Investments,2025,11,True,Developing
+Sweden,Manufacturing,2019,5,True,Developed
+South Africa,"Mobile, platforms & Internet services",2022,3,True,Developing
+United States,"Mobile, platforms & Internet services",2023,9045,True,Developed
+China,Navigation and mapping,2018,2,True,Developing
+South Africa,Privacy and Security,2021,0,True,Developing
+Germany,Professional services,2023,790,True,Developed
+Sweden,Professional services,2017,7,True,Developed
+United States,Professional services,2026,29254,False,Developed
+China,Real estate,2022,286,True,Developing
+India,Real estate,2017,1,True,Developing
+Germany,Robotics,2024,578,True,Developed
+United States,Simulation,2018,31,True,Developed
+China,Software,2020,5097,True,Developing
+China,Sports,2025,25,True,Developing
+United States,Telecommunications,2023,1537,True,Developed
+Sweden,Transportation,2019,3,True,Developed
+India,Agriculture,2016,3,True,Developing
+China,Agriculture,2023,31,True,Developing
+South Africa,All,2019,166,True,Developing
+China,Biotechnology,2021,195,True,Developing
+India,Computer Vision,2024,12,True,Developing
+Germany,Consumer goods,2020,403,True,Developed
+Germany,Consumer goods,2022,181,True,Developed
+United States,Consumer goods,2022,2626,True,Developed
+Germany,Cyber Security,2017,0,True,Developed
+Sweden,Data and analytics,2019,49,True,Developed
+South Africa,Data and analytics,2021,39,True,Developing
+India,Gaming,2020,0,True,Developing
+South Africa,General purpose,2019,32,True,Developing
+Sweden,General purpose,2023,105,True,Developed
+Sweden,Hardware,2017,9,True,Developed
+China,Healthcare and Life Sciences,2017,267,True,Developing
+Germany,Lending and Investments,2022,62,True,Developed
+China,Media and Entertainment,2016,169,True,Developing
+China,Media and Entertainment,2025,679,True,Developing
+Germany,Media and Entertainment,2023,302,True,Developed
+Germany,"Military, public safety and government",2026,504,False,Developed
+Germany,"Mobile, platforms & Internet services",2017,488,True,Developed
+Sweden,"Mobile, platforms & Internet services",2018,15,True,Developed
+Germany,NLP,2021,74,True,Developed
+Sweden,Navigation and mapping,2022,1,True,Developed
+Germany,Other,2026,193,False,Developed
+South Africa,Privacy and Security,2024,52,True,Developing
+Sweden,Professional services,2018,2,True,Developed
+India,Professional services,2022,1117,True,Developing
+China,Real estate,2025,138,True,Developing
+Germany,Real estate,2017,20,True,Developed
+Germany,Real estate,2019,31,True,Developed
+Germany,Real estate,2025,852,True,Developed
+India,Robotics,2020,4,True,Developing
+India,Robotics,2021,20,True,Developing
+South Africa,Robotics,2022,4,True,Developing
+China,"Sales, retail, commerce, marketing",2021,602,True,Developing
+Sweden,"Sales, retail, commerce, marketing",2020,17,True,Developed
+United States,Semiconductor,2024,1316,True,Developed
+Germany,Semiconductor,2024,255,True,Developed
+China,Simulation,2026,49,False,Developing
+South Africa,Software,2018,24,True,Developing
+South Africa,Software,2022,177,True,Developing
+India,Software,2018,1016,True,Developing
+United States,Speech Recognition,2026,926,False,Developed
+Germany,Sports,2025,2,True,Developed
+United States,Telecommunications,2017,434,True,Developed
+India,Transportation,2016,5,True,Developing
+China,Agriculture,2017,20,True,Developing
+China,Agriculture,2022,70,True,Developing
+India,All,2026,4368,False,Developing
+China,Biotechnology,2024,105,True,Developing
+United States,Community and Lifestyle,2025,2890,True,Developed
+Sweden,Computer Vision,2025,22,True,Developed
+Sweden,Data and analytics,2025,3666,True,Developed
+India,Education,2021,153,True,Developing
+India,Education,2024,59,True,Developing
+China,Education,2021,185,True,Developing
+Sweden,Energy and natural resources,2019,1,True,Developed
+China,Facial Recognition,2018,127,True,Developing
+South Africa,Finance,2025,9,True,Developing
+China,Healthcare and Life Sciences,2021,734,True,Developing
+United States,Healthcare and Life Sciences,2026,20971,False,Developed
+United States,Lending and Investments,2026,2214,False,Developed
+Sweden,Lending and Investments,2022,4,True,Developed
+India,Manufacturing,2020,9,True,Developing
+Germany,Manufacturing,2021,437,True,Developed
+United States,Media and Entertainment,2018,3158,True,Developed
+United States,Media and Entertainment,2024,6180,True,Developed
+India,"Military, public safety and government",2016,0,True,Developing
+India,"Military, public safety and government",2021,0,True,Developing
+Germany,"Military, public safety and government",2022,101,True,Developed
+United States,Navigation and mapping,2016,99,True,Developed
+United States,Other,2017,1427,True,Developed
+United States,Other,2026,25449,False,Developed
+United States,Professional services,2018,4653,True,Developed
+Sweden,Real estate,2024,964,True,Developed
+Germany,Robotics,2019,2,True,Developed
+Germany,Robotics,2025,147,True,Developed
+India,Robotics,2017,0,True,Developing
+United States,Robotics,2024,6661,True,Developed
+China,Software,2021,6447,True,Developing
+India,Telecommunications,2023,2520,True,Developing
+Germany,Telecommunications,2026,359,False,Developed
+South Africa,Transportation,2023,1,True,Developing
+India,Transportation,2017,12,True,Developing
+China,Transportation,2020,620,True,Developing
+Sweden,Agriculture,2026,3,False,Developed
+India,All,2021,2080,True,Developing
+Germany,All,2021,5853,True,Developed
+Germany,All,2026,14022,False,Developed
+China,Community and Lifestyle,2023,238,True,Developing
+India,Computer Vision,2022,61,True,Developing
+India,Computer Vision,2023,54,True,Developing
+India,Data and analytics,2016,161,True,Developing
+Sweden,Education,2026,0,False,Developed
+United States,Education,2022,1879,True,Developed
+Sweden,Energy and natural resources,2026,280,False,Developed
+India,Finance,2023,177,True,Developing
+South Africa,Finance,2018,18,True,Developing
+United States,General purpose,2019,55124,True,Developed
+China,General purpose,2023,4804,True,Developing
+China,Hardware,2024,2658,True,Developing
+India,Hardware,2018,330,True,Developing
+India,Hardware,2026,533,False,Developing
+Germany,Hardware,2026,1697,False,Developed
+United States,Lending and Investments,2020,1175,True,Developed
+China,Lending and Investments,2017,57,True,Developing
+India,Media and Entertainment,2021,21,True,Developing
+China,Media and Entertainment,2022,174,True,Developing
+United States,"Military, public safety and government",2024,5561,True,Developed
+China,"Mobile, platforms & Internet services",2018,1042,True,Developing
+Germany,Navigation and mapping,2024,21,True,Developed
+China,Other,2019,263,True,Developing
+South Africa,Other,2020,0,True,Developing
+China,Privacy and Security,2025,439,True,Developing
+United States,Professional services,2024,11458,True,Developed
+India,Professional services,2017,29,True,Developing
+China,Robotics,2020,365,True,Developing
+China,"Sales, retail, commerce, marketing",2016,49,True,Developing
+China,"Sales, retail, commerce, marketing",2018,378,True,Developing
+India,Semiconductor,2024,29,True,Developing
+China,Semiconductor,2018,113,True,Developing
+United States,Simulation,2023,138,True,Developed
+Sweden,Software,2020,3532,True,Developed
+India,Software,2017,120,True,Developing
+United States,Software,2023,62986,True,Developed
+Germany,Transportation,2019,86,True,Developed
+South Africa,Agriculture,2018,1,True,Developing
+India,All,2017,227,True,Developing
+United States,Biotechnology,2020,2570,True,Developed
+South Africa,Computer Vision,2019,2,True,Developing
+China,Consumer goods,2018,329,True,Developing
+Germany,Data and analytics,2022,2638,True,Developed
+India,Energy and natural resources,2024,52,True,Developing
+Germany,Energy and natural resources,2017,9,True,Developed
+India,Facial Recognition,2023,1,True,Developing
+Germany,Finance,2025,2981,True,Developed
+Germany,General purpose,2017,428,True,Developed
+South Africa,General purpose,2024,215,True,Developing
+Germany,Hardware,2022,674,True,Developed
+United States,Healthcare and Life Sciences,2024,9764,True,Developed
+China,Manufacturing,2020,248,True,Developing
+China,Manufacturing,2024,981,True,Developing
+India,Manufacturing,2026,230,False,Developing
+India,Media and Entertainment,2019,22,True,Developing
+Germany,Media and Entertainment,2021,246,True,Developed
+Germany,Media and Entertainment,2026,857,False,Developed
+Germany,NLP,2022,79,True,Developed
+United States,Navigation and mapping,2024,1565,True,Developed
+Germany,Navigation and mapping,2025,235,True,Developed
+India,Other,2021,50,True,Developing
+South Africa,Other,2017,0,True,Developing
+Sweden,Professional services,2023,15,True,Developed
+India,Professional services,2018,9,True,Developing
+South Africa,Professional services,2022,106,True,Developing
+India,"Sales, retail, commerce, marketing",2024,171,True,Developing
+India,Semiconductor,2023,24,True,Developing
+China,Simulation,2025,3,True,Developing
+South Africa,Software,2023,40,True,Developing
+Germany,Software,2023,2806,True,Developed
+United States,Speech Recognition,2018,595,True,Developed
+India,Telecommunications,2019,117,True,Developing
+South Africa,Transportation,2024,0,True,Developing
+China,Transportation,2023,1882,True,Developing
+Germany,Agriculture,2016,3,True,Developed
+Germany,Agriculture,2019,23,True,Developed
+United States,Community and Lifestyle,2023,1120,True,Developed
+Sweden,Computer Vision,2019,90,True,Developed
+United States,Consumer goods,2016,820,True,Developed
+United States,Cyber Security,2026,4355,False,Developed
+India,Education,2023,188,True,Developing
+China,Finance,2025,330,True,Developing
+India,Finance,2021,280,True,Developing
+United States,Gaming,2018,120,True,Developed
+United States,Hardware,2025,50731,True,Developed
+Sweden,Hardware,2025,48,True,Developed
+South Africa,Healthcare and Life Sciences,2021,2,True,Developing
+China,Information Technology,2018,1705,True,Developing
+India,Information Technology,2026,1995,False,Developing
+Germany,NLP,2016,12,True,Developed
+Germany,NLP,2026,134,False,Developed
+China,Navigation and mapping,2025,9,True,Developing
+South Africa,Privacy and Security,2022,9,True,Developing
+United States,Privacy and Security,2022,3460,True,Developed
+Sweden,Robotics,2018,2,True,Developed
+India,Robotics,2026,17,False,Developing
+United States,Robotics,2019,3361,True,Developed
+Germany,"Sales, retail, commerce, marketing",2019,33,True,Developed
+South Africa,"Sales, retail, commerce, marketing",2017,8,True,Developing
+Sweden,Semiconductor,2016,1,True,Developed
+China,Semiconductor,2025,1367,True,Developing
+United States,Software,2025,253850,True,Developed
+Germany,Software,2021,2418,True,Developed
+United States,Sports,2020,844,True,Developed
+India,Sports,2023,19,True,Developing
+Germany,Telecommunications,2021,3,True,Developed
+United States,Telecommunications,2024,2151,True,Developed
+South Africa,All,2024,242,True,Developing
+India,Community and Lifestyle,2026,4,False,Developing
+Sweden,Computer Vision,2017,0,True,Developed
+China,Computer Vision,2016,179,True,Developing
+China,Consumer goods,2021,669,True,Developing
+India,Cyber Security,2025,0,True,Developing
+South Africa,Data and analytics,2017,29,True,Developing
+China,Energy and natural resources,2022,326,True,Developing
+South Africa,Energy and natural resources,2020,0,True,Developing
+South Africa,Facial Recognition,2022,8,True,Developing
+China,Finance,2026,148,False,Developing
+Germany,Finance,2019,54,True,Developed
+United States,Finance,2022,13588,True,Developed
+Sweden,Finance,2019,0,True,Developed
+India,Gaming,2019,7,True,Developing
+United States,General purpose,2017,11797,True,Developed
+Germany,General purpose,2026,6500,False,Developed
+Sweden,General purpose,2022,3582,True,Developed
+South Africa,Healthcare and Life Sciences,2017,0,True,Developing
+United States,Healthcare and Life Sciences,2016,905,True,Developed
+United States,Healthcare and Life Sciences,2020,8751,True,Developed
+United States,Healthcare and Life Sciences,2022,7307,True,Developed
+India,Information Technology,2021,391,True,Developing
+Sweden,Lending and Investments,2024,2,True,Developed
+China,Lending and Investments,2016,62,True,Developing
+China,Lending and Investments,2018,41,True,Developing
+Germany,"Mobile, platforms & Internet services",2025,4326,True,Developed
+United States,NLP,2019,4111,True,Developed
+India,Navigation and mapping,2025,230,True,Developing
+China,Privacy and Security,2021,227,True,Developing
+Sweden,Privacy and Security,2022,10,True,Developed
+United States,Professional services,2020,7806,True,Developed
+Sweden,"Sales, retail, commerce, marketing",2024,12,True,Developed
+South Africa,"Sales, retail, commerce, marketing",2021,0,True,Developing
+China,Semiconductor,2020,94,True,Developing
+Germany,Speech Recognition,2023,1,True,Developed
+South Africa,Transportation,2016,52,True,Developing
+Sweden,Transportation,2017,0,True,Developed
+India,Transportation,2025,98,True,Developing
+United States,All,2022,108067,True,Developed
+China,All,2023,11787,True,Developing
+Sweden,Biotechnology,2019,4,True,Developed
+Sweden,Biotechnology,2025,4,True,Developed
+Sweden,Community and Lifestyle,2021,10,True,Developed
+Germany,Computer Vision,2022,298,True,Developed
+China,Consumer goods,2023,212,True,Developing
+Sweden,Data and analytics,2024,114,True,Developed
+United States,Education,2020,1415,True,Developed
+Germany,Gaming,2016,1,True,Developed
+India,Healthcare and Life Sciences,2025,2113,True,Developing
+South Africa,Healthcare and Life Sciences,2019,2,True,Developing
+China,Information Technology,2025,1989,True,Developing
+United States,Information Technology,2022,25071,True,Developed
+China,Lending and Investments,2023,17,True,Developing
+Germany,NLP,2019,8,True,Developed
+Germany,NLP,2023,59,True,Developed
+China,NLP,2020,60,True,Developing
+Sweden,Other,2020,3430,True,Developed
+South Africa,Professional services,2021,1,True,Developing
+United States,Real estate,2026,6798,False,Developed
+China,Robotics,2021,1237,True,Developing
+Germany,Robotics,2016,4,True,Developed
+China,"Sales, retail, commerce, marketing",2020,299,True,Developing
+China,"Sales, retail, commerce, marketing",2024,166,True,Developing
+India,"Sales, retail, commerce, marketing",2016,27,True,Developing
+United States,Simulation,2020,396,True,Developed
+United States,Simulation,2022,96,True,Developed
+Germany,Simulation,2020,229,True,Developed
+China,Software,2024,9853,True,Developing
+India,Telecommunications,2020,16449,True,Developing
+United States,Telecommunications,2020,1368,True,Developed
+South Africa,Transportation,2020,1,True,Developing
+Sweden,Transportation,2025,8,True,Developed
+Sweden,All,2017,398,True,Developed
+China,Biotechnology,2020,186,True,Developing
+India,Biotechnology,2019,2,True,Developing
+India,Biotechnology,2026,5,False,Developing
+Germany,Community and Lifestyle,2017,5,True,Developed
+United States,Computer Vision,2017,780,True,Developed
+India,Computer Vision,2017,18,True,Developing
+India,Consumer goods,2024,39,True,Developing
+Sweden,Data and analytics,2017,216,True,Developed
+China,Data and analytics,2018,3554,True,Developing
+South Africa,Education,2025,5,True,Developing
+Germany,Gaming,2019,0,True,Developed
+Germany,Gaming,2020,0,True,Developed
+United States,General purpose,2023,57366,True,Developed
+United States,Hardware,2016,2635,True,Developed
+Sweden,Hardware,2022,18,True,Developed
+China,Healthcare and Life Sciences,2025,662,True,Developing
+United States,Information Technology,2024,38001,True,Developed
+United States,Information Technology,2025,131660,True,Developed
+Sweden,Information Technology,2024,36,True,Developed
+United States,Lending and Investments,2018,450,True,Developed
+United States,Manufacturing,2026,16479,False,Developed
+India,Media and Entertainment,2016,17,True,Developing
+Germany,"Military, public safety and government",2018,230,True,Developed
+Germany,"Mobile, platforms & Internet services",2016,502,True,Developed
+Sweden,NLP,2022,5,True,Developed
+United States,Navigation and mapping,2019,2044,True,Developed
+India,Other,2017,3,True,Developing
+United States,Other,2019,6834,True,Developed
+Germany,Privacy and Security,2017,15,True,Developed
+Germany,Professional services,2026,1514,False,Developed
+South Africa,Real estate,2025,0,True,Developing
+United States,Semiconductor,2017,98,True,Developed
+United States,Semiconductor,2026,9570,False,Developed
+Germany,Semiconductor,2026,852,False,Developed
+Sweden,Software,2017,222,True,Developed
+Sweden,Software,2022,3611,True,Developed
+United States,Software,2022,60161,True,Developed
+Germany,Software,2016,813,True,Developed
+Germany,Software,2020,2898,True,Developed
+United States,Sports,2018,411,True,Developed
+Germany,Sports,2022,7,True,Developed
+Germany,Telecommunications,2016,93,True,Developed
+Germany,Telecommunications,2020,15,True,Developed
+Sweden,Transportation,2026,0,False,Developed
+China,Transportation,2017,153,True,Developing
+Sweden,Agriculture,2022,9,True,Developed
+Germany,Agriculture,2026,13,False,Developed
+India,All,2020,25214,True,Developing
+United States,All,2016,21263,True,Developed
+Germany,Biotechnology,2017,4,True,Developed
+Sweden,Biotechnology,2020,3,True,Developed
+Sweden,Community and Lifestyle,2025,0,True,Developed
+China,Computer Vision,2020,366,True,Developing
+United States,Computer Vision,2023,3254,True,Developed
+Sweden,Consumer goods,2019,93,True,Developed
+United States,Consumer goods,2025,2981,True,Developed
+United States,Cyber Security,2024,6252,True,Developed
+China,Education,2024,271,True,Developing
+Germany,Finance,2020,507,True,Developed
+United States,Finance,2016,1496,True,Developed
+India,Hardware,2020,11966,True,Developing
+Germany,Hardware,2016,188,True,Developed
+Sweden,Healthcare and Life Sciences,2018,13,True,Developed
+United States,Information Technology,2017,7532,True,Developed
+United States,Information Technology,2020,22629,True,Developed
+Germany,Information Technology,2021,1213,True,Developed
+India,Lending and Investments,2026,29,False,Developing
+South Africa,Lending and Investments,2021,31,True,Developing
+United States,"Military, public safety and government",2020,1161,True,Developed
+Sweden,"Mobile, platforms & Internet services",2025,601,True,Developed
+Germany,Navigation and mapping,2018,4,True,Developed
+United States,Privacy and Security,2018,12646,True,Developed
+Sweden,Professional services,2019,7,True,Developed
+Sweden,Professional services,2021,2395,True,Developed
+Sweden,Professional services,2022,50,True,Developed
+India,Robotics,2018,2,True,Developing
+China,Software,2019,3116,True,Developing
+South Africa,Software,2017,37,True,Developing
+Germany,Speech Recognition,2021,1,True,Developed
+China,Transportation,2025,2055,True,Developing
+United States,Biotechnology,2022,1576,True,Developed
+India,Community and Lifestyle,2021,15,True,Developing
+India,Community and Lifestyle,2023,65,True,Developing
+United States,Computer Vision,2025,22665,True,Developed
+United States,Computer Vision,2026,1189,False,Developed
+India,Consumer goods,2019,23,True,Developing
+United States,Cyber Security,2025,17720,True,Developed
+Germany,Data and analytics,2017,797,True,Developed
+Germany,Energy and natural resources,2026,1162,False,Developed
+South Africa,Facial Recognition,2026,3,False,Developing
+China,Facial Recognition,2022,2,True,Developing
+Germany,Finance,2021,276,True,Developed
+United States,Finance,2020,9618,True,Developed
+India,Gaming,2026,36,False,Developing
+United States,Healthcare and Life Sciences,2018,2186,True,Developed
+United States,Information Technology,2021,45496,True,Developed
+United States,Information Technology,2023,32105,True,Developed
+South Africa,Manufacturing,2024,3,True,Developing
+China,Manufacturing,2025,2916,True,Developing
+China,Media and Entertainment,2021,454,True,Developing
+China,"Military, public safety and government",2025,41,True,Developing
+United States,"Military, public safety and government",2023,1844,True,Developed
+India,"Military, public safety and government",2017,13,True,Developing
+India,"Mobile, platforms & Internet services",2016,110,True,Developing
+India,"Mobile, platforms & Internet services",2021,203,True,Developing
+South Africa,"Mobile, platforms & Internet services",2017,22,True,Developing
+South Africa,"Mobile, platforms & Internet services",2023,2,True,Developing
+Germany,"Mobile, platforms & Internet services",2021,518,True,Developed
+India,NLP,2026,9,False,Developing
+China,Navigation and mapping,2019,19,True,Developing
+Germany,Navigation and mapping,2023,34,True,Developed
+Germany,Privacy and Security,2025,2597,True,Developed
+United States,Privacy and Security,2023,5911,True,Developed
+China,Professional services,2025,189,True,Developing
+China,Real estate,2026,356,False,Developing
+China,"Sales, retail, commerce, marketing",2017,115,True,Developing
+United States,Sports,2017,124,True,Developed
+China,Sports,2023,69,True,Developing
+Sweden,Sports,2016,0,True,Developed
+Germany,Telecommunications,2024,1,True,Developed
+South Africa,Transportation,2021,0,True,Developing
+China,Transportation,2019,456,True,Developing
+Sweden,Agriculture,2019,2,True,Developed
+Germany,Agriculture,2017,2,True,Developed
+South Africa,Agriculture,2017,0,True,Developing
+United States,Agriculture,2026,559,False,Developed
+China,All,2016,5231,True,Developing
+Sweden,Community and Lifestyle,2023,3,True,Developed
+Germany,Community and Lifestyle,2026,377,False,Developed
+Germany,Computer Vision,2021,323,True,Developed
+India,Computer Vision,2021,44,True,Developing
+China,Consumer goods,2020,591,True,Developing
+Germany,Data and analytics,2025,14471,True,Developed
+Sweden,Education,2025,1,True,Developed
+Sweden,Energy and natural resources,2023,15,True,Developed
+India,Energy and natural resources,2016,1,True,Developing
+United States,Facial Recognition,2020,15,True,Developed
+United States,Facial Recognition,2022,84,True,Developed
+China,Facial Recognition,2017,93,True,Developing
+Sweden,Gaming,2025,3,True,Developed
+Germany,Information Technology,2025,9478,True,Developed
+South Africa,Lending and Investments,2025,9,True,Developing
+South Africa,Manufacturing,2022,9,True,Developing
+United States,Media and Entertainment,2017,1608,True,Developed
+United States,"Military, public safety and government",2016,248,True,Developed
+United States,"Mobile, platforms & Internet services",2024,15315,True,Developed
+United States,NLP,2017,802,True,Developed
+United States,Other,2018,2381,True,Developed
+United States,Other,2024,7732,True,Developed
+United States,Professional services,2016,1390,True,Developed
+Sweden,"Sales, retail, commerce, marketing",2018,33,True,Developed
+Germany,"Sales, retail, commerce, marketing",2025,2827,True,Developed
+China,Semiconductor,2019,42,True,Developing
+China,Semiconductor,2021,522,True,Developing
+United States,Semiconductor,2025,11428,True,Developed
+Germany,Simulation,2016,1,True,Developed
+China,Software,2017,3857,True,Developing
+China,Software,2025,9759,True,Developing
+South Africa,Software,2020,93,True,Developing
+South Africa,Software,2026,24,False,Developing
+India,Software,2019,725,True,Developing
+United States,Sports,2026,589,False,Developed
+South Africa,Transportation,2022,0,True,Developing
+United States,Transportation,2019,10601,True,Developed
+Germany,Agriculture,2020,22,True,Developed
+Germany,Agriculture,2023,141,True,Developed
+United States,All,2023,92996,True,Developed
+China,Biotechnology,2018,53,True,Developing
+United States,Biotechnology,2021,6605,True,Developed
+United States,Biotechnology,2024,2948,True,Developed
+China,Community and Lifestyle,2019,43,True,Developing
+Sweden,Community and Lifestyle,2022,14,True,Developed
+India,Community and Lifestyle,2016,1,True,Developing
+India,Community and Lifestyle,2020,11,True,Developing
+Sweden,Computer Vision,2021,0,True,Developed
+China,Computer Vision,2018,638,True,Developing
+Germany,Consumer goods,2024,63,True,Developed
+India,Consumer goods,2020,11959,True,Developing
+India,Cyber Security,2018,28,True,Developing
+South Africa,Data and analytics,2022,176,True,Developing
+China,Data and analytics,2023,4671,True,Developing
+China,Data and analytics,2025,9821,True,Developing
+Sweden,Education,2019,10,True,Developed
+Germany,Education,2016,0,True,Developed
+China,Energy and natural resources,2017,12,True,Developing
+China,Facial Recognition,2016,176,True,Developing
+Germany,Gaming,2022,0,True,Developed
+United States,General purpose,2021,81675,True,Developed
+India,General purpose,2017,94,True,Developing
+South Africa,General purpose,2022,178,True,Developing
+South Africa,General purpose,2025,70,True,Developing
+Sweden,Hardware,2019,108,True,Developed
+Germany,Hardware,2025,3149,True,Developed
+Germany,Healthcare and Life Sciences,2018,10,True,Developed
+India,Healthcare and Life Sciences,2024,114,True,Developing
+Sweden,Healthcare and Life Sciences,2017,7,True,Developed
+South Africa,Information Technology,2017,14,True,Developing
+United States,Lending and Investments,2023,1553,True,Developed
+Germany,Manufacturing,2019,25,True,Developed
+Sweden,Media and Entertainment,2019,2,True,Developed
+India,"Mobile, platforms & Internet services",2017,40,True,Developing
+South Africa,"Mobile, platforms & Internet services",2018,10,True,Developing
+United States,NLP,2016,458,True,Developed
+United States,Navigation and mapping,2023,662,True,Developed
+South Africa,Other,2018,0,True,Developing
+Sweden,Privacy and Security,2021,2,True,Developed
+India,Professional services,2025,2402,True,Developing
+Germany,Real estate,2023,166,True,Developed
+China,Robotics,2023,720,True,Developing
+United States,Robotics,2016,214,True,Developed
+India,"Sales, retail, commerce, marketing",2017,25,True,Developing
+India,"Sales, retail, commerce, marketing",2022,419,True,Developing
+Sweden,Software,2021,10247,True,Developed
+United States,Software,2016,12603,True,Developed
+India,Speech Recognition,2022,47,True,Developing
+United States,Speech Recognition,2023,58,True,Developed
+China,Speech Recognition,2020,100,True,Developing
+India,Telecommunications,2025,0,True,Developing
+Germany,Transportation,2024,1310,True,Developed
+South Africa,Agriculture,2022,1,True,Developing
+China,Agriculture,2019,46,True,Developing
+United States,Biotechnology,2018,842,True,Developed
+India,Biotechnology,2022,6,True,Developing
+United States,Community and Lifestyle,2018,1275,True,Developed
+United States,Community and Lifestyle,2020,2731,True,Developed
+India,Community and Lifestyle,2022,830,True,Developing
+China,Computer Vision,2021,226,True,Developing
+China,Data and analytics,2016,3995,True,Developing
+Germany,Education,2018,1,True,Developed
+United States,Education,2016,688,True,Developed
+United States,Education,2019,1976,True,Developed
+Sweden,Energy and natural resources,2016,1,True,Developed
+Sweden,Energy and natural resources,2018,0,True,Developed
+United States,Energy and natural resources,2020,1511,True,Developed
+South Africa,Energy and natural resources,2019,123,True,Developing
+China,Facial Recognition,2021,16,True,Developing
+United States,Finance,2026,13670,False,Developed
+Germany,General purpose,2021,1965,True,Developed
+Sweden,Hardware,2016,9,True,Developed
+Sweden,Hardware,2021,9278,True,Developed
+Sweden,Hardware,2023,21,True,Developed
+China,Information Technology,2024,1518,True,Developing
+Sweden,Information Technology,2016,24,True,Developed
+South Africa,Information Technology,2025,61,True,Developing
+India,Manufacturing,2025,69,True,Developing
+Germany,Media and Entertainment,2020,27,True,Developed
+China,"Military, public safety and government",2021,47,True,Developing
+India,"Military, public safety and government",2025,17,True,Developing
+Germany,"Military, public safety and government",2023,109,True,Developed
+United States,"Mobile, platforms & Internet services",2019,19187,True,Developed
+United States,"Mobile, platforms & Internet services",2020,10527,True,Developed
+Sweden,NLP,2020,7,True,Developed
+China,Navigation and mapping,2017,1,True,Developing
+Germany,Privacy and Security,2022,158,True,Developed
+China,Privacy and Security,2022,702,True,Developing
+Sweden,Professional services,2020,18,True,Developed
+Sweden,Professional services,2024,37,True,Developed
+China,Professional services,2016,35,True,Developing
+China,Professional services,2024,180,True,Developing
+India,Real estate,2024,22,True,Developing
+Sweden,Real estate,2025,78,True,Developed
+China,Robotics,2019,640,True,Developing
+Sweden,Robotics,2021,2398,True,Developed
+United States,Robotics,2026,7370,False,Developed
+China,"Sales, retail, commerce, marketing",2022,204,True,Developing
+India,"Sales, retail, commerce, marketing",2020,11991,True,Developing
+United States,Simulation,2016,11,True,Developed
+India,Software,2020,16835,True,Developing
+India,Software,2026,2475,False,Developing
+China,Speech Recognition,2023,7,True,Developing
+Germany,Sports,2019,3,True,Developed
+China,Telecommunications,2020,1,True,Developing
+Sweden,Telecommunications,2021,0,True,Developed
+China,Transportation,2016,114,True,Developing
+India,Agriculture,2023,333,True,Developing
+India,All,2022,4373,True,Developing
+United States,All,2020,81290,True,Developed
+Germany,Biotechnology,2023,43,True,Developed
+United States,Community and Lifestyle,2026,3082,False,Developed
+United States,Consumer goods,2024,2170,True,Developed
+India,Consumer goods,2025,40,True,Developing
+China,Cyber Security,2021,165,True,Developing
+Germany,Data and analytics,2020,2853,True,Developed
+South Africa,Data and analytics,2018,24,True,Developing
+India,Education,2026,74,False,Developing
+Sweden,Energy and natural resources,2025,1188,True,Developed
+India,Energy and natural resources,2019,8,True,Developing
+India,Energy and natural resources,2021,85,True,Developing
+Sweden,Finance,2017,185,True,Developed
+United States,General purpose,2026,233850,False,Developed
+South Africa,Hardware,2017,0,True,Developing
+India,Hardware,2019,77,True,Developing
+India,Lending and Investments,2020,9,True,Developing
+Sweden,Lending and Investments,2023,4,True,Developed
+India,Manufacturing,2023,51,True,Developing
+United States,Media and Entertainment,2019,5761,True,Developed
+India,"Military, public safety and government",2018,28,True,Developing
+India,"Mobile, platforms & Internet services",2019,197,True,Developing
+South Africa,"Mobile, platforms & Internet services",2016,52,True,Developing
+India,Navigation and mapping,2020,1,True,Developing
+India,Other,2025,16,True,Developing
+India,Privacy and Security,2021,25,True,Developing
+Germany,Professional services,2024,947,True,Developed
+Sweden,Professional services,2025,1146,True,Developed
+China,Professional services,2023,81,True,Developing
+South Africa,Professional services,2026,7,False,Developing
+Germany,Robotics,2020,19,True,Developed
+United States,Robotics,2018,1114,True,Developed
+South Africa,"Sales, retail, commerce, marketing",2022,105,True,Developing
+United States,Semiconductor,2023,432,True,Developed
+Sweden,Telecommunications,2020,0,True,Developed
+Sweden,Transportation,2016,0,True,Developed
+Germany,Agriculture,2024,7,True,Developed
+United States,Agriculture,2022,703,True,Developed
+India,All,2023,8338,True,Developing
+India,All,2024,1716,True,Developing
+Sweden,All,2020,3600,True,Developed
+China,All,2026,48823,False,Developing
+United States,Community and Lifestyle,2016,522,True,Developed
+China,Community and Lifestyle,2026,173,False,Developing
+Germany,Community and Lifestyle,2023,14,True,Developed
+China,Computer Vision,2019,357,True,Developing
+United States,Computer Vision,2016,644,True,Developed
+South Africa,Computer Vision,2024,54,True,Developing
+Germany,Computer Vision,2017,29,True,Developed
+Germany,Computer Vision,2026,857,False,Developed
+United States,Consumer goods,2020,1625,True,Developed
+India,Consumer goods,2016,6,True,Developing
+China,Consumer goods,2017,185,True,Developing
+South Africa,Data and analytics,2020,92,True,Developing
+South Africa,Data and analytics,2026,29,False,Developing
+Germany,Education,2020,13,True,Developed
+United States,Education,2023,1004,True,Developed
+Germany,Energy and natural resources,2024,24,True,Developed
+India,Finance,2018,21,True,Developing
+United States,Hardware,2024,17001,True,Developed
+China,Information Technology,2021,2353,True,Developing
+Sweden,Information Technology,2021,3868,True,Developed
+United States,Lending and Investments,2022,1926,True,Developed
+India,Lending and Investments,2024,132,True,Developing
+China,Manufacturing,2017,105,True,Developing
+India,Manufacturing,2019,15,True,Developing
+Sweden,Media and Entertainment,2017,9,True,Developed
+India,Media and Entertainment,2022,159,True,Developing
+China,"Mobile, platforms & Internet services",2024,494,True,Developing
+China,Other,2025,256,True,Developing
+Sweden,Other,2017,164,True,Developed
+United States,Professional services,2017,1717,True,Developed
+Germany,Real estate,2026,37,False,Developed
+Sweden,Real estate,2020,4,True,Developed
+Sweden,Robotics,2016,1,True,Developed
+United States,"Sales, retail, commerce, marketing",2017,3845,True,Developed
+India,Simulation,2024,2,True,Developing
+India,Speech Recognition,2021,15,True,Developing
+United States,Transportation,2023,5540,True,Developed
+India,Agriculture,2024,52,True,Developing
+China,All,2022,15600,True,Developing
+China,Community and Lifestyle,2021,153,True,Developing
+China,Community and Lifestyle,2024,111,True,Developing
+India,Computer Vision,2016,2,True,Developing
+Sweden,Consumer goods,2018,1,True,Developed
+Germany,Data and analytics,2024,4373,True,Developed
+United States,Energy and natural resources,2022,1047,True,Developed
+United States,Energy and natural resources,2024,1491,True,Developed
+India,Energy and natural resources,2022,36,True,Developing
+United States,Facial Recognition,2025,207,True,Developed
+China,Facial Recognition,2020,7,True,Developing
+India,Finance,2016,2,True,Developing
+South Africa,Finance,2016,0,True,Developing
+China,General purpose,2018,3573,True,Developing
+China,Hardware,2022,3614,True,Developing
+South Africa,Information Technology,2024,58,True,Developing
+China,Lending and Investments,2019,45,True,Developing
+South Africa,Manufacturing,2019,126,True,Developing
+Sweden,Media and Entertainment,2021,2631,True,Developed
+Germany,Media and Entertainment,2025,144,True,Developed
+China,"Military, public safety and government",2020,1,True,Developing
+United States,"Military, public safety and government",2026,7245,False,Developed
+United States,NLP,2024,5419,True,Developed
+India,Other,2023,99,True,Developing
+South Africa,Other,2021,1,True,Developing
+Sweden,Other,2026,1,False,Developed
+China,Real estate,2019,27,True,Developing
+China,Robotics,2017,210,True,Developing
+United States,"Sales, retail, commerce, marketing",2026,26087,False,Developed
+South Africa,"Sales, retail, commerce, marketing",2026,3,False,Developing
+Sweden,Telecommunications,2022,0,True,Developed
+Sweden,Transportation,2021,3442,True,Developed
+India,Transportation,2021,175,True,Developing
+India,Transportation,2026,79,False,Developing
+Germany,All,2020,4359,True,Developed
+Germany,All,2022,5927,True,Developed
+China,All,2024,16224,True,Developing
+United States,Computer Vision,2020,3478,True,Developed
+Sweden,Consumer goods,2017,1,True,Developed
+India,Consumer goods,2021,56,True,Developing
+China,Cyber Security,2022,31,True,Developing
+United States,Education,2026,4057,False,Developed
+United States,Energy and natural resources,2018,573,True,Developed
+China,Energy and natural resources,2021,90,True,Developing
+China,Energy and natural resources,2026,612,False,Developing
+United States,Facial Recognition,2019,3,True,Developed
+Sweden,Gaming,2020,1,True,Developed
+United States,Gaming,2025,190,True,Developed
+United States,General purpose,2018,30794,True,Developed
+Germany,General purpose,2025,16028,True,Developed
+China,Hardware,2020,1147,True,Developing
+India,Healthcare and Life Sciences,2019,23,True,Developing
+Sweden,Healthcare and Life Sciences,2024,12,True,Developed
+China,Information Technology,2023,1928,True,Developing
+United States,Information Technology,2018,23847,True,Developed
+Germany,Information Technology,2023,1373,True,Developed
+Germany,Lending and Investments,2020,30,True,Developed
+United States,Lending and Investments,2017,263,True,Developed
+China,Manufacturing,2018,588,True,Developing
+India,Manufacturing,2021,21,True,Developing
+Sweden,"Military, public safety and government",2026,4,False,Developed
+India,"Military, public safety and government",2026,1,False,Developing
+India,"Mobile, platforms & Internet services",2023,2615,True,Developing
+India,"Mobile, platforms & Internet services",2025,372,True,Developing
+Germany,"Mobile, platforms & Internet services",2019,202,True,Developed
+India,NLP,2020,4,True,Developing
+Sweden,NLP,2019,2,True,Developed
+Sweden,NLP,2024,0,True,Developed
+Sweden,Navigation and mapping,2026,4,False,Developed
+China,Navigation and mapping,2024,115,True,Developing
+India,Privacy and Security,2022,98,True,Developing
+India,Professional services,2024,257,True,Developing
+China,Real estate,2017,65,True,Developing
+Germany,"Sales, retail, commerce, marketing",2020,1206,True,Developed
+Germany,"Sales, retail, commerce, marketing",2024,751,True,Developed
+Sweden,Software,2023,129,True,Developed
+India,Software,2022,3291,True,Developing
+United States,Speech Recognition,2025,347,True,Developed
+United States,Telecommunications,2022,1593,True,Developed
+United States,Transportation,2026,13097,False,Developed
+South Africa,All,2021,143,True,Developing
+Germany,All,2016,1375,True,Developed
+Germany,All,2023,5160,True,Developed
+United States,All,2021,177302,True,Developed
+China,Biotechnology,2022,230,True,Developing
+South Africa,Community and Lifestyle,2021,0,True,Developing
+Germany,Computer Vision,2020,415,True,Developed
+India,Computer Vision,2025,16,True,Developing
+Germany,Consumer goods,2021,261,True,Developed
+Germany,Consumer goods,2025,110,True,Developed
+United States,Cyber Security,2018,10866,True,Developed
+United States,Data and analytics,2023,59524,True,Developed
+Sweden,Education,2020,1,True,Developed
+Sweden,Education,2022,1,True,Developed
+South Africa,Education,2017,4,True,Developing
+South Africa,Finance,2023,4,True,Developing
+United States,General purpose,2025,212675,True,Developed
+China,General purpose,2020,4892,True,Developing
+Sweden,General purpose,2017,213,True,Developed
+India,Hardware,2022,433,True,Developing
+Germany,Healthcare and Life Sciences,2019,35,True,Developed
+Germany,Healthcare and Life Sciences,2025,1297,True,Developed
+China,Healthcare and Life Sciences,2022,663,True,Developing
+China,Information Technology,2016,3531,True,Developing
+India,Lending and Investments,2017,3,True,Developing
+India,Manufacturing,2016,2,True,Developing
+Sweden,Media and Entertainment,2023,7,True,Developed
+India,"Military, public safety and government",2024,5,True,Developing
+South Africa,"Mobile, platforms & Internet services",2021,33,True,Developing
+India,NLP,2022,9,True,Developing
+South Africa,NLP,2022,1,True,Developing
+China,NLP,2016,15,True,Developing
+South Africa,Navigation and mapping,2016,52,True,Developing
+India,Navigation and mapping,2022,103,True,Developing
+United States,Other,2021,7835,True,Developed
+India,Privacy and Security,2025,42,True,Developing
+India,Professional services,2020,28,True,Developing
+China,Robotics,2024,1264,True,Developing
+Sweden,"Sales, retail, commerce, marketing",2026,0,False,Developed
+South Africa,"Sales, retail, commerce, marketing",2024,25,True,Developing
+United States,Semiconductor,2020,319,True,Developed
+China,Software,2016,4185,True,Developing
+China,Sports,2019,6,True,Developing
+India,Telecommunications,2022,72,True,Developing
+Germany,Biotechnology,2016,4,True,Developed
+Sweden,Biotechnology,2016,1,True,Developed
+India,Community and Lifestyle,2017,1,True,Developing
+China,Consumer goods,2026,500,False,Developing
+Germany,Cyber Security,2022,7,True,Developed
+South Africa,Data and analytics,2025,83,True,Developing
+China,Data and analytics,2020,4884,True,Developing
+Germany,General purpose,2022,2515,True,Developed
+South Africa,General purpose,2026,24,False,Developing
+India,Hardware,2025,1359,True,Developing
+Germany,Healthcare and Life Sciences,2021,137,True,Developed
+India,Healthcare and Life Sciences,2020,34,True,Developing
+China,Information Technology,2019,1147,True,Developing
+Sweden,Information Technology,2017,172,True,Developed
+Germany,Information Technology,2024,2655,True,Developed
+South Africa,Media and Entertainment,2018,0,True,Developing
+China,Media and Entertainment,2024,243,True,Developing
+South Africa,"Military, public safety and government",2021,0,True,Developing
+India,"Military, public safety and government",2020,1,True,Developing
+Sweden,"Mobile, platforms & Internet services",2016,22,True,Developed
+India,NLP,2017,9,True,Developing
+Sweden,NLP,2023,0,True,Developed
+Sweden,Other,2023,14,True,Developed
+United States,Privacy and Security,2017,1520,True,Developed
+South Africa,Professional services,2017,0,True,Developing
+China,Real estate,2016,46,True,Developing
+China,Real estate,2020,61,True,Developing
+India,Real estate,2020,12,True,Developing
+India,Robotics,2016,0,True,Developing
+United States,Simulation,2026,1297,False,Developed
+India,Software,2024,846,True,Developing
+India,Speech Recognition,2023,20,True,Developing
+India,Telecommunications,2018,323,True,Developing
+India,Telecommunications,2021,7,True,Developing
+India,Transportation,2023,53,True,Developing
+United States,All,2024,184951,True,Developed
+China,All,2020,15084,True,Developing
+China,Biotechnology,2017,35,True,Developing
+India,Biotechnology,2021,2,True,Developing
+India,Biotechnology,2025,10,True,Developing
+Sweden,Community and Lifestyle,2020,8,True,Developed
+Sweden,Computer Vision,2026,4,False,Developed
+South Africa,Consumer goods,2020,0,True,Developing
+China,Consumer goods,2022,695,True,Developing
+United States,Data and analytics,2019,67663,True,Developed
+Sweden,Education,2023,6,True,Developed
+India,Education,2016,11,True,Developing
+India,Education,2017,17,True,Developing
+Germany,Education,2024,573,True,Developed
+China,Facial Recognition,2025,5,True,Developing
+India,Finance,2020,25,True,Developing
+India,Finance,2025,131,True,Developing
+Sweden,Finance,2024,9,True,Developed
+China,General purpose,2021,6267,True,Developing
+China,Hardware,2023,2257,True,Developing
+United States,Hardware,2023,5973,True,Developed
+India,Hardware,2021,95,True,Developing
+Germany,Hardware,2018,1316,True,Developed
+Germany,Healthcare and Life Sciences,2026,51,False,Developed
+South Africa,Healthcare and Life Sciences,2022,2,True,Developing
+Sweden,Healthcare and Life Sciences,2023,32,True,Developed
+India,Information Technology,2016,145,True,Developing
+South Africa,"Military, public safety and government",2022,1,True,Developing
+United States,"Military, public safety and government",2017,141,True,Developed
+India,"Military, public safety and government",2019,2,True,Developing
+Sweden,"Mobile, platforms & Internet services",2020,21,True,Developed
+United States,NLP,2022,1579,True,Developed
+Sweden,NLP,2016,0,True,Developed
+Sweden,Navigation and mapping,2024,4,True,Developed
+China,Other,2016,2888,True,Developing
+Sweden,Other,2019,5,True,Developed
+Sweden,Other,2021,39,True,Developed
+Germany,Privacy and Security,2018,19,True,Developed
+United States,Real estate,2018,841,True,Developed
+United States,Real estate,2024,2266,True,Developed
+United States,Robotics,2017,846,True,Developed
+Germany,"Sales, retail, commerce, marketing",2018,1190,True,Developed
+South Africa,Software,2019,157,True,Developing
+United States,Software,2017,16060,True,Developed
+Germany,Software,2017,853,True,Developed
+Germany,Sports,2017,1,True,Developed
+Germany,Sports,2018,1,True,Developed
+China,Telecommunications,2019,10,True,Developing
+United States,Agriculture,2020,143,True,Developed
+South Africa,All,2023,80,True,Developing
+India,All,2019,892,True,Developing
+Germany,All,2024,7394,True,Developed
+United States,All,2019,103086,True,Developed
+Germany,Biotechnology,2020,13,True,Developed
+India,Biotechnology,2017,0,True,Developing
+Germany,Computer Vision,2024,311,True,Developed
+China,Cyber Security,2016,3,True,Developing
+United States,Facial Recognition,2024,19,True,Developed
+South Africa,Finance,2024,25,True,Developing
+India,Gaming,2022,6,True,Developing
+Germany,Manufacturing,2018,697,True,Developed
+India,Media and Entertainment,2026,37,False,Developing
+United States,Media and Entertainment,2020,2852,True,Developed
+United States,NLP,2018,1172,True,Developed
+Sweden,Navigation and mapping,2017,0,True,Developed
+South Africa,Privacy and Security,2026,3,False,Developing
+China,Privacy and Security,2018,171,True,Developing
+India,Real estate,2019,7,True,Developing
+United States,Semiconductor,2021,741,True,Developed
+China,Sports,2017,2,True,Developing
+United States,Telecommunications,2019,3583,True,Developed
+Sweden,Transportation,2022,14,True,Developed
+United States,Transportation,2017,2946,True,Developed
+Germany,Transportation,2026,685,False,Developed
+South Africa,Agriculture,2024,0,True,Developing
+South Africa,All,2016,53,True,Developing
+Germany,Biotechnology,2026,40,False,Developed
+South Africa,Community and Lifestyle,2017,8,True,Developing
+South Africa,Computer Vision,2017,0,True,Developing
+India,Cyber Security,2019,0,True,Developing
+South Africa,Data and analytics,2019,155,True,Developing
+India,Data and analytics,2023,933,True,Developing
+United States,Data and analytics,2024,82431,True,Developed
+Sweden,Education,2017,4,True,Developed
+India,Education,2025,202,True,Developing
+United States,Education,2017,522,True,Developed
+United States,Education,2018,534,True,Developed
+India,Energy and natural resources,2017,4,True,Developing
+Germany,Energy and natural resources,2025,1671,True,Developed
+South Africa,Finance,2019,2,True,Developing
+India,General purpose,2025,2343,True,Developing
+Sweden,General purpose,2018,70,True,Developed
+Germany,Hardware,2017,57,True,Developed
+United States,Healthcare and Life Sciences,2019,6708,True,Developed
+Sweden,Lending and Investments,2017,1,True,Developed
+Sweden,Manufacturing,2021,4538,True,Developed
+United States,Media and Entertainment,2016,1628,True,Developed
+United States,Media and Entertainment,2026,5493,False,Developed
+Germany,"Military, public safety and government",2020,9,True,Developed
+India,NLP,2024,6,True,Developing
+United States,Other,2020,3626,True,Developed
+Germany,Privacy and Security,2016,5,True,Developed
+Sweden,Privacy and Security,2025,0,True,Developed
+United States,Real estate,2023,1455,True,Developed
+Sweden,"Sales, retail, commerce, marketing",2022,21,True,Developed
+India,"Sales, retail, commerce, marketing",2021,170,True,Developing
+Sweden,Software,2024,118,True,Developed
+India,Software,2025,4513,True,Developing
+Sweden,Telecommunications,2026,0,False,Developed
+United States,Transportation,2020,7865,True,Developed
+Germany,Transportation,2017,35,True,Developed
+Germany,Transportation,2018,1040,True,Developed
+Germany,All,2018,3923,True,Developed
+Germany,Community and Lifestyle,2019,18,True,Developed
+Germany,Computer Vision,2016,8,True,Developed
+Germany,Consumer goods,2026,134,False,Developed
+United States,Cyber Security,2016,235,True,Developed
+Germany,Data and analytics,2023,2786,True,Developed
+South Africa,Education,2023,15,True,Developing
+Germany,Energy and natural resources,2018,239,True,Developed
+China,Facial Recognition,2023,13,True,Developing
+Germany,Finance,2017,170,True,Developed
+United States,Finance,2025,27794,True,Developed
+Germany,General purpose,2016,355,True,Developed
+India,Hardware,2024,148,True,Developing
+Germany,Healthcare and Life Sciences,2016,7,True,Developed
+China,Healthcare and Life Sciences,2016,173,True,Developing
+United States,Lending and Investments,2024,1387,True,Developed
+South Africa,Manufacturing,2020,3,True,Developing
+Germany,Manufacturing,2017,219,True,Developed
+India,Media and Entertainment,2020,25,True,Developing
+South Africa,"Mobile, platforms & Internet services",2025,25,True,Developing
+United States,"Mobile, platforms & Internet services",2022,14647,True,Developed
+India,NLP,2018,9,True,Developing
+India,NLP,2019,48,True,Developing
+South Africa,NLP,2020,52,True,Developing
+Sweden,Navigation and mapping,2025,1,True,Developed
+Germany,Other,2020,195,True,Developed
+China,Privacy and Security,2019,60,True,Developing
+China,Professional services,2022,182,True,Developing
+United States,Real estate,2016,258,True,Developed
+China,Real estate,2023,70,True,Developing
+Germany,Real estate,2021,161,True,Developed
+Sweden,"Sales, retail, commerce, marketing",2019,5,True,Developed
+Germany,"Sales, retail, commerce, marketing",2026,604,False,Developed
+South Africa,Software,2021,39,True,Developing
+United States,Software,2021,104428,True,Developed
+Germany,Software,2019,716,True,Developed
+India,Speech Recognition,2020,10,True,Developing
+India,Sports,2020,1,True,Developing
+India,Transportation,2018,15,True,Developing
+Germany,Transportation,2023,870,True,Developed
+China,Agriculture,2020,33,True,Developing
+Germany,Cyber Security,2020,26,True,Developed
+United States,Data and analytics,2017,15524,True,Developed
+India,Education,2019,34,True,Developing
+United States,Education,2024,2834,True,Developed
+India,Energy and natural resources,2025,41,True,Developing
+Germany,Energy and natural resources,2020,240,True,Developed
+Sweden,Finance,2023,14,True,Developed
+India,General purpose,2021,830,True,Developing
+Sweden,General purpose,2016,22,True,Developed
+Sweden,Hardware,2026,23,False,Developed
+South Africa,Hardware,2021,1,True,Developing
+Germany,Hardware,2023,766,True,Developed
+India,Information Technology,2020,12120,True,Developing
+Germany,Lending and Investments,2016,34,True,Developed
+South Africa,Lending and Investments,2017,22,True,Developing
+India,Media and Entertainment,2018,10,True,Developing
+China,"Military, public safety and government",2026,67,False,Developing
+China,"Mobile, platforms & Internet services",2026,1223,False,Developing
+India,Privacy and Security,2017,16,True,Developing
+India,Professional services,2021,160,True,Developing
+South Africa,Professional services,2019,2,True,Developing
+India,Robotics,2022,38,True,Developing
+United States,Robotics,2025,3696,True,Developed
+India,Semiconductor,2025,241,True,Developing
+Germany,Speech Recognition,2026,359,False,Developed
+United States,Transportation,2018,3950,True,Developed
+India,Agriculture,2026,3,False,Developing
+China,Agriculture,2018,17,True,Developing
+Sweden,Biotechnology,2024,3,True,Developed
+India,Community and Lifestyle,2018,2,True,Developing
+Germany,Community and Lifestyle,2025,134,True,Developed
+India,Consumer goods,2017,8,True,Developing
+Germany,Cyber Security,2023,16,True,Developed
+China,Cyber Security,2026,42,False,Developing
+South Africa,Data and analytics,2023,40,True,Developing
+India,Data and analytics,2018,675,True,Developing
+Sweden,Education,2016,1,True,Developed
+Germany,Education,2026,137,False,Developed
+Sweden,Energy and natural resources,2021,14,True,Developed
+Sweden,Energy and natural resources,2024,981,True,Developed
+United States,Energy and natural resources,2021,7856,True,Developed
+South Africa,Energy and natural resources,2021,0,True,Developing
+India,Energy and natural resources,2018,2,True,Developing
+United States,Facial Recognition,2018,178,True,Developed
+United States,Finance,2021,14453,True,Developed
+Sweden,Finance,2026,1648,False,Developed
+United States,Gaming,2023,391,True,Developed
+China,General purpose,2025,10740,True,Developing
+United States,Hardware,2026,44832,False,Developed
+United States,Healthcare and Life Sciences,2023,6474,True,Developed
+Sweden,Healthcare and Life Sciences,2026,31,False,Developed
+India,Information Technology,2022,2148,True,Developing
+Sweden,Media and Entertainment,2022,3,True,Developed
+Germany,"Military, public safety and government",2017,0,True,Developed
+India,"Mobile, platforms & Internet services",2024,216,True,Developing
+Germany,"Mobile, platforms & Internet services",2023,891,True,Developed
+India,Other,2020,13,True,Developing
+Germany,Privacy and Security,2020,534,True,Developed
+India,Privacy and Security,2020,2,True,Developing
+India,Privacy and Security,2023,54,True,Developing
+India,Privacy and Security,2026,504,False,Developing
+India,Real estate,2016,1,True,Developing
+China,Robotics,2022,1493,True,Developing
+Germany,Robotics,2023,262,True,Developed
+United States,"Sales, retail, commerce, marketing",2024,9030,True,Developed
+South Africa,"Sales, retail, commerce, marketing",2018,2,True,Developing
+South Africa,"Sales, retail, commerce, marketing",2020,0,True,Developing
+India,Speech Recognition,2019,6,True,Developing
+Germany,Telecommunications,2019,39,True,Developed
+Sweden,Telecommunications,2019,0,True,Developed
+United States,Telecommunications,2025,3324,True,Developed
+South Africa,Transportation,2017,8,True,Developing
+India,Transportation,2019,68,True,Developing

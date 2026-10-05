@@ -1,0 +1,388 @@
+country,field,year,num_citations,group
+United States,All,2019,2220861,Developed
+Germany,All,2022,284101,Developed
+India,Computer Vision,2017,82592,Developing
+India,Computer Vision,2024,80993,Developing
+United States,Large language models,2024,121650,Developed
+India,Large language models,2022,15184,Developing
+Germany,Natural Language Processing,2023,37122,Developed
+India,Natural Language Processing,2020,39559,Developing
+China,Robotics,2016,80010,Developing
+China,Robotics,2021,199511,Developing
+China,Robotics,2024,106311,Developing
+South Africa,AI Safety,2019,176,Developing
+Sweden,AI Safety,2017,1025,Developed
+China,Computer Vision,2019,1006398,Developing
+United States,Robotics,2021,155493,Developed
+South Africa,All,2017,10799,Developing
+China,All,2021,2104518,Developing
+South Africa,Computer Vision,2025,737,Developing
+Germany,Large language models,2023,39718,Developed
+Sweden,Natural Language Processing,2022,3390,Developed
+Germany,Robotics,2019,50792,Developed
+Germany,AI Safety,2024,6400,Developed
+South Africa,AI Safety,2023,312,Developing
+United States,Computer Vision,2023,307517,Developed
+South Africa,Computer Vision,2026,1,Developing
+South Africa,Large language models,2017,77,Developing
+United States,Large language models,2020,348570,Developed
+Germany,Natural Language Processing,2021,31573,Developed
+India,Natural Language Processing,2017,23892,Developing
+India,AI Safety,2017,1639,Developing
+India,AI Safety,2025,1989,Developing
+South Africa,All,2021,21195,Developing
+Sweden,Large language models,2023,5405,Developed
+Germany,Natural Language Processing,2018,36993,Developed
+Germany,Natural Language Processing,2026,16,Developed
+United States,Natural Language Processing,2022,165435,Developed
+China,Robotics,2022,205592,Developing
+India,AI Safety,2022,5337,Developing
+South Africa,All,2016,6276,Developing
+India,All,2018,256742,Developing
+United States,Large language models,2017,77951,Developed
+China,Natural Language Processing,2023,165262,Developing
+Sweden,Robotics,2018,9506,Developed
+Germany,All,2017,335995,Developed
+China,All,2020,2157692,Developing
+India,Computer Vision,2019,129702,Developing
+South Africa,Large language models,2018,3,Developing
+South Africa,Large language models,2020,36,Developing
+South Africa,Large language models,2023,483,Developing
+Germany,Large language models,2021,56757,Developed
+United States,AI Safety,2021,108828,Developed
+United States,AI Safety,2024,32950,Developed
+Germany,All,2024,123615,Developed
+China,All,2018,1551273,Developing
+Germany,Large language models,2018,6585,Developed
+China,Natural Language Processing,2022,109369,Developing
+United States,Natural Language Processing,2025,20149,Developed
+Sweden,All,2020,77885,Developed
+India,Computer Vision,2021,167747,Developing
+Germany,Large language models,2025,5746,Developed
+India,Robotics,2023,15521,Developing
+India,All,2016,166957,Developing
+China,All,2023,1633678,Developing
+India,Computer Vision,2016,76185,Developing
+India,Computer Vision,2023,120826,Developing
+South Africa,Large language models,2024,452,Developing
+United States,Large language models,2016,62022,Developed
+India,Natural Language Processing,2022,34594,Developing
+United States,Robotics,2025,12603,Developed
+China,AI Safety,2020,56797,Developing
+United States,AI Safety,2016,102819,Developed
+South Africa,Computer Vision,2017,6713,Developing
+China,AI Safety,2016,10549,Developing
+China,All,2022,1725881,Developing
+Germany,Computer Vision,2024,35253,Developed
+South Africa,Computer Vision,2018,3828,Developing
+Sweden,Large language models,2017,27,Developed
+United States,Large language models,2019,237918,Developed
+India,Large language models,2023,15131,Developing
+United States,Natural Language Processing,2021,242358,Developed
+United States,All,2025,142248,Developed
+South Africa,All,2018,10025,Developing
+South Africa,All,2025,3641,Developing
+India,All,2021,438782,Developing
+Germany,Computer Vision,2017,110271,Developed
+Germany,Natural Language Processing,2017,35581,Developed
+India,Robotics,2017,14138,Developing
+India,Robotics,2018,16505,Developing
+China,AI Safety,2025,8459,Developing
+Germany,AI Safety,2018,15091,Developed
+Sweden,AI Safety,2019,3494,Developed
+Sweden,AI Safety,2023,1913,Developed
+Germany,All,2016,263540,Developed
+United States,Natural Language Processing,2019,291321,Developed
+United States,Natural Language Processing,2020,280655,Developed
+India,Robotics,2026,2,Developing
+Germany,Robotics,2017,49947,Developed
+Germany,Robotics,2023,30045,Developed
+Germany,AI Safety,2016,5731,Developed
+United States,AI Safety,2025,12624,Developed
+United States,All,2016,1830096,Developed
+Sweden,All,2023,52582,Developed
+United States,Computer Vision,2018,806520,Developed
+United States,Computer Vision,2019,717030,Developed
+Germany,Computer Vision,2020,181576,Developed
+China,Large language models,2020,195710,Developing
+India,Robotics,2020,18794,Developing
+India,AI Safety,2021,3117,Developing
+Sweden,AI Safety,2016,675,Developed
+United States,All,2024,563732,Developed
+South Africa,All,2020,18366,Developing
+China,Large language models,2016,14183,Developing
+Sweden,Robotics,2016,10735,Developed
+South Africa,All,2023,20948,Developing
+India,Computer Vision,2025,18335,Developing
+Sweden,Natural Language Processing,2017,3963,Developed
+South Africa,Robotics,2017,1056,Developing
+South Africa,Robotics,2018,614,Developing
+India,All,2024,242043,Developing
+Germany,All,2018,340082,Developed
+India,Large language models,2024,9366,Developing
+Germany,Natural Language Processing,2022,23900,Developed
+India,Natural Language Processing,2018,27444,Developing
+India,Natural Language Processing,2026,1,Developing
+United States,Robotics,2026,79,Developed
+Germany,Robotics,2018,58620,Developed
+Germany,AI Safety,2019,15622,Developed
+United States,Computer Vision,2022,378245,Developed
+India,Robotics,2019,15571,Developing
+India,Robotics,2021,19577,Developing
+Sweden,Robotics,2022,8233,Developed
+Sweden,All,2018,55530,Developed
+Sweden,Computer Vision,2021,25003,Developed
+United States,Computer Vision,2016,748058,Developed
+India,Large language models,2021,13592,Developing
+China,Natural Language Processing,2026,201,Developing
+United States,Natural Language Processing,2017,191573,Developed
+United States,Robotics,2018,208458,Developed
+China,Robotics,2020,193989,Developing
+Germany,Robotics,2026,22,Developed
+South Africa,AI Safety,2021,206,Developing
+South Africa,All,2026,2,Developing
+United States,Computer Vision,2021,609336,Developed
+China,Computer Vision,2024,403830,Developing
+China,Large language models,2021,299201,Developing
+India,Large language models,2017,1071,Developing
+Germany,Natural Language Processing,2024,12475,Developed
+South Africa,Natural Language Processing,2025,338,Developing
+United States,Robotics,2023,107192,Developed
+Sweden,Robotics,2024,3862,Developed
+South Africa,AI Safety,2016,27,Developing
+United States,All,2022,1152542,Developed
+India,All,2026,22,Developing
+Sweden,All,2019,70948,Developed
+Sweden,Computer Vision,2018,13785,Developed
+Germany,Computer Vision,2018,120628,Developed
+Germany,Large language models,2019,17983,Developed
+Germany,AI Safety,2017,11124,Developed
+Germany,AI Safety,2023,12171,Developed
+Sweden,AI Safety,2020,2888,Developed
+United States,All,2020,2267545,Developed
+South Africa,All,2022,21838,Developing
+Sweden,All,2016,39778,Developed
+Sweden,All,2024,28688,Developed
+Sweden,Computer Vision,2023,9956,Developed
+Sweden,Large language models,2016,104,Developed
+Germany,Large language models,2016,1811,Developed
+South Africa,Robotics,2023,816,Developing
+United States,Robotics,2024,53561,Developed
+India,Robotics,2024,8829,Developing
+China,Robotics,2018,133777,Developing
+South Africa,AI Safety,2017,38,Developing
+Germany,All,2023,254193,Developed
+Sweden,All,2021,72326,Developed
+Germany,Computer Vision,2026,68,Developed
+South Africa,Computer Vision,2021,3816,Developing
+Sweden,Large language models,2024,1903,Developed
+United States,Large language models,2025,30408,Developed
+United States,Large language models,2026,1,Developed
+Sweden,Natural Language Processing,2025,732,Developed
+South Africa,Robotics,2016,432,Developing
+China,AI Safety,2023,37515,Developing
+India,AI Safety,2018,2952,Developing
+China,Computer Vision,2021,1079666,Developing
+United States,Large language models,2018,238612,Developed
+China,Large language models,2023,352579,Developing
+Sweden,Natural Language Processing,2016,5019,Developed
+Sweden,Natural Language Processing,2020,5915,Developed
+Sweden,Natural Language Processing,2021,5034,Developed
+China,AI Safety,2024,23256,Developing
+United States,AI Safety,2020,155370,Developed
+Germany,All,2020,428839,Developed
+South Africa,Computer Vision,2022,3460,Developing
+Sweden,Natural Language Processing,2023,6099,Developed
+India,Natural Language Processing,2021,42471,Developing
+South Africa,Natural Language Processing,2018,1059,Developing
+China,Robotics,2017,105161,Developing
+Germany,AI Safety,2025,2073,Developed
+Germany,AI Safety,2026,6,Developed
+Sweden,Computer Vision,2022,13506,Developed
+China,Computer Vision,2017,647542,Developing
+South Africa,Computer Vision,2019,3300,Developing
+South Africa,Computer Vision,2020,4450,Developing
+South Africa,Natural Language Processing,2019,4640,Developing
+South Africa,Robotics,2025,58,Developing
+China,Robotics,2025,25805,Developing
+China,Robotics,2026,537,Developing
+United States,AI Safety,2026,32,Developed
+United States,All,2023,1093113,Developed
+India,All,2019,315417,Developing
+Germany,All,2026,208,Developed
+Sweden,Computer Vision,2016,13543,Developed
+Germany,Computer Vision,2022,102720,Developed
+South Africa,Large language models,2025,201,Developing
+India,Large language models,2025,2215,Developing
+South Africa,Robotics,2021,1478,Developing
+Germany,AI Safety,2021,17295,Developed
+United States,AI Safety,2017,214336,Developed
+China,Computer Vision,2022,820007,Developing
+China,Natural Language Processing,2018,107526,Developing
+Sweden,Robotics,2023,6099,Developed
+India,AI Safety,2019,4358,Developing
+United States,All,2021,1755131,Developed
+India,Computer Vision,2018,112258,Developing
+Germany,Large language models,2017,5682,Developed
+India,Large language models,2019,6677,Developing
+Sweden,Natural Language Processing,2026,2,Developed
+South Africa,Robotics,2022,690,Developing
+United States,Robotics,2019,206748,Developed
+South Africa,AI Safety,2025,488,Developing
+South Africa,All,2019,17744,Developing
+India,Computer Vision,2020,185325,Developing
+United States,Computer Vision,2026,206,Developed
+Germany,Computer Vision,2016,94657,Developed
+China,Computer Vision,2025,99646,Developing
+Sweden,Large language models,2021,14287,Developed
+South Africa,Large language models,2022,613,Developing
+Germany,Robotics,2024,14976,Developed
+South Africa,AI Safety,2018,114,Developing
+United States,All,2017,1962550,Developed
+Germany,All,2025,29714,Developed
+China,All,2026,3434,Developing
+China,Computer Vision,2016,508169,Developing
+South Africa,Computer Vision,2016,1357,Developing
+Sweden,Large language models,2018,1002,Developed
+United States,Large language models,2021,359134,Developed
+China,Large language models,2024,178255,Developing
+India,Large language models,2020,7836,Developing
+Sweden,Natural Language Processing,2019,2627,Developed
+Germany,Natural Language Processing,2020,31954,Developed
+China,Natural Language Processing,2020,165926,Developing
+India,Natural Language Processing,2025,2632,Developing
+Germany,Robotics,2025,3396,Developed
+United States,All,2018,2313570,Developed
+India,All,2020,421461,Developing
+Sweden,All,2025,7401,Developed
+India,Computer Vision,2026,4,Developing
+South Africa,Computer Vision,2023,3456,Developing
+China,Natural Language Processing,2025,19287,Developing
+China,AI Safety,2017,29191,Developing
+Sweden,AI Safety,2022,1673,Developed
+India,All,2023,372532,Developing
+South Africa,Large language models,2019,4244,Developing
+China,Large language models,2022,237983,Developing
+China,Large language models,2025,43164,Developing
+Sweden,Natural Language Processing,2024,1511,Developed
+Germany,Robotics,2022,41526,Developed
+China,AI Safety,2021,51269,Developing
+China,AI Safety,2022,26005,Developing
+India,AI Safety,2020,5759,Developing
+India,AI Safety,2023,5945,Developing
+South Africa,Large language models,2021,556,Developing
+United States,Large language models,2023,309800,Developed
+India,Large language models,2018,3076,Developing
+India,Natural Language Processing,2016,20621,Developing
+India,Natural Language Processing,2019,30185,Developing
+South Africa,Robotics,2024,382,Developing
+United States,Robotics,2022,134155,Developed
+China,All,2025,242661,Developing
+Sweden,Computer Vision,2026,24,Developed
+India,Natural Language Processing,2024,16499,Developing
+South Africa,Natural Language Processing,2024,386,Developing
+Sweden,Robotics,2019,13592,Developed
+South Africa,AI Safety,2024,638,Developing
+United States,All,2026,1168,Developed
+China,All,2016,939349,Developing
+United States,Computer Vision,2017,791707,Developed
+United States,Computer Vision,2020,796574,Developed
+South Africa,Natural Language Processing,2020,999,Developing
+South Africa,Robotics,2019,2011,Developing
+United States,Computer Vision,2024,140976,Developed
+Germany,Large language models,2022,33408,Developed
+Sweden,Natural Language Processing,2018,5018,Developed
+China,Natural Language Processing,2021,160665,Developing
+India,Robotics,2025,1771,Developing
+India,AI Safety,2016,657,Developing
+India,AI Safety,2024,6368,Developing
+Sweden,AI Safety,2024,1117,Developed
+South Africa,All,2024,16585,Developing
+India,All,2025,52959,Developing
+Sweden,Computer Vision,2024,5730,Developed
+Germany,Computer Vision,2019,140735,Developed
+Germany,Computer Vision,2025,7331,Developed
+United States,Natural Language Processing,2024,77483,Developed
+South Africa,Natural Language Processing,2021,1169,Developing
+India,Robotics,2022,20105,Developing
+Sweden,Robotics,2017,9728,Developed
+United States,AI Safety,2019,155322,Developed
+Sweden,AI Safety,2018,1204,Developed
+United States,Natural Language Processing,2026,225,Developed
+United States,AI Safety,2022,59188,Developed
+South Africa,AI Safety,2022,109,Developing
+Sweden,All,2017,47639,Developed
+Germany,Robotics,2016,52782,Developed
+Sweden,Robotics,2026,3,Developed
+China,AI Safety,2018,48195,Developing
+United States,AI Safety,2018,150001,Developed
+China,All,2024,913729,Developing
+China,Computer Vision,2020,1072148,Developing
+Germany,Natural Language Processing,2019,32184,Developed
+China,Natural Language Processing,2019,164083,Developing
+China,Natural Language Processing,2024,57884,Developing
+United States,Natural Language Processing,2023,222399,Developed
+Sweden,AI Safety,2026,1,Developed
+India,All,2022,390905,Developing
+Sweden,All,2022,57608,Developed
+Sweden,Large language models,2019,1722,Developed
+Germany,Large language models,2020,84590,Developed
+United States,Natural Language Processing,2016,170205,Developed
+India,Natural Language Processing,2023,33226,Developing
+South Africa,Natural Language Processing,2023,1709,Developing
+South Africa,Robotics,2020,1511,Developing
+United States,Robotics,2020,189413,Developed
+Sweden,Robotics,2020,13689,Developed
+China,AI Safety,2019,49621,Developing
+China,All,2017,1229198,Developing
+China,All,2019,2022008,Developing
+Sweden,Computer Vision,2020,18051,Developed
+India,Computer Vision,2022,142029,Developing
+Sweden,Large language models,2025,989,Developed
+India,Robotics,2016,13664,Developing
+Germany,Robotics,2021,44985,Developed
+Germany,AI Safety,2020,19586,Developed
+South Africa,AI Safety,2020,347,Developing
+Germany,Computer Vision,2021,149773,Developed
+Sweden,Large language models,2020,1324,Developed
+Sweden,Large language models,2022,5900,Developed
+Germany,Large language models,2024,18064,Developed
+China,Large language models,2019,142539,Developing
+China,Large language models,2026,2,Developing
+South Africa,Natural Language Processing,2017,461,Developing
+South Africa,Natural Language Processing,2022,1248,Developing
+Sweden,AI Safety,2021,2408,Developed
+Germany,All,2021,371138,Developed
+Germany,Computer Vision,2023,92119,Developed
+Germany,Natural Language Processing,2025,3594,Developed
+China,Natural Language Processing,2017,81761,Developing
+Sweden,Robotics,2025,797,Developed
+United States,AI Safety,2023,61549,Developed
+India,All,2017,196587,Developing
+Germany,All,2019,370698,Developed
+Sweden,All,2026,63,Developed
+Sweden,Computer Vision,2025,1731,Developed
+South Africa,Computer Vision,2024,2003,Developing
+China,Large language models,2018,53423,Developing
+South Africa,Natural Language Processing,2016,683,Developing
+United States,Robotics,2017,188694,Developed
+United States,Computer Vision,2025,32294,Developed
+China,Robotics,2019,169274,Developing
+Germany,Robotics,2020,47375,Developed
+Germany,AI Safety,2022,13469,Developed
+Sweden,Computer Vision,2017,13635,Developed
+United States,Large language models,2022,235299,Developed
+China,Large language models,2017,38882,Developing
+United States,Robotics,2016,185468,Developed
+China,Robotics,2023,188944,Developing
+China,AI Safety,2026,142,Developing
+Sweden,AI Safety,2025,819,Developed
+Sweden,Computer Vision,2019,22813,Developed
+China,Computer Vision,2018,823646,Developing
+China,Computer Vision,2023,757239,Developing
+China,Computer Vision,2026,1138,Developing
+India,Large language models,2016,654,Developing
+Germany,Natural Language Processing,2016,25449,Developed
+China,Natural Language Processing,2016,62455,Developing
+United States,Natural Language Processing,2018,346199,Developed
+Sweden,Robotics,2021,10186,Developed

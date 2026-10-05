@@ -1,0 +1,216 @@
+country,field,disclosed_investment,estimated_investment,group
+China,Transportation,9290,15620,Developing
+China,Other,4032,5627,Developing
+China,Lending and Investments,337,499,Developing
+China,Information Technology,14413,23213,Developing
+China,Real estate,520,1499,Developing
+China,All,118577,178057,Developing
+China,NLP,820,994,Developing
+China,Gaming,122,287,Developing
+China,Consumer goods,1339,3854,Developing
+China,Navigation and mapping,152,501,Developing
+China,Professional services,905,1967,Developing
+China,Data and analytics,35115,66330,Developing
+China,Computer Vision,1567,2880,Developing
+China,"Mobile, platforms & Internet services",10826,15318,Developing
+China,Education,1988,3640,Developing
+China,Community and Lifestyle,1018,1912,Developing
+China,Agriculture,273,1158,Developing
+China,Sports,84,265,Developing
+China,General purpose,36405,69465,Developing
+China,Semiconductor,1324,3942,Developing
+China,Biotechnology,990,1904,Developing
+China,Energy and natural resources,627,1468,Developing
+China,Software,35670,67762,Developing
+China,Robotics,5289,11780,Developing
+China,"Sales, retail, commerce, marketing",1142,2712,Developing
+China,Media and Entertainment,4354,6651,Developing
+China,Facial Recognition,473,613,Developing
+China,Hardware,10234,26208,Developing
+China,Speech Recognition,284,372,Developing
+China,Manufacturing,7070,14144,Developing
+China,Simulation,33,69,Developing
+China,Privacy and Security,787,2272,Developing
+China,Telecommunications,53,98,Developing
+China,Cyber Security,305,404,Developing
+China,Healthcare and Life Sciences,2824,6196,Developing
+China,Finance,1257,2846,Developing
+Germany,Real estate,193,1795,Developed
+Germany,Privacy and Security,394,4023,Developed
+Germany,Biotechnology,189,1929,Developed
+Germany,"Sales, retail, commerce, marketing",782,8604,Developed
+Germany,Other,1361,3923,Developed
+Germany,Hardware,2169,10560,Developed
+Germany,Healthcare and Life Sciences,509,2269,Developed
+Germany,NLP,98,856,Developed
+Germany,Information Technology,4824,24017,Developed
+Germany,Professional services,2158,10293,Developed
+Germany,Lending and Investments,366,1436,Developed
+Germany,General purpose,7725,38133,Developed
+Germany,Navigation and mapping,487,855,Developed
+Germany,Consumer goods,197,2087,Developed
+Germany,"Military, public safety and government",1119,1568,Developed
+Germany,Cyber Security,98,1200,Developed
+Germany,Data and analytics,7391,39294,Developed
+Germany,Manufacturing,2420,6830,Developed
+Germany,Energy and natural resources,268,4058,Developed
+Germany,Finance,845,6309,Developed
+Germany,Computer Vision,99,3888,Developed
+Germany,Media and Entertainment,276,2577,Developed
+Germany,Semiconductor,307,1178,Developed
+Germany,"Mobile, platforms & Internet services",1077,12203,Developed
+Germany,Agriculture,333,492,Developed
+Germany,Robotics,1202,2188,Developed
+Germany,Transportation,1914,12183,Developed
+Germany,All,30255,79056,Developed
+Germany,Software,8971,48082,Developed
+Germany,Community and Lifestyle,466,1350,Developed
+Germany,Education,278,1345,Developed
+India,General purpose,5360,10453,Developing
+India,Data and analytics,6105,16155,Developing
+India,Agriculture,98,545,Developing
+India,Simulation,165,167,Developing
+India,Media and Entertainment,433,615,Developing
+India,"Military, public safety and government",36,114,Developing
+India,Software,23646,34532,Developing
+India,Healthcare and Life Sciences,2231,3363,Developing
+India,Privacy and Security,528,816,Developing
+India,Semiconductor,305,322,Developing
+India,Sports,28,121,Developing
+India,All,40494,55659,Developing
+India,"Sales, retail, commerce, marketing",15523,16611,Developing
+India,Transportation,568,822,Developing
+India,Community and Lifestyle,885,1016,Developing
+India,Hardware,16903,17514,Developing
+India,NLP,68,223,Developing
+India,Education,578,1123,Developing
+India,Other,742,1135,Developing
+India,Consumer goods,14907,15204,Developing
+India,Navigation and mapping,387,394,Developing
+India,Finance,768,1357,Developing
+India,Gaming,54,68,Developing
+India,Information Technology,19214,22456,Developing
+India,Lending and Investments,172,402,Developing
+India,Professional services,4109,5349,Developing
+India,Manufacturing,220,552,Developing
+India,Speech Recognition,80,127,Developing
+India,Real estate,106,229,Developing
+India,Energy and natural resources,880,1345,Developing
+India,Cyber Security,425,563,Developing
+India,Telecommunications,14779,19541,Developing
+India,"Mobile, platforms & Internet services",16366,17498,Developing
+India,Computer Vision,79,240,Developing
+India,Robotics,95,154,Developing
+South Africa,Finance,102,187,Developing
+South Africa,All,687,1504,Developing
+South Africa,"Sales, retail, commerce, marketing",105,207,Developing
+South Africa,General purpose,187,630,Developing
+South Africa,Lending and Investments,92,99,Developing
+South Africa,Software,292,940,Developing
+South Africa,"Mobile, platforms & Internet services",104,192,Developing
+South Africa,Information Technology,149,413,Developing
+South Africa,Data and analytics,279,929,Developing
+South Africa,Hardware,25,80,Developing
+South Africa,Professional services,114,181,Developing
+Sweden,All,21185,45020,Developed
+Sweden,Energy and natural resources,4782,9528,Developed
+Sweden,Education,54,2431,Developed
+Sweden,Professional services,1312,5403,Developed
+Sweden,"Sales, retail, commerce, marketing",344,1274,Developed
+Sweden,Community and Lifestyle,32,54,Developed
+Sweden,Other,3489,8251,Developed
+Sweden,Robotics,48,2424,Developed
+Sweden,Real estate,1375,1390,Developed
+Sweden,Data and analytics,5669,23425,Developed
+Sweden,General purpose,5623,22751,Developed
+Sweden,Hardware,4658,9567,Developed
+Sweden,Software,5793,23660,Developed
+Sweden,Finance,3487,12295,Developed
+Sweden,Transportation,56,3491,Developed
+Sweden,Manufacturing,4595,4634,Developed
+Sweden,Gaming,40,42,Developed
+Sweden,Information Technology,3716,13525,Developed
+Sweden,Healthcare and Life Sciences,188,2631,Developed
+Sweden,Media and Entertainment,275,2674,Developed
+Sweden,"Mobile, platforms & Internet services",155,859,Developed
+United States,Other,26960,76506,Developed
+United States,Navigation and mapping,3547,10323,Developed
+United States,Privacy and Security,41895,94243,Developed
+United States,Real estate,12631,29051,Developed
+United States,Data and analytics,449137,950240,Developed
+United States,Healthcare and Life Sciences,46020,129004,Developed
+United States,"Military, public safety and government",16397,25597,Developed
+United States,Software,451311,1017810,Developed
+United States,Media and Entertainment,12725,50825,Developed
+United States,Gaming,1119,3441,Developed
+United States,Simulation,357,7544,Developed
+United States,Cyber Security,26182,54005,Developed
+United States,Manufacturing,26886,52262,Developed
+United States,Professional services,40454,140808,Developed
+United States,Hardware,89979,194397,Developed
+United States,NLP,26980,48338,Developed
+United States,"Sales, retail, commerce, marketing",39843,135120,Developed
+United States,Education,4719,23208,Developed
+United States,"Mobile, platforms & Internet services",90918,207862,Developed
+United States,Transportation,67502,114314,Developed
+United States,All,1263710,1944991,Developed
+United States,Finance,44496,106456,Developed
+United States,Telecommunications,5300,22210,Developed
+United States,Energy and natural resources,14960,40979,Developed
+United States,Biotechnology,27586,49426,Developed
+United States,Community and Lifestyle,4499,19600,Developed
+United States,General purpose,429073,850053,Developed
+United States,Consumer goods,16267,40536,Developed
+United States,Sports,1686,11011,Developed
+United States,Semiconductor,17301,25640,Developed
+United States,Facial Recognition,1050,1821,Developed
+United States,Computer Vision,22654,46574,Developed
+United States,Speech Recognition,1734,4968,Developed
+United States,Information Technology,201345,466142,Developed
+United States,Lending and Investments,10250,20933,Developed
+United States,Agriculture,3700,7547,Developed
+United States,Robotics,20131,33382,Developed
+South Africa,Telecommunications,0,1,Developing
+India,Facial Recognition,0,5,Developing
+South Africa,Media and Entertainment,0,1,Developing
+South Africa,"Military, public safety and government",0,1,Developing
+South Africa,Consumer goods,0,0,Developing
+Sweden,Simulation,0,0,Developed
+South Africa,NLP,1,204,Developing
+South Africa,Speech Recognition,1,1,Developing
+Sweden,Semiconductor,1,1,Developed
+Germany,Speech Recognition,2,362,Developed
+South Africa,Real estate,2,125,Developing
+South Africa,Navigation and mapping,2,54,Developing
+South Africa,Community and Lifestyle,3,62,Developing
+Sweden,Telecommunications,3,3,Developed
+South Africa,Transportation,4,63,Developing
+South Africa,Robotics,4,56,Developing
+Sweden,NLP,4,17,Developed
+Sweden,Cyber Security,4,4,Developed
+South Africa,Education,5,25,Developing
+South Africa,Energy and natural resources,5,129,Developing
+Sweden,"Military, public safety and government",5,12,Developed
+Sweden,Sports,5,2373,Developed
+Sweden,Lending and Investments,6,11,Developed
+Germany,Simulation,7,290,Developed
+South Africa,Healthcare and Life Sciences,7,20,Developing
+South Africa,Other,7,13,Developing
+South Africa,Privacy and Security,8,64,Developing
+South Africa,Facial Recognition,8,11,Developing
+South Africa,Biotechnology,8,8,Developing
+South Africa,Computer Vision,8,66,Developing
+South Africa,Cyber Security,8,8,Developing
+Germany,Gaming,12,17,Developed
+Germany,Sports,12,19,Developed
+South Africa,Agriculture,12,12,Developing
+South Africa,Manufacturing,13,144,Developing
+Sweden,Navigation and mapping,16,23,Developed
+China,"Military, public safety and government",17,191,Developing
+Sweden,Agriculture,18,35,Developed
+Sweden,Privacy and Security,20,26,Developed
+Sweden,Computer Vision,21,152,Developed
+India,Biotechnology,22,47,Developing
+Sweden,Biotechnology,22,25,Developed
+Germany,Telecommunications,23,985,Developed
+Sweden,Consumer goods,23,119,Developed
