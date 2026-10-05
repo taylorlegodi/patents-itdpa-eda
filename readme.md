@@ -1,94 +1,54 @@
-# Scholarly publications on artificial intelligence per million people - Data package
+# Patents ITDPA: Exploratory Data Analysis
 
-This data package contains the data that powers the chart ["Scholarly publications on artificial intelligence per million people"](https://ourworldindata.org/grapher/scholarly-publications-on-artificial-intelligence-per-million-people?tab=line&country=ZAF~USA~DEU~CHN~IND~SWE&mapSelect=ZAF~USA~DEU~CHN~IND~SWE&v=1&csvType=filtered&useColumnShortNames=false) on the Our World in Data website. It was downloaded on September 29, 2026.
+Exploratory data analysis of patent activity, scholarly publications and estimated investment across six countries: China, Germany, India, South Africa, Sweden and the United States.
 
-### Active Filters
+## Overview
 
-A filtered subset of the full data was downloaded. The following filters were applied:
-- country: ZAF, USA, DEU, CHN, IND, SWE
-- tab: line
-- mapSelect: ZAF~USA~DEU~CHN~IND~SWE
+This project examines how innovation output and investment compare between large and small research economies. Part 1 focuses on cleaning the data and summarising each country's distribution with descriptive statistics (count, mean, median, standard deviation, min, max, quartiles and IQR).
 
-## CSV structure
+## Key observations
 
-Each row is an observation for an entity (usually a country or region) at a timepoint.
+- Estimated investment varies enormously between countries. The United States has a median above 100,000, while South Africa's median is around 150.
+- India and Sweden show high standard deviations relative to their medians, which points to skewed distributions with a few very large values.
+- Using the median and IQR alongside the mean gives a more reliable picture than the mean alone.
 
-- "Entity" — the name of the entity, e.g. "United States".
-- "Code" — our internal entity code. For most countries this is the [ISO alpha-3](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3) code, e.g. "USA"; historical and other non-standard entities get a custom code.
-- "Year" or "Day" — the timepoint. Annual data has a "Year" column holding an integer year; otherwise a "Day" column holds a date string in the form "YYYY-MM-DD".
-- The final column is the data column — the time series that powers the chart. Downloaded with the "full data" option it corresponds to the time series below; with "only selected data visible in the chart" it is transformed depending on the chart type, so the correspondence may be less direct.
+## Project structure
 
+```
+cat/                 Raw source files (companies, patents, publications)
+clean/               Cleaned datasets produced by the notebook
+EDA Part 1.ipynb     Main exploratory analysis notebook
+main.py              Entry point
+pyproject.toml       Project metadata and dependencies
+uv.lock              Locked dependency versions
+```
 
-## Metadata.json structure
+## Getting started
 
-The .metadata.json file contains metadata about the data package. The "charts" key contains information to recreate the chart, like the title, subtitle etc. The "columns" key contains information about each of the columns in the csv, like the unit, timespan covered, citation for the data etc.
+1. Clone the repository:
 
-## How we process data at Our World in Data
+```
+git clone https://github.com/taylorlegodi/patents-itdpa-eda.git
+cd patents-itdpa-eda
+```
 
-Our World in Data is almost never the original producer of the data - almost all of the data we use has been compiled by others. If you want to re-use data, it is your responsibility to ensure that you adhere to the sources' license and to credit them correctly. Please note that a single time series may have more than one source - e.g. when we stitch together data from different time periods by different producers or when we calculate per capita metrics using population data from a second source.
+2. Install dependencies with [uv](https://docs.astral.sh/uv/):
 
-Preparing this data involves several processing steps. Depending on the data, this can include standardizing country names and world region definitions, converting units, calculating derived indicators such as per capita measures, as well as adding or adapting metadata such as the name or the description given to an indicator.
-[Read about our data pipeline](https://docs.owid.io/projects/etl/).
+```
+uv sync
+```
 
-## Detailed information about the data
+3. Open `EDA Part 1.ipynb` in VS Code or Jupyter and run all cells.
 
+## Tools
 
-### AI scholarly publications per million people - Field: All
-Scholarly publications on AI per million people, including journal articles, conference papers, working papers, and preprints. The data only covers articles with an English-language title or abstract.
-Last updated: April 27, 2026  
-Next expected update: October 2026  
-Date range: 2016–2024  
-Unit: publications per million people  
-Source: Center for Security and Emerging Technology (2026); Population based on various sources (2024) – with major processing by Our World in Data  
+Python 3.14, pandas, Jupyter and uv.
 
-#### How to cite this data
+## Data sources
 
-Center for Security and Emerging Technology (2026); Population based on various sources (2024) – with major processing by Our World in Data
+Add the source of each dataset here, along with any licence or usage terms.
 
-#### What you should know about this data
-- The data covers scholarly publications on AI, including journal articles, conference papers, working papers, and preprints.
-- Articles are flagged as AI-related using machine learning models trained on subject tags from arXiv, an open repository for scientific papers.
-- The models only run on articles with English titles or abstracts. Research published only in other languages is missed. Coverage of Chinese research is also limited, since many Chinese journals are not in the underlying sources.
-- An article counts for a country if at least one of its authors is affiliated with an institution there. If authors are based in different countries, it counts once for each.
-- Authors are linked to the country of the institution they worked at when the article was published, not their country of origin.
+## Author
 
-#### Notes on our processing step for this indicator
-We divided the source's country-level figures by population to calculate per-million-people values.
-
-
-## Sources
-
-These are the sources behind the data in this package. Each time series above names the ones it draws on in its citation.
-
-### Center for Security and Emerging Technology – Country Activity Tracker: Artificial Intelligence
-
-ETO's Country AI Activity Metrics dataset includes national-level metrics for AI-related research, patents, and private-market investment.
-
-The metrics are derived from a variety of underlying data sources, including ETO's Merged Academic Corpus for research data; The Lens, PATSTAT, and 1790 Analytics for patents; and Crunchbase for company and investment data.
-
-The dataset focuses on countries, not organizations or individuals, and on AI and its subfields. There are many ways to assess countries' AI activities, and the three types of metrics included here, while meaningful, are not exhaustive. The data also has a lag, making counts incomplete for recent years; the lag is especially significant for patent data.
-
-Producer: Center for Security and Emerging Technology  
-Published: 2026-03-19  
-Retrieved on: 2026-04-27  
-Retrieved from: https://cat.eto.tech/  
-Direct download: https://zenodo.org/records/19103157/files/cat.zip?download=1  
-License: CC BY-NC 4.0 (https://eto.tech/tou/)  
-
-Citation: Emerging Technology Observatory [Country Activity Tracker: Artificial Intelligence](https://cat.eto.tech/?expanded=Summary-metrics)
-
-### Various sources – Population
-
-Our World in Data builds and maintains a long-run dataset on population by country, region, and for the world, based on various sources.
-
-You can find more information on these sources and how our time series is constructed on this page: https://ourworldindata.org/population-sources
-
-Producer: Various sources  
-Published: 2024-07-15  
-Retrieved on: 2026-03-31  
-Retrieved from: https://ourworldindata.org/population-sources  
-License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)  
-
-Citation: The long-run data on population is based on various sources, described on this page: https://ourworldindata.org/population-sources
-
-    
+Lethabo Legodi
+GitHub: [taylorlegodi](https://github.com/taylorlegodi)    
